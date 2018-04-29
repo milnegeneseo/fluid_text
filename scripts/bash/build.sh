@@ -2,7 +2,7 @@
 
 # FLUID TEXT PROJECT FOLDER (be sure to include final back slash )
 # PROJFO='/Users/easterly/Documents/technical-services/fluid_text/'
-PROJFO='/home/hypolymer/Desktop/test/'
+PROJFO='/usr/local/bin/fluid_text/'
 
 # Launch variables
 while getopts s:h: option
@@ -21,7 +21,7 @@ BSHLOC="$PROJFO"'scripts/bash/'
 VMALOC="$PROJFO"'versioning_machine/'
 if [ -z $ALTSOURCE ]; then 
 	#TEILOC='/Users/easterly/Documents/technical-services/fluid_text/tei/'
-	TEILOC='/home/hypolymer/Desktop/test/tei/'	
+	TEILOC='/usr/local/bin/fluid_text/tei/'	
 else
 	TEILOC="$ALTSOURCE"
 fi
