@@ -1,0 +1,781 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,700,600&subset=latin,latin-ext);
+
+body {
+   width: 100%;
+   margin: 0;
+   padding: 0;
+   font-size: 13px;
+   width: 100%;
+   min-width: 770px;
+  background: #000000;
+   font-family: 'Open Sans',sans-serif;
+}
+a:link;a:visited {
+font-family: 'Open Sans',sans-serif;	
+}
+a:active{
+	color:black;
+}
+
+textarea:focus, input:focus, select:focus{
+    outline: 0;
+}
+
+*:focus {
+    outline: 0;
+}
+
+h2, h3, h4, h5, h6 {
+   color: #003366;
+   line-height: 125%;
+   font-family: 'Open Sans',sans-serif;
+}
+h2 { font-size: 18px; }
+h3 { font-size: 16px; }
+h4 { font-size: 15px; }
+h5 { font-size: 14px; }
+h6 { font-size: 13px; }
+
+/* ul reset LMRoot */
+ul{
+
+margin-left:5px;
+padding:5px 10px;
+}
+
+div#mainBanner {
+   position: relative;
+   top: 0;
+   left: 0;
+/*   width: 68.69em;*/
+/*   min-width: 770px;*/
+  min-height: 120px;
+}
+div#mainBanner div#brandingLogo {
+   position: absolute;
+   top: 0;
+ left: 0.9em;
+   height: 5.34em;
+   min-height: 70px;*/
+   min-height: 90px;
+
+background: #000000;
+}
+div#mainBanner div#brandingLogo img {
+   border: none;
+   padding: 0;
+    margin: 0.6em auto 0 auto;
+}
+div#mainBanner div#headline {
+   position: absolute;
+top: 70px;
+left: 1.45em;
+/*left: 37.38em;*/
+ /*left: 0.9em;*/
+/*   width: 46.7em;*/
+ /*  height: 6.21em;*/
+   font-family: 'Open Sans',sans-serif;
+/*   line-height: 6.21em;*/
+border:none;
+border:0px;
+    padding:  0 0 0.53em;
+   margin: 0;
+   color: #CC0000;
+}
+div#mainBanner div#headline h1 {
+
+   font-size: 1.4em;
+   font-weight: 600;
+   color:#fff;
+   text-decoration:none;
+   cursor: pointer;
+    margin: 0.4em 0.53em 0 0;
+   padding: 0;
+   font-family: 'Open Sans',sans-serif;
+}
+div#mainBanner div#headline span.versionCount {
+   font-size: 1.07em;
+   font-style: italic;
+}
+
+div#mainBanner img#topEdge {
+   display:none;
+   visibility:hidden;
+}
+div#mainBanner div#mainControls {
+ position: absolute;
+  /* top: 2.21em;*/
+top: 1.5em;
+left: 38.28em;
+/*  left: 73.08em;
+   min-height: 32px;
+   height: 2.81em;*/
+/*   line-height: 2.81em;*/
+   border-top: none;
+   border-right: none;
+   border-bottom: none;
+   border-left: none;
+   margin: 0;
+/*   padding: 0.455em;*/
+   white-space: nowrap;
+   list-style:none;
+   text-decoration:none;
+}
+
+input#newPanel{
+   padding:12px;
+	margin:0px 0px 5px 3px;
+	border: none;
+	border:0px;
+	width : 60px;
+	background:transparent url("../vm-images/addColumn-01.png") left no-repeat;
+	text-decoration:none;
+}
+
+
+
+input#bibToggle{
+   padding:12px;
+	margin:0px 0px 5px 3px;
+	border:0px;
+	border: none;
+	width : 60px;
+	background:transparent url("../vm-images/biblioButton-01.png") left no-repeat;		
+	text-decoration:none;
+}
+
+input#helpToggle{
+   padding:12px;
+	margin:0px 0px 5px 3px;
+	border:0px;
+	border: none;
+	width : 60px;
+	background:transparent url("../vm-images/helpButton-01.png") left no-repeat;		
+	text-decoration:none;
+}
+select#notesMenu{
+	padding:12px;
+	margin:5px 0px 0px 3px;
+	border:0px;
+	border: none;
+	width: 150px;
+	background: black url("../vm-images/toggleNotes-01.png") left no-repeat ;
+	text-decoration:none;
+	color: white;
+	font-size: 1.2em;
+	line-height: 1.2em;
+}
+
+
+
+
+div#mssArea {
+   width: 100%;
+   margin: 0;
+   padding: 0;
+}
+div#mssArea div#manuscripts {
+   float: left;
+   border: 0;
+   margin: 0;
+   padding: 0;
+}
+div#mssArea div.panel {
+   float: left;
+/*border-right: 1px solid #565656;*/
+   min-height: 250px;
+   margin: 0;
+   padding: 0;
+}
+
+div#mssArea div#bibPanel,
+div#mssArea div#notesPanel,
+/*div#mssArea div.panel div.panelBanner,*/
+/*div#mainBanner div#headline,*/
+.viewerHandle {
+/*   background: #6699CC;*/
+background: #000000;
+}
+
+div#mainBanner div#headline{
+	
+}
+
+div#mssArea div.panel div.panelBanner {
+   height: 1.9em;
+   line-height: 1.9em;
+   margin: 0;
+   padding: 4px 7px 4px 10px;
+   font-family: sans-serif;
+   color: #fff;
+   font-weight: 800;
+   background: #3A3A3C;
+   /* IE10 Consumer Preview */ 
+	background-image: -ms-linear-gradient(top, #565656 0%, #3A3A3C 100%);
+	/* Mozilla Firefox */ 
+	background-image: -moz-linear-gradient(top, #565656 0%, #3A3A3C 100%);
+	/* Opera */ 
+	background-image: -o-linear-gradient(top, #565656 0%, #3A3A3C 100%);
+	/* Webkit (Safari/Chrome 10) */ 
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #565656), color-stop(1, #3A3A3C));
+	/* Webkit (Chrome 11+) */ 
+	background-image: -webkit-linear-gradient(top, #565656 0%, #3A3A3C 100%);
+	/* W3C Markup, IE10 Release Preview */ 
+	background-image: linear-gradient(to bottom, #565656 0%, #3A3A3C 100%);   
+ /*  border-right:1px solid #3A3A3C;*/
+ 
+-webkit-box-shadow: 4px 4px 8px 2px rgba(0,0,0,0.3);
+-moz-box-shadow: 4px 4px 8px 2px rgba(0,0,0,0.3);
+box-shadow: 4px 4px 8px 2px rgba(0,0,0,0.3);
+}
+div#mssArea div.panel div.panelBanner select.witnessMenu {
+   width: 160px;
+}
+div#mssArea div.mssPanel {
+   background: white;
+   border-right: 1px solid #565656;
+}
+div#mssArea div.mssPanel div.panelBanner {
+
+}
+div#mssArea div.panel div.panelBanner img.closePanel,
+div#tocContent img.closePanel,div#helpContent img.closePanel
+ {
+   float: right;
+   margin-right: 20px;
+   cursor: pointer;
+}
+   
+div#mssArea div.panel div.mssContent {
+   margin: 10px;
+   padding: 0;
+   line-height: 20px;
+max-height: 732px;
+	overflow-y: scroll;
+
+}
+
+div#mssArea div.panel div.mssContent div.mssImages {
+   float: right;
+   width: 24px;
+   height: 24px;
+   margin: 0;
+}
+div#mssArea div.panel div.mssContent img.imageLink {
+   float: right;
+   width: 24px;
+   height: 24px;
+   margin: 0;
+   cursor: pointer;
+}
+div#mssArea div.panel div.bibContent,
+div#mssArea div.panel div.noteContent {
+ /*  font-family: sans-serif;*/
+   margin: 0 10px 10px 10px;
+   line-height: 16px;
+   font-size: 11px;
+   border: thin solid black;
+   background: white;
+}
+div#mssArea div.panel div.bibContent {
+   padding: 10px;
+}
+div#mssArea div.panel div.noteContent {
+   padding: 10px 10px 10px 20px;
+}
+div#mssArea div.panel div#noNotesFound {
+   display: none;
+   font-weight: 800;
+}
+div#mssArea div.panel div.noteContent div.witnesses {
+   float: right;
+   margin-left: 0.5em;
+   color: #990000;
+   font-style: italic;
+}
+div#mssArea div.panel div.noteContent div.position {
+   color: #000066;
+   text-decoration: underline;
+   cursor: pointer;
+   margin-left: -10px;
+}
+
+div.bibContent ul {
+	list-style: none;
+}
+
+
+div.head,
+div.line,
+div.paragraph {
+   clear: both;
+}
+div.line {
+   margin: 0 4em 0 2.5em;
+   padding: 0;
+   cursor: pointer;
+}
+div.line div.linenumber,
+div.line div.emptynumber {
+   float: left;
+   margin-left: -2.5em;
+   width: 2em;
+   background: white;
+}
+div.line div.linenumber {
+   text-align: right;
+   color: #003366;
+   text-decoration: underline;
+   cursor: pointer;
+}
+div.head {
+   font-family:'Open Sans', sans-serif;
+   font-size: 115%;
+   font-weight:700;
+   color: #003366;
+}
+
+div.epigraph {
+   text-align: center;
+   margin: 4px 25px;
+   font-size: 85%; 
+}
+table.mssTable {
+   margin: 0 auto 0 auto;
+}
+table.mssTable td {
+   padding: 0 7px;
+}
+
+span.noteicon_header,
+span.noteicon,
+span.choice,
+span.rdgGrp {
+   cursor: pointer;
+ /*  position: relative;*/
+   z-index: 24;
+}
+
+span.choice,
+span.rdgGrp {
+   border-bottom: thin dashed #666;
+}
+
+
+span.noteicon_header {
+ font-weight:700;
+ font-size:100%;
+ color:#777777;
+}
+
+div.head span.noteicon_header {
+/*font-size: 74% !important;*/
+}
+
+span.noteicon {
+   bottom: 7px;
+   margin-left: 6px;
+   margin-right: 6px;
+
+font-size:100%;
+   color: #003366;
+   border-bottom: 1px solid #000066;
+}
+div.head span.noteicon {
+font-size: 85% !important;
+}
+
+
+span.noteicon_header div.note,
+span.noteicon div.note,
+span.choice div.corr,
+span.rdgGrp div.altRdg {
+   display: none;
+}
+
+span.noteicon_header div.note,
+span.noteicon div.note {
+   text-decoration: none !important;
+}
+
+/*popup notes */
+
+span.noteicon_header:hover {
+  z-index: 30 !important;	
+}
+span.noteicon:hover,
+span.choice:hover,
+span.rdgGrp:hover {
+   z-index: 30 !important;
+}
+
+span.noteicon_header:hover div.note {
+ display: block;
+ position: absolute;
+  top: 150px;
+   padding: 7px 15px;
+   text-decoration: none;
+   font-size: 105% !important;
+   color: black;
+   border: thick solid #003366;
+   background: white;
+   font-weight: 400 !important;
+   	
+}
+
+span.noteicon:hover div.note,
+span.noteicon_header:hover div.note,
+span.choice:hover div.corr,
+span.rdgGrp:hover div.altRdg {
+
+   display: block;
+   position: absolute;
+   top: 150px;
+  padding: 7px 15px;
+   text-decoration: none;
+font-size: 105% !important;
+   color: black;
+   border: thick solid #003366;
+   background: white;
+   font-weight: 400 !important;
+}
+span.noteicon:hover div.note {
+  min-width:100px;
+  max-width: 230px;
+  font-size: 105% !important;
+width:20%;
+   background: white;
+}
+
+span.noteicon_header:hover div.note {
+   min-width:100px;
+   max-width: 230px;
+font-size: 105% !important;
+width:20%;
+   background: white;
+}
+span.choice:hover div.corr,
+span.rdgGrp:hover div.altRdg {
+   left: 0;
+   min-width: 175px;
+   max-width: 350px;
+   background: white;
+   font-size: 90%;
+}
+
+div.paragraph {
+   padding: 4px 0;
+   margin: 6px 0 6px 0;
+   font-family:'Open Sans', sans-serif;
+   font-weight:400;
+ /*  font-size:14px;*/
+   font-size:98%;
+}
+div.mssContent div.paragraph {
+   margin: 6px 30px 6px 20px;
+}
+
+em.label {
+   color: #009900;
+   font-style: italic;
+   font-weight: 800;
+   text-transform: capitalize;
+}
+del {
+   text-decoration: line-through;
+   color: #330000;
+}
+ins {
+   text-decoration: none;
+   color: #009900;
+}
+span.unclear { color: #666666; }
+
+span.supplied { color: #800000; }
+
+span.inferred { background-color: #eeeeee;
+                color: #000000; }
+
+.rend-underline, .rend-underscore { 
+font-style:normal; 
+text-decoration: underline;
+}
+.rend-italics, .rend-italic { 
+/*   font-family:'Open Sans', sans-serif;*/
+   font-style: italic; }
+.rend-bold { 
+/*   font-family:'Open Sans', sans-serif;*/
+   font-weight: bold;
+}
+.rend-overstrike, .rend-strikethrough, .rend-strike { text-decoration: line-through; }
+
+.rendition-pencil { color: #808000; }
+
+/* COLOR KEY */
+.key-gray {color: #000000; background: #999999; }
+.key-red { color: #800000; }
+.key-green { color: #009900; }
+.key-olive { color: #808000; }
+.key-black { color: #000000; background:white; }
+.key-strikethrough { text-decoration: line-through; }
+
+.place-above,
+.rend-superscript {
+   vertical-align: super;
+   font-size: 85%;
+   line-height: 0;
+}
+.place-below {
+   vertical-align: sub;
+   font-size: 85%;
+   line-height: 0;
+}
+
+br.stanzabreak,
+div.type-stanza {
+   margin-bottom: 25px;
+}
+.pagebreak {
+   margin: 10px auto 10px auto;
+   clear: right;
+}
+
+.clickable { cursor: pointer; }
+.highlighted {
+   font-weight: 800;
+   background: #FAFAD2;
+}
+
+
+
+.viewerRoot {
+   position: absolute;
+   width: 38.11em;
+   background-color: white;
+   border: 0.08em solid black;
+   font-family: sans-serif;
+   visibility: hidden;
+   cursor: move;
+ /*  z-index: 999;*/
+}
+.viewerHandle {
+   clear: both;
+   margin: 0;
+   padding: 0.32em;
+   height: 1.4em;
+   line-height: 1.4em;
+   color: black;
+   font-weight: 800;
+   font-family: sans-serif;
+   overflow: hidden;
+}
+span.viewerHandleLt {
+   float: left;
+   text-align:left;
+}
+.viewerHandleRt {
+   float: right;
+   text-align: right;
+   cursor: pointer;
+   height: 1.22em;
+   width: 1.22em;
+   margin: 0;
+}
+.viewerContent {
+   margin: 0 0.16em 0.16em 0.16em;
+   padding: 0 0.16em 0.16em 0.16em;
+   overflow: hidden;
+}
+.viewerContent img {
+   display: block;
+   margin: 0 auto 0 auto;
+   border: none;
+   max-width: 37.5em;
+   max-height: 37.5em;
+}
+.figure img {
+    width:120px;
+}
+/**ADDDED Leah M Root**/
+div#bibPanel{
+	display:none;	
+}
+
+/***New IDs, styles, and javascript functions by Leah M Root. some ul dropdown styles roughly snagged from dropdown menu by Stephen Morley - and released under
+the terms of the CC0 1.0 Universal legal code: ****/
+
+#toggleHelp, .toggleHelp{
+/*   padding:22px;*/
+	border:0px;
+	border: none;
+	width : 50px;
+/*	background:transparent url("../vm-images/toggleHelp.png") left no-repeat;		*/
+	text-decoration:none;
+}
+
+
+#toggleTOC, .toggleTOC {
+/*   padding:22px;
+	margin:0px 0px 5px 3px;*/
+	border:0px;
+	border: none;
+	width : 57px;
+/*	background:transparent url("../vm-images/biblioButton-01.png") left no-repeat;*/
+	text-decoration:none;
+	}
+
+#newPanel, .newPanel {
+  /* padding:22px;*/
+	border:0px;
+	border: none;
+	width : 50px;
+/*background:transparent url("../vm-images/addVersion.png") left no-repeat;*/
+	text-decoration:none;
+	}	
+
+
+#notesMenu, .notesMenu, #notesMenu_popup, #notesMenu_none {
+/* padding:22px;*/
+	margin:0px 0px 5px 3px;
+	border:0px;
+	border: none;
+	width : 65px;
+/*background: black url("../vm-images/toggleNotes.png") left no-repeat ;*/
+	text-decoration:none;
+	}	
+	
+
+#userGuide, .userGuide {
+	border:0px;
+	border: none;
+	width : 45px;
+/*background: black url("../vm-images/userGuide.png") left no-repeat ;*/
+	text-decoration:none;
+}
+
+#returnProjectPage, .returnProjectPage {
+	border:0px;
+	border: none;
+	width : 74px;
+/*background: black url("../vm-images/returnProjectPage.png") left no-repeat ;*/
+	text-decoration:none;
+}
+	
+	
+	
+ #helpContent{
+ position:absolute;
+right: 370px;
+top: 110px;
+ width:36em;
+ border : 1px solid #3a3a3c;
+background : #181818;
+-webkit-box-shadow: 4px 4px 10px 4px rgba(0,0,0,0.6);
+-moz-box-shadow: 4px 4px 10px 4px rgba(0,0,0,0.6);
+box-shadow: 4px 4px 10px 4px rgba(0,0,0,0.6);
+border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+padding: 0.2em 0 0.5em 0;
+display:none;
+z-index:33;
+ }
+ 
+
+#tocContent	{
+position:absolute;
+top: 110px;
+width: 21em;	
+border : 1px solid #3a3a3c;
+background : #181818;
+-webkit-box-shadow: 4px 4px 10px 4px rgba(0,0,0,0.6);
+-moz-box-shadow: 4px 4px 10px 4px rgba(0,0,0,0.6);
+box-shadow: 4px 4px 10px 4px rgba(0,0,0,0.6);
+border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+padding: 0.2em 0 0.5em 0;
+display:none;
+z-index:35;
+}
+
+#tocContent > li{
+  text-align : left;
+  list-style:none;
+}
+
+
+ul .dropdown 
+{/*
+  left : -1px;*/
+  margin:0;
+}
+
+.dropdown li{
+	list-style:none;
+	font-size: 1.0em;
+line-height:1.5em;
+color  : white;
+}
+
+.dropdown h4{
+font-family :  font-family: 'Open Sans',sans-serif;
+font-size: 1.1em;
+line-height:1.1em;
+font-weight: 700;
+color  : white;
+margin: 0 0 0.9em 0;
+
+}
+
+.dropdown h5{
+font-family :  font-family: 'Open Sans',sans-serif;
+font-size: 1em;
+font-weight: 400;
+color  : white;
+margin: 0;
+}
+
+
+
+ .dropdown a{
+	color: white;
+	text-decoration:none;
+}
+
+.dropdown p{
+	color: white;	
+	font-size: 1.0em;
+	line-height: 1.1em;
+	margin-bottom: 0.4em;
+}
+
+.dropdown span {
+  font-family :  font-family: 'Open Sans',sans-serif;
+  font-weight: 400;
+  text-shadow : 0 0 0.125em rgba(0,0,0,0.25);
+  cursor      : pointer;
+  transition  : background 0.2s;
+
+}
+
+
+.dropdown li:hover > span,
+.dropdown li.dropdownOpen > span
+{
+ background-color : #3a3a3c;
+  color: white;
+   font-weight: 600;
+   padding:0 8px 0 0.5em;
+}
+
+.dropdown > li > span{
+/*padding    : 0 24px 0 0.5em;*/
+/*background : url("../vm-images/arrow-down.svg") no-repeat right 13px;*/
+}
+
+
+.dropdown ul span{
+/*   padding    : 0 26px 0 0.5em;
+ background : url("../vm-images/arrow-right.svg") no-repeat right 11px;*/
+}

@@ -1,0 +1,72 @@
+.body_content{
+    width:700px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.dict_title{
+    font-size:xx-large;
+    font-weight:bold;
+    margin-top:50px;
+}
+.entry_heading{
+    background-color:#dddddd;
+    padding-top:0.5em;
+    margin-top:1.5em;
+}
+.entry_heading_name{
+    font-size:large;
+    font-weight:700;
+    font-size:large;
+}
+.entry_count{
+    width:50px;
+    display:inline-block;
+    float:right;
+    text-align:right;
+    padding-right:0.5em;
+    font-size:medium;
+}
+.entry_contents{
+    font-size:medium;
+}
+.entry_contents_tei{
+    font-size:medium;
+    margin-top:.5em;
+
+}
+.tei_description{
+    font-size:medium;
+}
+.definition_marker{
+    font-weight:bold;
+}
+.tei_link{
+    font-size:medium;
+    font-style:italic;
+}
+
+.entry_contents_local{
+    font-size:medium;
+    margin-top:.5em;
+
+}
+.local_description{
+    font-size:medium;
+}
+.entry_struct_notes{
+    font-size:medium;
+    margin-top:0em;
+    margin-left:0.5em;
+}
+.struct_note_marker{
+    font-weight:600;
+}
+.entry_local_contained_by{
+    font-size:medium;
+}
+.entry_local_may_contain{
+    font-size:medium;
+}
+.entry_local_attributes{
+    font-size:medium;
+}

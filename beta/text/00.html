@@ -1,0 +1,455 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   
+      <title>Walden: Title Page</title>
+      <link rel="stylesheet" type="text/css" href="../src/vmachine.css">
+      <!--[if IE 6]>
+            <link rel="stylesheet" type="text/css" href="../src/vmachine_ie6.css">
+         <![endif]--><script type="text/javascript" src="../src/vmachine.js"></script><script type="text/javascript">
+      var witnesses = new Array();
+      
+      var maxPanels = 0;
+   </script></head>
+   <body onload="init();">
+      <div id="mainBanner">
+         <div id="brandingLogo"><img id="logo" alt="Walden: A Fluid Text Edition" src="../vm-images/walden-fluid-text-edition-logo.png">
+         <a href="http://v-machine.org"><img id="poweredby" alt="Powered by the Versioning Machine" src="../vm-images/poweredbyVM.png"></a>
+         <div id="headline">
+              <h1 onclick="toggle_visibility('tocContent');">Walden: Title Page</h1>
+         </div><!--div headline -->
+         </div><!-- end div brandingLogo -->
+         <div id="mainControls"><a class="newPanel" href="#" onclick="openPanel();"><img src="../vm-images/addVersion.png" alt="Add Version"></a>
+                  <!--Show/Hide Notes -->
+         <a href="javascript: void(0)" id="notesMenu_popup" onClick="notesFormatToggle('popup')" style="display:none;"><img src="../vm-images/toggleNotes.png" alt="Show/Hide Notes"></a><a href="javascript: void(0)" id="notesMenu_none" onClick="notesFormatToggle('none')"><img src="../vm-images/toggleNotes.png" alt="Show/Hide Notes"></a>
+         <a class="toggleTOC" href="#" alt="Table of Contents" onclick="toggle_visibility('tocContent');"><img id="toggleTOC" src="../vm-images/toggleTOC.png"></a><div id="tocContent"><img class="closePanel" onclick="this.parentNode.style.display = 'none';" src="../vm-images/closePanel.gif" alt="X"><ul class="dropdown">
+         <li><h4>Table of Contents</h4></li>
+                  <li><h4>Chapters</h4></li>
+                  <li><span><a href="01.html">1. Economy</a></span></li>
+                  <li><span><a href="02.html">2. Where I Lived, and What I Lived For</a></span></li>
+                  <li><span><a href="03.html">3. Reading</a></span></li>
+                  <li><span><a href="04.html">4. Sounds</a></span></li>
+                  <li><span><a href="05.html">5. Solitude</a></span></li>
+                  <li><span><a href="06.html">6. Visitors</a></span></li>
+                  <li><span><a href="07.html">7. Bean Field</a></span></li>
+                  <li><span><a href="08.html">8. Village</a></span></li>
+                  <li><span><a href="09.html">9. Ponds</a></span></li>
+                  <li><span><a href="10.html">10. Baker Farm</a></span></li>
+                  <li><span><a href="11.html">11. Higher Laws</a></span></li>
+                  <li><span><a href="12.html">12. Brute Neighbors</a></span></li>
+                  <li><span><a href="13.html">13. House-Warming</a></span></li>
+                  <li><span><a href="14.html">14. Inhabitants</a></span></li>
+                  <li><span><a href="15.html">15. Winter Animals</a></span></li>
+                  <li><span><a href="16.html">16. Pond In Winter</a></span></li>
+                  <li><span><a href="17.html">17. Spring</a></span></li>
+                  <li><span><a href="18.html">18. Conclusion</a></span></li>
+               </ul></div><!--end div tocContent -->
+         <a class="toggleHelp" href="#" alt="Help" onclick="toggle_visibility('helpContent');"><img id="toggleHelp" src="../vm-images/toggleHelp.png"></a><div id="helpContent"><img class="closePanel" onclick="this.parentNode.style.display = 'none';" src="../vm-images/closePanel.gif" alt="X"><ul class="dropdown">
+         <li><h4>Key</h4></li>
+                  <p><span class="key-black"><strong>Black</strong></span>  =  Unchanged text through the Princeton Ed.</p>
+                  <p><span class="key-gray"><strong>Gray background</strong></span>  =  inferred text (interpolated, not in apparatus)</p>
+                  <p><span class="key-red"><strong>Red</strong></span>  =  supplied text (interpolated, not in manuscripts)</p>
+                  <p><span class="key-green"><strong>Green</strong></span>  =  interlined in ink.</p>
+                  <p><span class="key-olive"><strong>Olive</strong></span>  =  interlined in pencil.</p>
+                  <p><span class="key-strikethrough"><strong>Strikethrough</strong></span>  =  cancelled text.</p><p><br/></p>
+               <li><h4>List of Versions</h4></li>
+                  <p><strong>Princeton_Ed:</strong> Princeton Ed. of Walden</p>
+                  <p><strong>Version_A:</strong> Walden, Version A (1847)</p>
+                  <p><strong>Version_B:</strong> Walden, Version B (1849)</p>
+                  <p><strong>Version_C:</strong> Walden, Version C (1849)</p>
+                  <p><strong>Version_D:</strong> Walden, Version D (1852)</p>
+                  <p><strong>Version_E:</strong> Walden, Version E (late 1852 - 1853)</p>
+                  <p><strong>Version_F:</strong> Walden, Version F (1853-1854)</p>
+                  <p><strong>Version_G:</strong> Walden, Version G (1854)</p><p><br/></p>
+               <li><h4><a href="http://goo.gl/rlNn64" target="_blank">Report an Issue</a></h4> </li><p><br/></p>
+                <li><h4>Publication Details:</h4></li><p>This work is licensed under a Creative Commons<br/>Attribution-ShareAlike 3.0 Unported License.</p>
+                  </ul>
+            </div><!--end div helpContent -->
+            <a class="userGuide" alt="User Guide" href="http://www.digitalthoreau.org/fluid-text/guide/"><img id="userGuide" src="../vm-images/userGuide.png"></a>
+            <a class="returnProjectPage" alt="Return to FluidText Project Page" href="http://www.digitalthoreau.org/fluid-text/"><img id="returnProjectPage" src="../vm-images/returnProjectPage.png"></a>
+         </div><!-- end div mainControls -->
+      </div>
+      <div id="mssArea">
+         <div class="panel" id="bibPanel">
+            <div class="panelBanner"><img class="closePanel" onclick="toggleBiblio();" alt="X" src="../vm-images/closePanel.gif">
+               Bibliographic Information
+               
+            </div>
+            <!-- <div class="bibContent">
+               <h2>Economy</h2>
+               <h4>Chapters</h4>
+               <ul>
+                  <li><a href="01.html">1. Economy</a></li>
+                  <li><a href="02.html">2. Where I Lived</a></li>
+                  <li><a href="03.html">3. Reading</a></li>
+                  <li><a href="04.html">4. Sounds</a></li>
+                  <li><a href="05.html">5. Solitude</a></li>
+                  <li><a href="06.html">6. Visitors</a></li>
+                  <li><a href="07.html">7. Bean Field</a></li>
+                  <li><a href="08.html">8. Village</a></li>
+                  <li><a href="09.html">9. Ponds</a></li>
+                  <li><a href="10.html">10. Baker Farm</a></li>
+                  <li><a href="11.html">11. Higher Laws</a></li>
+                  <li><a href="12.html">12. Brute Neighbors</a></li>
+                  <li><a href="13.html">13. House Warming</a></li>
+                  <li><a href="14.html">14. Inhabitants</a></li>
+                  <li><a href="15.html">15. Winter Animals</a></li>
+                  <li><a href="16.html">16. Pond In Winter</a></li>
+                  <li><a href="17.html">17. Spring</a></li>
+                  <li><a href="18.html">18. Conclusion</a></li>
+               </ul>
+               <p><em><a href="http://digitalthoreau.org/walden-a-fluid-text-edition/toc"></a></em></p>
+               <h4>Key</h4>
+               <ul>
+                  <li><span class="key-black">Black</span> = Unchanged text through the Princeton Ed.
+                  </li>
+                  <li><span class="key-gray">Gray</span> = inferred text (interpolated, not in apparatus)
+                  </li>
+                  <li><span class="key-red">Red</span> = supplied text (interpolated, not in manuscripts)
+                  </li>
+                  <li><span class="key-green">Green</span> = interlined in ink.
+                  </li>
+                  <li><span class="key-olive">Olive</span> = interlined
+                     in pencil.
+                  </li>
+                  <li><span class="key-strikethrough">Strikethrough</span> = cancelled text.
+                  </li>
+               </ul>
+               <h4>List of Versions</h4>
+               <ul>
+                  <li><strong>Princeton_Ed:</strong> Princeton Ed. of Walden
+                  </li>
+                  <li><strong>Version_A:</strong> Walden, Version A (1847)
+                  </li>
+                  <li><strong>Version_B:</strong> Walden, Version B (1849)
+                  </li>
+                  <li><strong>Version_C:</strong> Walden, Version C (1849)
+                  </li>
+                  <li><strong>Version_D:</strong> Walden, Version D (1852)
+                  </li>
+                  <li><strong>Version_E:</strong> Walden, Version E (late 1852 - 1853)
+                  </li>
+                  <li><strong>Version_F:</strong> Walden, Version F (1853-1854)
+                  </li>
+                  <li><strong>Version_G:</strong> Walden, Version G (1854)
+                  </li>
+               </ul>
+               <h4><a href="http://goo.gl/rlNn64" target="_blank">Report an Issue</a></h4>
+               <h5>Publication Details:</h5>
+               
+               
+               
+               <p>This work is licensed under a Creative Commons Attribution-ShareAlike 3.0
+                  Unported License.
+               </p>
+               
+               
+               
+               
+               
+
+            </div> -->
+         </div>
+         <div id="manuscripts">
+            <div class="panel mssPanel">
+               <div class="panelBanner"><img class="closePanel" onclick="closePanel(this.parentNode.parentNode);" src="../vm-images/closePanel.gif" alt="X">Version <select class="witnessMenu" onchange="changeWitness(this.value,this.parentNode.parentNode);"></select></div>
+               <div class="mssContent">
+                           
+                  <div class="div">
+                                 
+                                 
+                     <div class="line lined0e159" onclick="matchLine('lined0e159');">
+                        <div class="emptynumber">&nbsp;</div>Walden, or Life In the Woods, By Henry D. Thoreau;
+                     </div>
+                                 
+                     <div class="line lined0e162" onclick="matchLine('lined0e162');">
+                        <div class="emptynumber">&nbsp;</div>Author of "A Week on the Concord &amp; Merrimack Rivers"
+                     </div>
+                                 
+                     <div class="paragraph">
+                                       
+                        <ins>I do not propose to write an ode to dejection, but to brag as lustily as chanticleer in the morning,
+                                             standing on his roost, if only to wake my neighbors up.
+                        </ins>
+                                    
+                     </div>
+                                 
+                                 
+                     <div class="paragraph">
+                                       <em class="rend-italics">&#8220;The clouds, wind, moon, sun, and sky, act in cooperation, that thou mayest get thy daily bread,
+                                             and not eat it with indifference; all revolve for they sake, and are obedient to command; it must be
+                                             an equitable condition, that thou shalt be obedient also.&#8221;</em> &#8212;Sadi
+                     </div>
+                                 <span class="noteicon">n
+                        <div class="note"><strong>Note:</strong> 
+                                          <em class="rend-italics">&#8220;Where I have been / There was none seen&#8221;</em>
+                                          is interlined in pencil and <em class="rend-italics">&#8220;Walden or Life in the Woods by Henry Thoreau. Addressed to my
+                                                Townsmen&#8221;</em> is interlined in ink at the top of the first page of the manuscript.<em> (R. Clapper)</em></div></span>
+                                 <span class="noteicon">n
+                        <div class="note"><strong>Note:</strong> The quotation from Sadi (above) is written in the margin
+                                          and &#8220;Walden, or Life in the Woods. Addressed to my Townsmen. By Henry D. Thoreau&#8221; is written at the top
+                                          of the first leaf in the manuscript.<em> (R. Clapper)</em></div></span>
+                              
+                  </div>
+                           
+                  <div class="div">
+                                 
+                                 
+                     <div class="head">Contents</div>
+                                 
+                     <div>
+                                       
+                        <div>Economy</div>
+                                       
+                        <div>Where I Lived, and What I Lived for</div>
+                                       
+                        <div>Reading</div>
+                                       
+                        <div>Sounds</div>
+                                       
+                        <div>Solitude</div>
+                                       
+                        <div>
+                                             
+                           <del>Preface</del>
+                                             
+                           <ins class="rendition-pencil">Note</ins>
+                                          
+                        </div>
+                                       
+                        <div>Visitors</div>
+                                       
+                        <div>
+                                             
+                           <del>Nearly all of this volume was written eight or nine years ago in the scenery &amp; under the
+                                                   circumstances which it describes, and a considerable part was 
+                              <ins class="rendition-pencil">then</ins>
+                                                   read at that time 
+                              <del>as &#8230; lectures</del> before the Concord Lyceum. In what is now added
+                                                   the object has been chiefly to make it a completer &amp; truer account of 
+                              <del>that portion
+                                                         of
+                              </del> the author&#8217;s life.
+                           </del>
+                                          
+                        </div>
+                                       
+                        <div>
+                                             
+                           <del>Beans</del>
+                                             
+                           <ins class="rendition-pencil">The Bean-Field</ins>
+                                          
+                        </div>
+                                       
+                        <div>The Village</div>
+                                       
+                        <div>The Ponds</div>
+                                       
+                        <div>Baker Farm</div>
+                                       
+                        <div>
+                                             
+                           <del>Animal Food</del>
+                                             
+                           <ins class="rendition-pencil">Higher Laws</ins>
+                                          
+                        </div>
+                                       
+                        <div>
+                                             
+                           <del>Animals</del>
+                                             
+                           <ins class="rendition-pencil">Brute Neighbors</ins>
+                                          
+                        </div>
+                                       
+                        <div>House-warming </div>
+                                       
+                        <div>Winter Animals 
+                           <ins class="rendition-pencil">Former Inhabitants, &amp; Winter
+                                                   Visitors
+                           </ins>
+                                          
+                        </div>
+                                       
+                        <div>Former Inhabitants, &amp; Winter Visitors</div>
+                                       
+                        <div>The Pond in Winter</div>
+                                       
+                        <div>Spring</div>
+                                       
+                        <div>Conclusion</div>
+                                    
+                     </div>
+                              
+                  </div>
+                        
+               </div>
+            </div>
+            <div class="panel mssPanel">
+               <div class="panelBanner"><img class="closePanel" onclick="closePanel(this.parentNode.parentNode);" src="../vm-images/closePanel.gif" alt="X">Version <select class="witnessMenu" onchange="changeWitness(this.value,this.parentNode.parentNode);"></select></div>
+               <div class="mssContent">
+                           
+                  <div class="div">
+                                 
+                                 
+                     <div class="line lined0e159" onclick="matchLine('lined0e159');">
+                        <div class="emptynumber">&nbsp;</div>Walden, or Life In the Woods, By Henry D. Thoreau;
+                     </div>
+                                 
+                     <div class="line lined0e162" onclick="matchLine('lined0e162');">
+                        <div class="emptynumber">&nbsp;</div>Author of "A Week on the Concord &amp; Merrimack Rivers"
+                     </div>
+                                 
+                     <div class="paragraph">
+                                       
+                        <ins>I do not propose to write an ode to dejection, but to brag as lustily as chanticleer in the morning,
+                                             standing on his roost, if only to wake my neighbors up.
+                        </ins>
+                                    
+                     </div>
+                                 
+                                 
+                     <div class="paragraph">
+                                       <em class="rend-italics">&#8220;The clouds, wind, moon, sun, and sky, act in cooperation, that thou mayest get thy daily bread,
+                                             and not eat it with indifference; all revolve for they sake, and are obedient to command; it must be
+                                             an equitable condition, that thou shalt be obedient also.&#8221;</em> &#8212;Sadi
+                     </div>
+                                 <span class="noteicon">n
+                        <div class="note"><strong>Note:</strong> 
+                                          <em class="rend-italics">&#8220;Where I have been / There was none seen&#8221;</em>
+                                          is interlined in pencil and <em class="rend-italics">&#8220;Walden or Life in the Woods by Henry Thoreau. Addressed to my
+                                                Townsmen&#8221;</em> is interlined in ink at the top of the first page of the manuscript.<em> (R. Clapper)</em></div></span>
+                                 <span class="noteicon">n
+                        <div class="note"><strong>Note:</strong> The quotation from Sadi (above) is written in the margin
+                                          and &#8220;Walden, or Life in the Woods. Addressed to my Townsmen. By Henry D. Thoreau&#8221; is written at the top
+                                          of the first leaf in the manuscript.<em> (R. Clapper)</em></div></span>
+                              
+                  </div>
+                           
+                  <div class="div">
+                                 
+                                 
+                     <div class="head">Contents</div>
+                                 
+                     <div>
+                                       
+                        <div>Economy</div>
+                                       
+                        <div>Where I Lived, and What I Lived for</div>
+                                       
+                        <div>Reading</div>
+                                       
+                        <div>Sounds</div>
+                                       
+                        <div>Solitude</div>
+                                       
+                        <div>
+                                             
+                           <del>Preface</del>
+                                             
+                           <ins class="rendition-pencil">Note</ins>
+                                          
+                        </div>
+                                       
+                        <div>Visitors</div>
+                                       
+                        <div>
+                                             
+                           <del>Nearly all of this volume was written eight or nine years ago in the scenery &amp; under the
+                                                   circumstances which it describes, and a considerable part was 
+                              <ins class="rendition-pencil">then</ins>
+                                                   read at that time 
+                              <del>as &#8230; lectures</del> before the Concord Lyceum. In what is now added
+                                                   the object has been chiefly to make it a completer &amp; truer account of 
+                              <del>that portion
+                                                         of
+                              </del> the author&#8217;s life.
+                           </del>
+                                          
+                        </div>
+                                       
+                        <div>
+                                             
+                           <del>Beans</del>
+                                             
+                           <ins class="rendition-pencil">The Bean-Field</ins>
+                                          
+                        </div>
+                                       
+                        <div>The Village</div>
+                                       
+                        <div>The Ponds</div>
+                                       
+                        <div>Baker Farm</div>
+                                       
+                        <div>
+                                             
+                           <del>Animal Food</del>
+                                             
+                           <ins class="rendition-pencil">Higher Laws</ins>
+                                          
+                        </div>
+                                       
+                        <div>
+                                             
+                           <del>Animals</del>
+                                             
+                           <ins class="rendition-pencil">Brute Neighbors</ins>
+                                          
+                        </div>
+                                       
+                        <div>House-warming </div>
+                                       
+                        <div>Winter Animals 
+                           <ins class="rendition-pencil">Former Inhabitants, &amp; Winter
+                                                   Visitors
+                           </ins>
+                                          
+                        </div>
+                                       
+                        <div>Former Inhabitants, &amp; Winter Visitors</div>
+                                       
+                        <div>The Pond in Winter</div>
+                                       
+                        <div>Spring</div>
+                                       
+                        <div>Conclusion</div>
+                                    
+                     </div>
+                              
+                  </div>
+                        
+               </div>
+            </div>
+         </div>
+         <div class="panel" id="notesPanel" style="display: none;">
+            <div class="panelBanner"><img class="closePanel" onclick="hideNotesPanel();" alt="X" src="../vm-images/closePanel.gif">
+               Textual Notes
+               
+            </div>
+            <div class="noteContent"><strong>Note: </strong>
+                              <em class="rend-italics">&#8220;Where I have been / There was none seen&#8221;</em>
+                              is interlined in pencil and <em class="rend-italics">&#8220;Walden or Life in the Woods by Henry Thoreau. Addressed to my
+                                    Townsmen&#8221;</em> is interlined in ink at the top of the first page of the manuscript.
+            </div>
+            <div class="noteContent"><strong>Note: </strong>The quotation from Sadi (above) is written in the margin
+                              and &#8220;Walden, or Life in the Woods. Addressed to my Townsmen. By Henry D. Thoreau&#8221; is written at the top
+                              of the first leaf in the manuscript.
+            </div>
+            <div id="noNotesFound" class="noteContent">
+               Sorry, but there are no notes associated with
+               any currently displayed witness.
+               
+            </div>
+         </div><br class="clear"></div>
+      <div class="viewerRoot" id="panel_imageViewer">
+         <div title="Click to drag panel." class="viewerHandle" id="handle_imageViewer"><span class="viewerHandleLt" id="title_imageViewer">Image Viewer</span><img class="viewerHandleRt" onclick="return hidePanel('imageViewer');" alt="X" src="../vm-images/closePanel.gif"></div>
+         <div class="viewerContent" id="content_imageViewer"></div>
+      </div>
+   </body>
+</html>

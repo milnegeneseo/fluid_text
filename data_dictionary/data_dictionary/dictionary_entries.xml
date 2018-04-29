@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Data Dictionary for Walden: A Fluid Text Edition</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Walden: Fluid Text Edition is published by Digital Thoreau at The State University of New York College at Geneseo.</publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">
+                  <p>This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This Data Dictionary was written by Joe Easterly, Technical Lead for Digital Thoreau</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div corresp="ab" type="element">
+            <div type="entry"><span type="definition">Provides structural organization for header notes.</span></div>
+         </div>
+         <div corresp="add" type="element">
+            <div type="entry"><span type="definition">Indicates that the text enclosed with this tag appeared as inserted, interlined, etc. in the mentioned version. This does
+               not mean that the enclosed text first appeared, but rather that it had the appearance of being interlined in the corresponding manuscript
+               surface. Usage requirements: Must have an ancestor with either a @change, @ana, or @wit attribute.</span></div>
+         </div>
+         <div corresp="anchor" type="element">
+            <div type="entry">
+               <span type="definition">Identifies linking points for critical commentary drawn from Walter Harding's Walden: An Annotated Edition.</span>
+               <span type="usage">These anchor elements must have a @type of "hn" and an @xml:id value which points to a note element in a separate TEI
+                  file.</span>
+            </div>
+            <div type="entry">
+               <span type="definition">Used to identify cases where a paragraph was missing from the manuscripts.</span>
+               <span type="usage">These anchor elements must have a @type of "not-in-MS", and can only appear within notes with a type of "header".</span>
+               <span type="seeAlso">note</span>
+            </div>
+         </div>
+         <div corresp="app" type="element">
+            <div type="entry"><span type="definition">Corresponds to a critical apparatus in Ronald E. Clapper's <title>The Development of Walden: A Genetic Text</title>.</span></div>
+         </div>
+         <div corresp="availability" type="element"/>
+         <div corresp="body" type="element"/>
+         <div corresp="byline" type="element">
+            <span type="definition">Used only once, to encode the author of a poem at the end of Chapter 1: Economy.</span>
+         </div>
+         <div corresp="change" type="element"/>
+         <div corresp="choice" type="element"/>
+         <div corresp="corr" type="element"/>
+         <div corresp="creation" type="element"/>
+         <div corresp="del" type="element"/>
+         <div corresp="desc" type="element">
+            <div type="entry"><span type="definition">Used only once, to encode a description of a graphical figure appearing on the title page.</span></div>
+         </div>
+         <div corresp="div" type="element"/>
+         <div corresp="encodingDesc" type="element"/>
+         <div corresp="figure" type="element">
+            <div type="entry"><span type="definition">Used only once for a graphic appearing on the title page.</span></div>
+         </div>
+         <div corresp="fileDesc" type="element"/>
+         <div corresp="head" type="element"/>
+         <div corresp="hi" type="element"/>
+         <div corresp="item" type="element"/>
+         <div corresp="l" type="element"/>
+         <div corresp="lb" type="element"/>
+         <div corresp="lem" type="element"/>
+         <div corresp="lg" type="element"/>
+         <div corresp="license" type="element"/>
+         <div corresp="list" type="element"/>
+         <div corresp="listChange" type="element"/>
+         <div corresp="listPerson" type="element"/>
+         <div corresp="name" type="element"/>
+         <div corresp="note" type="element"/>
+         <div corresp="notesStmt" type="attribute"/>
+         <div corresp="orig" type="element"/>
+         <div corresp="p" type="element"/>
+         <div corresp="persName" type="element"/>
+         <div corresp="personGrp" type="element"/>
+         <div corresp="phr" type="element"/>
+         <div corresp="placeName" type="element"/>
+         <div corresp="profileDesc" type="element"/>
+         <div corresp="publicationStmt" type="element"/>
+         <div corresp="publisher" type="element"/>
+         <div corresp="quote" type="element"/>
+         <div corresp="rdg" type="element"/>
+         <div corresp="reg" type="element"/>
+         <div corresp="seg" type="element"/>
+         <div corresp="sic" type="element"/>
+         <div corresp="sourceDesc" type="element"/>
+         <div corresp="space" type="element"/>
+         <div corresp="span" type="element"/>
+         <div corresp="ana" type="attribute">
+            <span type="maycontain">[uri]</span>
+         </div>
+         <div corresp="change" type="attribute">
+            <span type="maycontain">[uri]</span>
+         </div>
+         <div corresp="n" type="attribute">
+            <span type="maycontain">[string]</span>
+         </div>
+         <div corresp="wit" type="attribute">
+            <span type="maycontain">[uri]</span>
+         </div>
+         <div corresp="xml:id" type="attribute">
+            <span type="maycontain">[unique identifier]</span>
+         </div>
+         <div corresp="target" type="attribute">
+            <span type="maycontain">[URI]</span>
+         </div>
+      </body>
+   </text>
+</TEI>

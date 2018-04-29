@@ -1,0 +1,35 @@
+<elementSpec xmlns="http://www.tei-c.org/ns/1.0" module="tagdocs" ident="sequence">
+          <desc versionDate="2013-11-21" xml:lang="en">sequence of references</desc>
+          <classes>
+            <memberOf key="att.global"/>
+            <memberOf key="model.contentPart"/>
+            <memberOf key="att.repeatable"/>
+          </classes>
+          <content>
+            <oneOrMore xmlns="http://relaxng.org/ns/structure/1.0">
+              <ref name="model.contentPart"/>
+            </oneOrMore>
+          </content>
+	  <attList>
+	    <attDef ident="preserveOrder">
+	      <desc versionDate="2013-11-21" xml:lang="en">if true, indicates that
+	      the order in which component elements of a sequence
+	      appear in a document must correspond to the order in
+	      which they are given in the content model.</desc>
+<datatype>data.boolean</datatype>
+	    </attDef>
+	  </attList>
+  <exemplum xml:lang="en">
+    <egXML xmlns="http://www.tei-c.org/ns/Examples" xml:lang="en"><content>
+<alternate>
+<elementRef key="name"/>
+<elementRef key="persName"/>
+</alternate>
+</content>
+    </egXML>
+<p>This example content model permits either a <gi>name</gi> followed
+by a <gi>persName</gi>. </p>
+  </exemplum>
+
+
+</elementSpec>

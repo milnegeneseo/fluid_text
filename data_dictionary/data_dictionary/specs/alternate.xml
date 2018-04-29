@@ -1,0 +1,25 @@
+<elementSpec ident="alternate" module="tagdocs"  xmlns="http://www.tei-c.org/ns/1.0">
+          <desc versionDate="2013-11-21" xml:lang="en">an alternation of references</desc>
+          <classes>
+            <memberOf key="model.contentPart"/>
+            <memberOf key="att.global"/>
+            <memberOf key="att.repeatable"/>
+          </classes>
+          <content>
+            <oneOrMore xmlns="http://relaxng.org/ns/structure/1.0">
+              <ref name="model.contentPart"/>
+            </oneOrMore>
+          </content>
+
+  <exemplum xml:lang="en">
+    <egXML xmlns="http://www.tei-c.org/ns/Examples" xml:lang="en"><content>
+<alternate>
+<elementRef key="name"/>
+<elementRef key="persName"/>
+</alternate>
+</content>
+    </egXML>
+<p>This example content model permits either a <gi>name</gi> or a
+<gi>persName</gi>. </p>
+  </exemplum>
+        </elementSpec>

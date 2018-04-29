@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <!-- Project home: http://digitalthoreau.org/walden -->
+        <!-- Report an issue: http://digitalthoreau.org/walden/report-issue -->       
+        <fileDesc>
+            <titleStmt>
+                <title>Walden</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Walden: Fluid Text is published by Digital Thoreau at The State University of New York College at Geneseo.</publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">
+                        <p>This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.</p>
+                    </licence>
+                </availability>          
+            </publicationStmt>
+            <notesStmt>
+            <note>This text was encoded by the Technical Services team at Milne Library, SUNY Geneseo using Text Encoding
+                Initiative (TEI) P5 XML Schema, using the Parallel Segmentation method. </note>
+                <note>The text presented here is taken from the Princeton edition of Walden, and includes critical apparatus and annotations
+                    laid out by Ronald Clapper.</note>
+                <note>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of dissertation
+                    originally published at UCLA, 1967.</note>
+            </notesStmt>
+            <sourceDesc>
+                <listPerson>
+                    <personGrp>
+                        <persName xml:id="clapper" role="editor">Ronald Clapper</persName>
+                        <persName xml:id="easterly" role="manager">Joe Easterly</persName>
+                    </personGrp>
+                </listPerson>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <creation>
+            <listChange>
+                    <change xml:id="wc_base">Princeton Ed. of Walden</change>
+                    <change xml:id="wc_0a">Walden, Version A (1847)</change>
+                    <change xml:id="wc_a1">Walden, Version A1 (1847)</change>
+                    <change xml:id="wc_a2">Walden, Version A2 (1847)</change>
+                    <change xml:id="wc_0b">Walden, Version B (1849)</change>
+                    <change xml:id="wc_b1">Walden, Version B (1849)</change>
+                    <change xml:id="wc_b2">Walden, Version B (1849)</change>
+                    <change xml:id="wc_0c">Walden, Version C (1849)</change>
+                    <change xml:id="wc_c1">Walden, Version C1 (1849)</change>
+                    <change xml:id="wc_c2">Walden, Version C2 (1849)</change>
+                    <change xml:id="wc_0d">Walden, Version D (1852)</change>
+                    <change xml:id="wc_d1">Walden, Version D1 (1852)</change>
+                    <change xml:id="wc_d2">Walden, Version D2 (1852)</change>
+                    <change xml:id="wc_0e">Walden, Version E (late 1852 - 1853)</change>
+                    <change xml:id="wc_e1">Walden, Version E1 (late 1852 - 1853)</change>
+                    <change xml:id="wc_e2">Walden, Version E2 (late 1852 - 1853)</change>
+                    <change xml:id="wc_0f">Walden, Version F (1853-1854)</change>
+                    <change xml:id="wc_f1">Walden, Version F1 (1853-1854)</change>
+                    <change xml:id="wc_f2">Walden, Version F2 (1853-1854)</change>
+                    <change xml:id="wc_0g">Walden, Version G (1854)</change>
+                    <change xml:id="wc_g1">Walden, Version G1 (1854)</change>
+                    <change xml:id="wc_g2">Walden, Version G2 (1854)</change>
+                </listChange>
+         </creation>
+      </profileDesc>
+      <encodingDesc>
+            <variantEncoding method="parallel-segmentation" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+
+
+    <TEI n="0">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Title Page</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="00.xml" xpointer="walc00"/>
+    </TEI>
+
+    <TEI n="1">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>1. Economy</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="01.xml" xpointer="walc01"/>
+    </TEI>
+    
+    <TEI n="2">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>2. Where I Lived, and What I Lived For</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="02.xml" xpointer="walc02"/>
+    </TEI>
+
+    <TEI n="3">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>3. Reading</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="03.xml" xpointer="walc03"/>
+    </TEI>
+    <TEI n="4">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>4. Sounds</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="04.xml" xpointer="walc04"/>
+        
+    </TEI>
+    <TEI n="5">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>5. Solitude</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="05.xml" xpointer="walc05"/>
+        
+    </TEI>
+    <TEI n="6">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>6. Visitors</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="06.xml" xpointer="walc06"/>
+        
+    </TEI>
+    <TEI n="7">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>7. The Bean-Field</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="07.xml" xpointer="walc07"/>
+        
+    </TEI>
+    <TEI n="8">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>8. The Village</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="08.xml" xpointer="walc08"/>
+        
+    </TEI>
+    <TEI n="9">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>9. The Ponds</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="09.xml" xpointer="walc09"/>
+        
+    </TEI>
+    <TEI n="10">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>10. Baker Farm</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="10.xml" xpointer="walc10"/>
+        
+    </TEI>
+    <TEI n="11">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>11. Higher Laws</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="11.xml" xpointer="walc11"/>
+        
+    </TEI>
+    <TEI n="12">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>12. Brute Neighbors</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="12.xml" xpointer="walc12"/>
+        
+    </TEI>
+    <TEI n="13">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>13. House-Warming</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="13.xml" xpointer="walc13"/>
+        
+        
+    </TEI>
+    <TEI n="14">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>14. Former Inhabitants; and Winter Visitors</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="14.xml" xpointer="walc14"/>
+        
+    </TEI>
+    <TEI n="15">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>15. Winter Animals</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="15.xml" xpointer="walc15"/>
+        
+    </TEI>
+    <TEI n="16">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>16. The Pond In Winter</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="16.xml" xpointer="walc16"/>
+        
+    </TEI>
+    <TEI n="17">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>17. Spring</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="17.xml" xpointer="walc17"/>
+        
+    </TEI>
+    <TEI n="18">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>18. Conclusion</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Published at Milne Library, SUNY Geneseo</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Source: Clapper, Ronald E.A. The Development of 'Walden': A Genetic Text, revised edition of
+                        dissertation originally published at UCLA, 1967</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <xi:include href="18.xml" xpointer="walc18"/>
+    </TEI>
+</teiCorpus>

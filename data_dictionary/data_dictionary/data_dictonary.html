@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?><html xmlns="http://www.w3.org/1999/xhtml" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" xmlns:d="http://www.oxygenxml.com/ns/doc/xsl">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Data Dictionary for Walden: A Fluid Text Edition</title>
+      <link rel="stylesheet" type="text/css" href="data_dictionary.css" />
+   </head>
+   <body>
+      <div class="body_content">
+         <div class="dict_title">Data Dictionary for Walden: A Fluid Text Edition</div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.TEI">TEI &#x95; TEI document</span><span class="entry_count"> 19</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains a single TEI-conformant document,
+                  comprising a TEI header and a text, either in isolation or as part of a
+                  teiCorpus element.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-TEI.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.teiCorpus">teiCorpus</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.teiHeader">teiHeader</a>, <a href="#e.text">text</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.n">n</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.ab">ab &#x95; anonymous block</span><span class="entry_count"> 1803</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains any arbitrary component-level unit of text, acting as an anonymous container
+                  for phrase or inter level elements analogous to, but without the semantic baggage
+                  of, a paragraph.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-ab.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span><span class="tei_description">Provides structural organization for header notes.</span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.note">note</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.seg">seg</a>, <a href="#e.quote">quote</a>, <a href="#e.del">del</a>, <a href="#e.add">add</a>, <a href="#e.anchor">anchor</a>, <a href="#e.hi">hi</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.type">type</a>, <a href="#a.change">change</a>, <a href="#a.ana">ana</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.add">add &#x95; addition</span><span class="entry_count"> 4162</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains letters, words, or phrases inserted in the source
+                  text by an author, scribe, or a previous annotator or corrector.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-add.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span><span class="tei_description">Indicates that the text enclosed with this tag appeared as inserted, interlined, etc.
+                  in the mentioned version. This does
+                  not mean that the enclosed text first appeared, but rather that it had the appearance
+                  of being interlined in the corresponding manuscript
+                  surface. Usage requirements: Must have an ancestor with either a @change, @ana, or
+                  @wit attribute.</span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.p">p</a>, <a href="#e.item">item</a>, <a href="#e.del">del</a>, <a href="#e.rdg">rdg</a>, <a href="#e.add">add</a>, <a href="#e.ab">ab</a>, <a href="#e.seg">seg</a>, <a href="#e.quote">quote</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.del">del</a>, <a href="#e.add">add</a>, <a href="#e.anchor">anchor</a>, <a href="#e.hi">hi</a>, <a href="#e.note">note</a>, <a href="#e.quote">quote</a>, <a href="#e.w">w</a>, <a href="#e.unclear">unclear</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.rendition">rendition</a>, <a href="#a.type">type</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.anchor">anchor &#x95; anchor point</span><span class="entry_count"> 1075</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>attaches an identifier to a point within a text, whether or not it corresponds with
+                  a textual element.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-anchor.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span><span class="tei_description">Identifies linking points for critical commentary drawn from Walter Harding's Walden:
+                  An Annotated Edition. &#x95; </span><span class="tei_description">Used to identify cases where a paragraph was missing from the manuscripts. &#x95; </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.head">head</a>, <a href="#e.p">p</a>, <a href="#e.lem">lem</a>, <a href="#e.seg">seg</a>, <a href="#e.rdg">rdg</a>, <a href="#e.lg">lg</a>, <a href="#e.add">add</a>, <a href="#e.hi">hi</a>, <a href="#e.item">item</a>, <a href="#e.app">app</a>, <a href="#e.div">div</a>, <a href="#e.l">l</a>, <a href="#e.ab">ab</a>, <a href="#e.quote">quote</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.type">type</a>, <a href="#a.xml:id">xml:id</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.app">app &#x95; apparatus entry</span><span class="entry_count"> 4140</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains one entry in a critical apparatus, with an optional
+                  lemma and usually one or more readings or notes on the relevant passage.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-app.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span><span class="tei_description">Corresponds to a critical apparatus in Ronald E. Clapper's The Development of Walden:
+                  A Genetic Text.</span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.p">p</a>, <a href="#e.seg">seg</a>, <a href="#e.item">item</a>, <a href="#e.l">l</a>, <a href="#e.head">head</a>, <a href="#e.quote">quote</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.lem">lem</a>, <a href="#e.rdg">rdg</a>, <a href="#e.anchor">anchor</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.xml:id">xml:id</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.availability">availability</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>supplies information about the availability of a text, for example any restrictions
+                  on its
+                  use or distribution, its copyright status, any licence applying to it, etc.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-availability.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.publicationStmt">publicationStmt</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.licence">licence</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.body">body &#x95; text body</span><span class="entry_count"> 19</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains the whole body of a single unitary text, excluding any front or back matter.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-body.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.text">text</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.div">div</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.byline">byline</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains the primary statement of responsibility given for a work
+                  on its title page or at the head or end of the work.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-byline.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.div">div</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.change">change</span><span class="entry_count"> 22</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>documents a change or set of changes made during the production
+                  of a source document, or during the revision of an electronic file.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-change.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.listChange">listChange</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.xml:id">xml:id</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.choice">choice</span><span class="entry_count"> 2</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>groups a number of alternative encodings for the same point in
+                  a text.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-choice.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.rdg">rdg</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.orig">orig</a>, <a href="#e.corr">corr</a>, <a href="#e.reg">reg</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.corr">corr &#x95; correction</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains the correct form of a passage apparently erroneous in the copy text.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-corr.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.choice">choice</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.xml:lang">xml:lang</a>, <a href="#a.resp">resp</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.creation">creation</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains information about the creation of a text.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-creation.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.profileDesc">profileDesc</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.listChange">listChange</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.del">del &#x95; deletion</span><span class="entry_count"> 3697</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains a letter, word, or passage deleted, marked as deleted, or otherwise indicated
+                  as
+                  superfluous or spurious in the copy text by an author, scribe, or a previous annotator
+                  or corrector.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-del.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.item">item</a>, <a href="#e.del">del</a>, <a href="#e.rdg">rdg</a>, <a href="#e.add">add</a>, <a href="#e.p">p</a>, <a href="#e.ab">ab</a>, <a href="#e.seg">seg</a>, <a href="#e.quote">quote</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.add">add</a>, <a href="#e.del">del</a>, <a href="#e.hi">hi</a>, <a href="#e.unclear">unclear</a>, <a href="#e.w">w</a>, <a href="#e.lg">lg</a>, <a href="#e.quote">quote</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.desc">desc &#x95; description</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains a brief description of the object documented by its parent element, including
+                  its
+                  intended usage, purpose, or application where this is appropriate.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-desc.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span><span class="tei_description">Used only once, to encode a description of a graphical figure appearing on the title
+                  page.</span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.graphic">graphic</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.div">div &#x95; text division</span><span class="entry_count"> 21</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains a subdivision of the front, body, or back of a text.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.body">body</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.l">l</a>, <a href="#e.p">p</a>, <a href="#e.figure">figure</a>, <a href="#e.note">note</a>, <a href="#e.head">head</a>, <a href="#e.list">list</a>, <a href="#e.anchor">anchor</a>, <a href="#e.lg">lg</a>, <a href="#e.byline">byline</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.encodingDesc">encodingDesc &#x95; encoding description</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>documents the relationship between an electronic text and the
+                  source or sources from which it was derived.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-encodingDesc.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.teiHeader">teiHeader</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.variantEncoding">variantEncoding</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.figure">figure</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>groups elements representing or containing graphic information
+                  such as an illustration, formula,  or    figure.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-figure.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span><span class="tei_description">Used only once for a graphic appearing on the title page.</span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.div">div</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.graphic">graphic</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.fileDesc">fileDesc &#x95; file description</span><span class="entry_count"> 20</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains a full bibliographic description of an electronic file.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-fileDesc.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.teiHeader">teiHeader</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.titleStmt">titleStmt</a>, <a href="#e.publicationStmt">publicationStmt</a>, <a href="#e.notesStmt">notesStmt</a>, <a href="#e.sourceDesc">sourceDesc</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.graphic">graphic</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>indicates the location of an inline graphic, illustration, or figure.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-graphic.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.figure">figure</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.desc">desc</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.url">url</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.head">head &#x95; heading</span><span class="entry_count"> 21</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains any type of heading, for example the title of a section, or the heading of
+                  a list,
+                  glossary, manuscript description, etc.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-head.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.div">div</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.anchor">anchor</a>, <a href="#e.note">note</a>, <a href="#e.app">app</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.hi">hi &#x95; highlighted</span><span class="entry_count"> 368</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>marks a word or phrase as graphically distinct from the
+                  surrounding text, for reasons concerning which no claim is
+                  made.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-hi.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.seg">seg</a>, <a href="#e.del">del</a>, <a href="#e.rdg">rdg</a>, <a href="#e.add">add</a>, <a href="#e.p">p</a>, <a href="#e.lem">lem</a>, <a href="#e.l">l</a>, <a href="#e.quote">quote</a>, <a href="#e.ab">ab</a>, <a href="#e.hi">hi</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.anchor">anchor</a>, <a href="#e.hi">hi</a>, <a href="#e.w">w</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.rend">rend</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.item">item</span><span class="entry_count"> 76</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains one component of a list.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-item.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.list">list</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.del">del</a>, <a href="#e.add">add</a>, <a href="#e.space">space</a>, <a href="#e.anchor">anchor</a>, <a href="#e.app">app</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.rendition">rendition</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.l">l &#x95; verse line</span><span class="entry_count"> 364</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains a single, possibly incomplete, line of verse.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-l.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.div">div</a>, <a href="#e.lg">lg</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.app">app</a>, <a href="#e.anchor">anchor</a>, <a href="#e.hi">hi</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.lb">lb &#x95; line break</span><span class="entry_count"> 11</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>marks the start of a new (typographic) line in some edition or version of a text.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-lb.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.rdg">rdg</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.lem">lem &#x95; lemma</span><span class="entry_count"> 4140</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains the lemma, or base text, of a textual variation.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-lem.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.app">app</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.anchor">anchor</a>, <a href="#e.hi">hi</a>, <a href="#e.quote">quote</a>, <a href="#e.placeName">placeName</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.resp">resp</a>, <a href="#a.wit">wit</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.lg">lg &#x95; line group</span><span class="entry_count"> 48</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains one or more verse lines functioning as a formal unit, e.g. a stanza, refrain,
+                  verse paragraph, etc.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-lg.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.quote">quote</a>, <a href="#e.p">p</a>, <a href="#e.div">div</a>, <a href="#e.seg">seg</a>, <a href="#e.del">del</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.l">l</a>, <a href="#e.anchor">anchor</a>, <a href="#e.span">span</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.licence">licence</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains information about a licence or other legal agreement
+                  applicable to the text.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-licence.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.availability">availability</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.p">p</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.target">target</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.list">list &#x95; list</span><span class="entry_count"> 9</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains any sequence of items organized as a list.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-list.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.div">div</a>, <a href="#e.p">p</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.item">item</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.listChange">listChange</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>groups a number of change descriptions associated 
+                  with either the creation of a source text or the revision of an encoded text.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-listChange.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.creation">creation</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.change">change</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.listPerson">listPerson &#x95; list of persons</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains a list of descriptions, each of which provides information about an identifiable
+                  person or a group of people, for example the participants in a language interaction,
+                  or the
+                  people referred to in a historical source.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-listPerson.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.sourceDesc">sourceDesc</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.personGrp">personGrp</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.name">name &#x95; name, proper noun</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains a proper noun or noun phrase.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-name.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.seg">seg</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.note">note</span><span class="entry_count"> 735</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains a note or annotation.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-note.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.notesStmt">notesStmt</a>, <a href="#e.div">div</a>, <a href="#e.head">head</a>, <a href="#e.p">p</a>, <a href="#e.seg">seg</a>, <a href="#e.rdg">rdg</a>, <a href="#e.add">add</a>, <a href="#e.note">note</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.quote">quote</a>, <a href="#e.ab">ab</a>, <a href="#e.note">note</a>, <a href="#e.sic">sic</a>, <a href="#e.p">p</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.type">type</a>, <a href="#a.resp">resp</a>, <a href="#a.ana">ana</a>, <a href="#a.subtype">subtype</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.notesStmt">notesStmt &#x95; notes statement</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>collects together any notes providing information about a text additional to that
+                  recorded
+                  in other parts of the bibliographic description.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-notesStmt.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.fileDesc">fileDesc</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.note">note</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.orig">orig &#x95; original form</span><span class="entry_count"> 2</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains a reading which is marked as following the original, rather than being normalized
+                  or corrected.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-orig.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.choice">choice</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.xml:lang">xml:lang</a>, <a href="#a.resp">resp</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.p">p &#x95; paragraph</span><span class="entry_count"> 468</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>marks paragraphs in prose.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-p.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.licence">licence</a>, <a href="#e.publicationStmt">publicationStmt</a>, <a href="#e.sourceDesc">sourceDesc</a>, <a href="#e.div">div</a>, <a href="#e.note">note</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.add">add</a>, <a href="#e.quote">quote</a>, <a href="#e.note">note</a>, <a href="#e.app">app</a>, <a href="#e.anchor">anchor</a>, <a href="#e.seg">seg</a>, <a href="#e.hi">hi</a>, <a href="#e.lg">lg</a>, <a href="#e.list">list</a>, <a href="#e.del">del</a>, <a href="#e.span">span</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.change">change</a>, <a href="#a.n">n</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.persName">persName &#x95; personal name</span><span class="entry_count"> 2</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains a proper noun or proper-noun phrase referring to a
+                  person, possibly including one or more of
+                  the person's forenames, surnames, honorifics, added names, etc.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-persName.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.personGrp">personGrp</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.xml:id">xml:id</a>, <a href="#a.role">role</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.personGrp">personGrp &#x95; personal group</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>describes a group of individuals treated as a single person for analytic purposes.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-personGrp.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.listPerson">listPerson</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.persName">persName</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.phr">phr &#x95; phrase</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>represents a grammatical phrase.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-phr.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.rdg">rdg</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.xml:lang">xml:lang</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.placeName">placeName</span><span class="entry_count"> 8</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains an absolute or relative place name.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-placeName.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.seg">seg</a>, <a href="#e.lem">lem</a>, <a href="#e.rdg">rdg</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.profileDesc">profileDesc &#x95; text-profile description</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>provides a detailed description of non-bibliographic aspects of a text, specifically
+                  the
+                  languages and sublanguages used, the situation in which it was produced, the participants
+                  and
+                  their setting.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-profileDesc.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.teiHeader">teiHeader</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.creation">creation</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.publicationStmt">publicationStmt &#x95; publication statement</span><span class="entry_count"> 20</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>groups information concerning the publication or distribution of an electronic or
+                  other text.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-publicationStmt.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.fileDesc">fileDesc</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.publisher">publisher</a>, <a href="#e.availability">availability</a>, <a href="#e.p">p</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.publisher">publisher</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>provides the name of the organization responsible for the publication or distribution
+                  of a
+                  bibliographic item.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-publisher.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.publicationStmt">publicationStmt</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.quote">quote &#x95; quotation</span><span class="entry_count"> 270</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains a phrase or passage attributed by the narrator or author to some agency external
+                  to the text.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-quote.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.p">p</a>, <a href="#e.note">note</a>, <a href="#e.ab">ab</a>, <a href="#e.seg">seg</a>, <a href="#e.lem">lem</a>, <a href="#e.rdg">rdg</a>, <a href="#e.add">add</a>, <a href="#e.del">del</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.lg">lg</a>, <a href="#e.app">app</a>, <a href="#e.hi">hi</a>, <a href="#e.span">span</a>, <a href="#e.anchor">anchor</a>, <a href="#e.del">del</a>, <a href="#e.add">add</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.xml:lang">xml:lang</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.rdg">rdg &#x95; reading</span><span class="entry_count"> 5783</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains a single reading within a textual variation.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-rdg.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.app">app</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.del">del</a>, <a href="#e.add">add</a>, <a href="#e.anchor">anchor</a>, <a href="#e.hi">hi</a>, <a href="#e.note">note</a>, <a href="#e.unclear">unclear</a>, <a href="#e.choice">choice</a>, <a href="#e.quote">quote</a>, <a href="#e.phr">phr</a>, <a href="#e.w">w</a>, <a href="#e.lb">lb</a>, <a href="#e.placeName">placeName</a>, <a href="#e.sic">sic</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.wit">wit</a>, <a href="#a.resp">resp</a>, <a href="#a.cert">cert</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.reg">reg &#x95; regularization</span><span class="entry_count"> 2</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains a reading which has been regularized or normalized in some sense.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-reg.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.choice">choice</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.xml:lang">xml:lang</a>, <a href="#a.resp">resp</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.seg">seg &#x95; arbitrary segment</span><span class="entry_count"> 3489</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>represents any segmentation of text below the chunk level.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-seg.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.ab">ab</a>, <a href="#e.p">p</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.note">note</a>, <a href="#e.app">app</a>, <a href="#e.anchor">anchor</a>, <a href="#e.hi">hi</a>, <a href="#e.quote">quote</a>, <a href="#e.lg">lg</a>, <a href="#e.add">add</a>, <a href="#e.del">del</a>, <a href="#e.name">name</a>, <a href="#e.placeName">placeName</a>, <a href="#e.w">w</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.type">type</a>, <a href="#a.n">n</a>, <a href="#a.change">change</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.sic">sic &#x95; Latin for thus or so
+               </span><span class="entry_count"> 2</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains text reproduced although apparently incorrect or inaccurate.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-sic.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.note">note</a>, <a href="#e.rdg">rdg</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.cert">cert</a>, <a href="#a.resp">resp</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.sourceDesc">sourceDesc &#x95; source description</span><span class="entry_count"> 20</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>describes the source from which an electronic text was derived or generated, typically
+                  a
+                  bibliographic description in the case of a digitized text, or a phrase such as "born
+                  digital"
+                  for a text which has no previous existence.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-sourceDesc.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.fileDesc">fileDesc</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.listPerson">listPerson</a>, <a href="#e.p">p</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.space">space</span><span class="entry_count"> 53</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>indicates the location of a significant space in the copy text.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-space.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.item">item</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.dim">dim</a>, <a href="#a.extent">extent</a>, <a href="#a.rendition">rendition</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.span">span</span><span class="entry_count"> 3</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>associates an interpretative annotation directly with a span of text.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-span.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local"><span class="definition_marker">Project Definition: </span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.quote">quote</a>, <a href="#e.p">p</a>, <a href="#e.lg">lg</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.teiCorpus">teiCorpus</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains the whole of a TEI encoded corpus, comprising a single corpus header and
+                  one or
+                  more TEI elements, each containing a single text header and a text.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-teiCorpus.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.teiHeader">teiHeader</a>, <a href="#e.TEI">TEI</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.teiHeader">teiHeader &#x95; TEI header</span><span class="entry_count"> 20</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>supplies the descriptive and declarative information making up an electronic title
+                  page
+                  prefixed to every TEI-conformant text.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-teiHeader.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.teiCorpus">teiCorpus</a>, <a href="#e.TEI">TEI</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.fileDesc">fileDesc</a>, <a href="#e.profileDesc">profileDesc</a>, <a href="#e.encodingDesc">encodingDesc</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.text">text</span><span class="entry_count"> 19</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains a single text of any kind, whether unitary or composite, for example a poem
+                  or
+                  drama, a collection of essays, a novel, a dictionary, or a corpus sample.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-text.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.TEI">TEI</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.body">body</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.xml:id">xml:id</a>, <a href="#a.xml:base">xml:base</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.title">title</span><span class="entry_count"> 20</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains a title for any kind of work.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-title.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.titleStmt">titleStmt</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.titleStmt">titleStmt &#x95; title statement</span><span class="entry_count"> 20</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>groups information about the title of a work and those responsible for its content.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-titleStmt.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.fileDesc">fileDesc</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span><a href="#e.title">title</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.unclear">unclear</span><span class="entry_count"> 11</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>contains a word, phrase, or passage which cannot be transcribed with certainty because
+                  it
+                  is illegible or inaudible in the source.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-unclear.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.del">del</a>, <a href="#e.rdg">rdg</a>, <a href="#e.add">add</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.reason">reason</a>, <a href="#a.resp">resp</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.variantEncoding">variantEncoding</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>declares the method used to encode text-critical variants.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-variantEncoding.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.encodingDesc">encodingDesc</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.method">method</a>, <a href="#a.location">location</a></div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="e.w">w &#x95; word</span><span class="entry_count"> 12</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="tei_description"><span class="definition_marker">TEI Definition: </span>represents a grammatical (not necessarily orthographic) word.<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-w.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_struct_notes">
+               <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.rdg">rdg</a>, <a href="#e.add">add</a>, <a href="#e.seg">seg</a>, <a href="#e.hi">hi</a>, <a href="#e.del">del</a></div>
+               <div class="note"><span class="struct_note_marker"> &#x95; Attributes: </span><a href="#a.xml:lang">xml:lang</a></div>
+            </div>
+         </div>
+         <hr />
+         <div class="entry_heading"><span class="entry_heading_name" id="a.ana">@ana &#x95; analysis</span><span class="entry_count"> 32</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="definition_marker">TEI Definition: </span><span class="tei_description">indicates one or more elements containing interpretations of the
+                  element on which the ana attribute appears. (att.global.analytic)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.global.analytic.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.note">note</a>, <a href="#e.ab">ab</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>[uri]
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.cert">@cert &#x95; certainty</span><span class="entry_count"> 7</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="definition_marker">TEI Definition: </span><span class="tei_description">signifies the degree of certainty associated with the intervention or interpretation. (att.responsibility)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.responsibility.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.rdg">rdg</a>, <a href="#e.sic">sic</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>low medium
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.change">@change</span><span class="entry_count"> 1264</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="definition_marker">TEI Definition: </span><span class="tei_description">points to one or more change elements documenting
+                  a state or revision campaign to which the element bearing this
+                  attribute and its children have been assigned by the encoder. (att.global.change)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.global.change.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.p">p</a>, <a href="#e.seg">seg</a>, <a href="#e.ab">ab</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>[uri]
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.dim">@dim</span><span class="entry_count"> 53</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.space">space</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>horizontal
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.extent">@extent</span><span class="entry_count"> 53</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="definition_marker">TEI Definition: </span><span class="tei_description">indicates the size of the object concerned using a project-specific vocabulary combining
+                  quantity and units in a single string of words. (att.dimensions)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.dimensions.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.space">space</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>auto
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.location">@location</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="definition_marker">TEI Definition: </span><span class="tei_description">indicates an anchor element typically elsewhere in the document, but possibly in another
+                  document, 
+                  which is the original location of this component. (att.lexicographic)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.lexicographic.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.variantEncoding">variantEncoding</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>internal
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.method">@method</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.variantEncoding">variantEncoding</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>parallel-segmentation
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.n">@n &#x95; number</span><span class="entry_count"> 829</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="definition_marker">TEI Definition: </span><span class="tei_description">gives a number (or other label) for an element, which is not necessarily unique within
+                  the document. (att.global)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.global.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.TEI">TEI</a>, <a href="#e.p">p</a>, <a href="#e.seg">seg</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>[string]
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.reason">@reason</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.unclear">unclear</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>illegible
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.rend">@rend &#x95; rendition</span><span class="entry_count"> 363</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="definition_marker">TEI Definition: </span><span class="tei_description">indicates how the element in question was rendered or presented in the source text. (att.global)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.global.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.hi">hi</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>style(underline) style(italic) superscript style(superscript) style(italics) italic
+                     underline style(italic) style(superscript)
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.rendition">@rendition</span><span class="entry_count"> 2258</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="definition_marker">TEI Definition: </span><span class="tei_description">points to a description of the rendering or presentation used for this element in
+                  the
+                  source text. (att.global)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.global.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.add">add</a>, <a href="#e.space">space</a>, <a href="#e.item">item</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>pencil dotted underline
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.resp">@resp &#x95; responsible party</span><span class="entry_count"> 947</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="definition_marker">TEI Definition: </span><span class="tei_description">indicates the agency responsible for the intervention or interpretation, for example
+                  an
+                  editor or transcriber. (att.responsibility)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.responsibility.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.note">note</a>, <a href="#e.orig">orig</a>, <a href="#e.corr">corr</a>, <a href="#e.reg">reg</a>, <a href="#e.rdg">rdg</a>, <a href="#e.lem">lem</a>, <a href="#e.unclear">unclear</a>, <a href="#e.sic">sic</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>#clapper #easterly #ygm #clapper clapper
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.role">@role</span><span class="entry_count"> 2</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="definition_marker">TEI Definition: </span><span class="tei_description">may be used to specify further information about the entity referenced by
+                  this name, for example the occupation of a person, or the status of a place. (att.naming)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.naming.html" target="_blank">[more]</a></span> &#x95; </span><span class="tei_description">indicates the kind of information held in this cell or
+                  in each cell of this row. (att.tableDecoration)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.tableDecoration.html" target="_blank">[more]</a></span> &#x95; </span></div>
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.persName">persName</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>editor manager
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.subtype">@subtype</span><span class="entry_count"> 22</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="definition_marker">TEI Definition: </span><span class="tei_description">provides a sub-categorization of the element, if needed (att.typed)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.typed.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.note">note</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>inline
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.target">@target</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="definition_marker">TEI Definition: </span><span class="tei_description">specifies the destination of the reference by supplying one or more URI References (att.pointing)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.pointing.html" target="_blank">[more]</a></span> &#x95; </span><span class="tei_description">identifies the orthographic form or pronunciation referred to. (att.ptrLike.form)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.ptrLike.form.html" target="_blank">[more]</a></span> &#x95; </span><span class="tei_description">points at one or several  elements or  sets of elements by
+                  means of one or more
+                  data pointers, using the URI syntax. (att.scoping)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.scoping.html" target="_blank">[more]</a></span> &#x95; </span></div>
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.licence">licence</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>[URI]
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.type">@type</span><span class="entry_count"> 6246</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="definition_marker">TEI Definition: </span><span class="tei_description">indicates type of entry, in dictionaries with multiple types. (att.entryLike)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.entryLike.html" target="_blank">[more]</a></span> &#x95; </span><span class="tei_description">indicates what kind of phenomenon is being noted in the passage. (att.interpLike)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.interpLike.html" target="_blank">[more]</a></span> &#x95; </span><span class="tei_description">classifies the reading according to some useful typology. (att.textCritical)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.textCritical.html" target="_blank">[more]</a></span> &#x95; </span><span class="tei_description">characterizes the element in some sense, using any convenient
+                  classification scheme or typology. (att.typed)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.typed.html" target="_blank">[more]</a></span> &#x95; </span></div>
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.note">note</a>, <a href="#e.add">add</a>, <a href="#e.anchor">anchor</a>, <a href="#e.ab">ab</a>, <a href="#e.seg">seg</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>general transposition hn header string parsed chapterNum chapterTitle paragraph written
+                     rewritten not-in-MS editorial
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.url">@url &#x95; uniform resource locator</span><span class="entry_count"> 1</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="definition_marker">TEI Definition: </span><span class="tei_description">specifies the URL from which the media concerned may be obtained. (att.resourced)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.resourced.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.graphic">graphic</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>#
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.wit">@wit &#x95; witness or witnesses</span><span class="entry_count"> 6433</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="definition_marker">TEI Definition: </span><span class="tei_description">contains a space-delimited list of one or more sigla indicating the witnesses
+                  to this reading  beginning or ending at this point. (att.rdgPart)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.rdgPart.html" target="_blank">[more]</a></span> &#x95; </span><span class="tei_description">contains a space-delimited list of one or more pointers indicating the witnesses
+                  which attest to a given reading. (att.witnessed)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.witnessed.html" target="_blank">[more]</a></span> &#x95; </span></div>
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.rdg">rdg</a>, <a href="#e.lem">lem</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>[uri]
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.xml:base">@xml:base</span><span class="entry_count"> 19</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="definition_marker">TEI Definition: </span><span class="tei_description">provides a base URI reference with which applications can resolve relative URI
+                  references into absolute URI references. (att.global)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.global.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.text">text</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>00.xml 01.xml 02.xml 03.xml 04.xml 05.xml 06.xml 07.xml 08.xml 09.xml 10.xml 11.xml
+                     12.xml 13.xml 14.xml 15.xml 16.xml 17.xml 18.xml
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.xml:id">@xml:id &#x95; identifier</span><span class="entry_count"> 5244</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="definition_marker">TEI Definition: </span><span class="tei_description">provides a unique identifier for the element bearing the attribute. (att.global)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.global.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.persName">persName</a>, <a href="#e.change">change</a>, <a href="#e.text">text</a>, <a href="#e.anchor">anchor</a>, <a href="#e.app">app</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>[unique identifier]
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="entry_heading"><span class="entry_heading_name" id="a.xml:lang">@xml:lang &#x95; language</span><span class="entry_count"> 21</span></div>
+         <div class="entry_contents">
+            <div class="entry_contents_tei"><span class="definition_marker">TEI Definition: </span><span class="tei_description">indicates the language of the element content using a tag generated
+                  according to BCP 47. (att.global)<span class="tei_link"> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.global.html" target="_blank">[more]</a></span></span></div>
+            <div class="entry_contents_local">
+               <div class="entry_struct_notes">
+                  <div class="note"><span class="struct_note_marker"> &#x95; Contained by: </span><a href="#e.orig">orig</a>, <a href="#e.corr">corr</a>, <a href="#e.reg">reg</a>, <a href="#e.phr">phr</a>, <a href="#e.quote">quote</a>, <a href="#e.w">w</a></div>
+                  <div class="note"><span class="struct_note_marker"> &#x95; May contain: </span>gr en fr la
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </body>
+</html>
