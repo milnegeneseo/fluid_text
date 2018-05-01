@@ -116,3 +116,6 @@ cp -r /tmp/vm_out/. /opt/rh/httpd24/root/var/www/html/
 #commenting out the lines below -- doesn't work with Linux
 #$OPENCMD "/tmp/saxon_out"
 #$OPENCMD "/tmp/vm_out/text"
+
+#Bill Jones - deleting temp files after rewrite to avoid clutter
+rm -rf /tmp/dT_*
