@@ -12,3 +12,5 @@ There is a cron job on the digitalthoreau.geneseo.edu server that runs every min
 2.  performs a 'git pull' command to pull down any changes made in the GitHub GUI (or any changes pushed up to Git).  The files we are mainly concerned with are the .xml files
 3.  runs the build.sh bash script to run transformations on the .xml files
 4.  The build.sh script then copies the transformed files to the directory where the live webpages are located, and deletes the temp files that it creates in the process.
+
+test
