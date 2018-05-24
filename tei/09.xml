@@ -1998,9 +1998,9 @@
                   <lem wit="#wc_base">in such a case,</lem>
                   <rdg wit="#wc_0f">
                      <add rendition="pencil">in such a case</add>,</rdg>
-               </app>
+               </app>but,
                <app xml:id="walc09-app-0200">
-                  <lem wit="#wc_base">but, with its winding shore,</lem>
+                  <lem wit="#wc_base">with its winding shore,</lem>
                   <rdg wit="#wc_0f">
                      <add rendition="pencil">with its winding shore</add>,</rdg>
                </app> the most natural<app xml:id="walc09-app-0201">
@@ -2222,7 +2222,7 @@
                   <app xml:id="walc09-app-0222">
                      <lem wit="#wc_base">You can even</lem>
                      <rdg wit="#wc_0e">
-                        <del>Nay</del> you can <add renditfion="pencil">even</add>
+                        <del>Nay</del> you can <add rendition="pencil">even</add>
                      </rdg>
                   </app> detect a water-bug <app xml:id="walc09-app-0223">
                      <lem wit="#wc_base">(<hi rend="style(italic)">Gyrinus</hi>) </lem>
