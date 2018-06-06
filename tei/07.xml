@@ -380,7 +380,7 @@
                      <del>result</del> to the literary it is literary <add rendition="pencil"
                         >&amp;</add> it is <del>oftenest</del>
                      <add rendition="pencil">very often</add> honest &amp; honorable</rdg>
-               </app> A very <hi rend="style(italic)">agricola laboriosus</hi>
+               </app> A very <hi rend="style(italics)">agricola laboriosus</hi>
                <anchor type="hn" xml:id="hn-07-016"/>was I to travellers bound
                westward through Lincoln and Wayland <anchor type="hn"
                   xml:id="hn-07-017"/> to nobody knows where; they sitting at their ease in gigs,
@@ -445,7 +445,7 @@
                   <rdg wit="#wc_0a">
                      <add>still wilder</add>
                   </rdg>
-               </app> fields unimproved by man? The crop of <hi rend="style(italic)">English</hi>
+               </app> fields unimproved by man? The crop of <hi rend="style(italics)">English</hi>
                hay <anchor type="hn" xml:id="hn-07-022"/> is carefully weighed,
                the moisture calculated, the silicates and the potash; but in all dells and pond
                holes in the woods and pastures and swamps grows a rich and various crop only<app
@@ -471,7 +471,7 @@
                      <del>while</del>
                      <add>and</add>
                   </rdg>
-               </app> my hoe played the <hi rend="style(italic)">Ranz des Vaches <anchor
+               </app> my hoe played the <hi rend="style(italics)">Ranz des Vaches <anchor
                      type="hn" xml:id="hn-07-023"/>
                </hi> for them.</p>
 
@@ -718,7 +718,7 @@
                <app xml:id="walc07-app-0073">
                   <lem>It seemed by the distant hum as if somebody’s bees had swarmed, <anchor
                         type="hn" xml:id="hn-07-033"/> and that the neighbors,
-                     according to Virgil’s advice, by a faint <hi rend="style(italic)">tintinnabulum
+                     according to Virgil’s advice, by a faint <hi rend="style(italics)">tintinnabulum
                            <anchor type="hn" xml:id="hn-07-034"/>
                      </hi> upon the most sonorous of their domestic utensils, were endeavoring to
                      call them down into the hive again. <anchor type="hn"
@@ -764,7 +764,7 @@
                chivalry upon. These martial strains seemed as far away as Palestine, and reminded me
                of a march of crusaders in the horizon, with a slight tantivy and tremulous motion of
                the elm-tree <anchor type="hn" xml:id="hn-07-039"/> tops which
-               overhang the village. This was one of the <hi rend="style(italic)">great</hi> days;
+               overhang the village. This was one of the <hi rend="style(italics)">great</hi> days;
                though the sky had from my clearing only the same everlastingly great look that it
                wears daily, and I saw no difference in it.</p>
 
@@ -1357,7 +1357,7 @@
                   </app> Nature but as a robber. Cato <app xml:id="walc07-app-0123">
                      <lem>says that the profits of agriculture are</lem>
                      <rdg wit="#wc_0f">calls the profits of agriculture</rdg>
-                  </app> particularly pious or just, (<hi rend="style(italic)">maximeque pius
+                  </app> particularly pious or just, (<hi rend="style(italics)">maximeque pius
                      quæstus</hi>,) <anchor type="hn" xml:id="hn-07-065"/> and
                   according to Varro <app xml:id="walc07-app-0124">
                      <lem>the old Romans</lem>
@@ -1426,22 +1426,22 @@
                </app>
                <app xml:id="walc07-app-0132">
                   <lem>Do they not grow for woodchucks partly? The ear of wheat, (in Latin <hi
-                        rend="style(italic)">spica</hi>, obsoletely <hi rend="style(italic)"
-                        >speca</hi>, from <hi rend="style(italic)">spe</hi>, hope,) should not be
+                        rend="style(italics)">spica</hi>, obsoletely <hi rend="style(italics)"
+                        >speca</hi>, from <hi rend="style(italics)">spe</hi>, hope,) should not be
                      the only hope of the husbandman; <anchor type="hn"
-                        xml:id="hn-07-068"/> its kernel or grain (<hi rend="style(italic)"
-                        >granum</hi> from <hi rend="style(italic)">gerendo</hi>, bearing) is not all
+                        xml:id="hn-07-068"/> its kernel or grain (<hi rend="style(italics)"
+                        >granum</hi> from <hi rend="style(italics)">gerendo</hi>, bearing) is not all
                      that it bears. How, then, can our harvest fail? Shall I not rejoice also at the
                      abundance of the weeds whose seeds are the granary of the birds?</lem>
                   <rdg wit="#wc_0a"><!--[not in ms.]-->
                   </rdg>
                   <rdg wit="#wc_0f">
                      <add>Do they not grow for woodchucks partly? The ear of wheat, (in Latin <hi
-                           rend="style(italic)">spica</hi>, obsoletely <hi rend="style(italic)"
-                           >speca</hi>, from <hi rend="style(italic)">spe</hi>, hope,) should not be
+                           rend="style(italics)">spica</hi>, obsoletely <hi rend="style(italics)"
+                           >speca</hi>, from <hi rend="style(italics)">spe</hi>, hope,) should not be
                         the only hope of the husbandman; <anchor type="hn"
-                           xml:id="hn-07-069"/> its kernel or grain (<hi rend="style(italic)"
-                           >granum</hi> from <hi rend="style(italic)">gerendo</hi>, bearing) is not
+                           xml:id="hn-07-069"/> its kernel or grain (<hi rend="style(italics)"
+                           >granum</hi> from <hi rend="style(italics)">gerendo</hi>, bearing) is not
                         all that it bears. How, then, can our harvest fail? Shall I not rejoice also
                         at the abundance of the weeds whose seeds are the granary of the
                         birds?</add>
