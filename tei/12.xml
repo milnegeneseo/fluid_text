@@ -123,7 +123,7 @@
                      <seg type="rewritten">G</seg>
                   </ab>
                </note>
-               <hi rend="style(italic)">Hermit</hi>. <anchor type="hn" xml:id="hn-12-003"/> I wonder what the world is doing now.<app xml:id="walc12-app-0004">
+               <hi rend="style(italics)">Hermit</hi>. <anchor type="hn" xml:id="hn-12-003"/> I wonder what the world is doing now.<app xml:id="walc12-app-0004">
                   <lem>I have</lem>
                   <rdg wit="#wc_0e">Have </rdg>
                   <rdg wit="#wc_0g">
@@ -206,7 +206,7 @@
                      <seg type="written">E</seg>
                   </ab>
                </note>
-               <hi rend="style(italic)">Poet</hi>. See those clouds; how they hang! That’s the
+               <hi rend="style(italics)">Poet</hi>. See those clouds; how they hang! That’s the
                greatest thing I have seen to-day. There’s <app xml:id="walc12-app-0013">
                   <lem>nothing like it</lem>
                   <rdg wit="#wc_0e">
@@ -237,7 +237,7 @@
                      <anchor type="not-in-MS"/>
                   </ab>
                </note>
-               <hi rend="style(italic)">Hermit</hi>. I cannot resist. My brown bread<anchor type="hn" xml:id="hn-12-011"/> will soon be gone. I will go with you gladly soon, but I am just concluding a serious
+               <hi rend="style(italics)">Hermit</hi>. I cannot resist. My brown bread<anchor type="hn" xml:id="hn-12-011"/> will soon be gone. I will go with you gladly soon, but I am just concluding a serious
                meditation. I think that I am near the end of it. Leave me alone, then, for a while. But that we may not
                be delayed, you shall be digging the bait meanwhile. Angle-worms are rarely to be met with in these
                parts, where the soil was never fattened with manure; the race is nearly extinct. The sport of digging
@@ -265,7 +265,7 @@
                </note>
                
                
-               <hi rend="style(italic)">Hermit alone</hi>. Let me see; where was I? Methinks I was nearly in this frame
+               <hi rend="style(italics)">Hermit alone</hi>. Let me see; where was I? Methinks I was nearly in this frame
                of mind; the world lay about at this angle. Shall I go to heaven or a-fishing? If I should soon bring
                this meditation to an end, would another so sweet occasion be likely to offer? I was as near being
                resolved into the essence of things as ever I was in my life. I fear my thoughts will not come back to
@@ -284,7 +284,7 @@
                      <seg type="written">E</seg>
                   </ab>
                </note>
-               <hi rend="style(italic)">Poet</hi>. How now, Hermit, is it too soon? I have got just
+               <hi rend="style(italics)">Poet</hi>. How now, Hermit, is it too soon? I have got just
                thirteen whole ones, beside several which are imperfect or undersized; but they will do for the smaller
                fry; they do not cover up the hook so much. Those village worms are quite too large; a shiner<anchor type="hn" xml:id="hn-12-015"/> may make a
                meal off one without finding the skewer. </p>
@@ -298,7 +298,7 @@
                      <seg type="written">E</seg>
                   </ab>
                </note>
-               <hi rend="style(italic)">Hermit</hi>. Well, then, let’s be off. Shall we to the
+               <hi rend="style(italics)">Hermit</hi>. Well, then, let’s be off. Shall we to the
                Concord? There’s good sport there if the water be not too high. 
                <app>
                   <lem>
@@ -360,7 +360,7 @@
                
                
                 The mice which haunted my house were not the common ones, which are said to have been
-               introduced into the country, but a wild native kind<anchor type="hn" xml:id="hn-12-016"/> (<hi rend="style(italic)">Mus leucopus</hi>) not found in the village. I sent one
+               introduced into the country, but a wild native kind<anchor type="hn" xml:id="hn-12-016"/> (<hi rend="style(italics)">Mus leucopus</hi>) not found in the village. I sent one
                to a distinguished naturalist,<anchor type="hn" xml:id="hn-12-017"/> and it interested him much.<app xml:id="walc12-app-0020">
                   <lem>When I was building, one of these had its nest underneath the house,</lem>
                   <rdg wit="#wc_0a">
@@ -439,7 +439,7 @@
                      <rdg wit="#wc_0e">
                         <add rendition="pencil">A phoebe soon built in my shed, and a robin for protection
                            in a pine which grew against the house</add>.</rdg>
-                  </app> In June the partridge, (<hi rend="style(italic)"/>) <app xml:id="walc12-app-0033">
+                  </app> In June the partridge, (<hi rend="style(italics)"/>) <app xml:id="walc12-app-0033">
                      <lem>Tetrao umbellus,</lem>
                      <rdg wit="#wc_0e #wc_0f"><!--[not in ms.]-->
                      </rdg>
@@ -942,7 +942,7 @@
                      <del>found to my surprise</del>
                      <add rendition="pencil">was surprised to find</add>
                   </rdg>
-               </app> that the chips were covered with such combatants, that it was not a <hi rend="style(italic)">duellum</hi>, but a <hi rend="style(italic)">bellum</hi>, a war between two races of ants, the red
+               </app> that the chips were covered with such combatants, that it was not a <hi rend="style(italics)">duellum</hi>, but a <hi rend="style(italics)">bellum</hi>, a war between two races of ants, the red
                always pitted against the black, and frequently two red ones to one black. <app xml:id="walc12-app-0084">
                   <lem>The legions of these Myrmidons</lem>
                   <rdg wit="#wc_0d">
@@ -1379,7 +1379,7 @@
                   </ab>
                </note>
                    In the fall the loon <app xml:id="walc12-app-0130">
-                     <lem>(<hi rend="style(italic)">Colymbus glacialis</hi>)</lem>
+                     <lem>(<hi rend="style(italics)">Colymbus glacialis</hi>)</lem>
                      <rdg wit="#wc_0a #wc_0e"><!-- [not in ms.]--></rdg>
                   </app> came, as usual, to moult and<app xml:id="walc12-app-0131">
                      <lem>bathe</lem>
