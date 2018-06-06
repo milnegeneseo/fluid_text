@@ -1436,20 +1436,14 @@
                   <rdg wit="#wc_0a"><!--[not in ms.]-->
                   </rdg>
                   <rdg wit="#wc_0f">
-                     <add>Do they not grow for woodchucks partly? The ear of wheat, (in Latin <hi
-                           rend="style(italics)">spica</hi>, obsoletely <hi rend="style(italics)"
-                           >speca</hi>, from <hi rend="style(italics)">spe</hi>, hope,) should not be
-                        the only hope of the husbandman; <anchor type="hn"
-                           xml:id="hn-07-069"/> its kernel or grain (<hi rend="style(italics)"
-                           >granum</hi> from <hi rend="style(italics)">gerendo</hi>, bearing) is not
-                        all that it bears. How, then, can our harvest fail? Shall I not rejoice also
+                     <add rendition="pencil">Do they not grow for woodchucks partly? The ear of wheat, (in Latin <hi
+                           rend="style(underline)">spica</hi>, obsoletely <hi rend="style(underline)"
+                           >speca</hi> from <hi rend="style(underline)">spe</hi>, hope) should not be
+                        the only hope of the husbandman <anchor type="hn"
+                           xml:id="hn-07-069"/> Shall I not rejoice also
                         at the abundance of the weeds whose seeds are the granary of the
                         birds?</add>
-                     <add rendition="pencil">Do they not grow for woodchucks partly? The ear of
-                        grain (<hi rend="style(underline)">spica</hi>, obsoletely <hi rend="style(underline)"
-                           >speca</hi> from <hi rend="style(underline)">spe</hi> hope) should not be the
-                        only hope of the husbandman</add> Shall I not rejoice also at the abundance
-                     of the weeds whose seeds are the granary of the birds?</rdg>
+                     </rdg>
                </app> It matters little comparatively whether the fields fill the farmer’s barns.
                The true husbandman will cease from anxiety, <app xml:id="walc07-app-0133">
                   <lem>as the squirrels manifest no concern whether the woods will</lem>
