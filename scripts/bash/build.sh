@@ -111,7 +111,7 @@ cp $TEMPDIR10/*.html /tmp/saxon_out/
 cp -r $VMALOC /tmp/vm_out/
 cp -r /tmp/saxon_out/*.html /tmp/vm_out/text/
 #Bill Jones - adding this line to automatically update /var/www/html/
-cp -r /tmp/vm_out/. /opt/rh/httpd24/root/var/www/html/
+cp -r /tmp/vm_out/. /var/www/vhosts/digitalthoreau.org/httpdocs/walden/fluid/
 
 #commenting out the lines below -- doesn't work with Linux
 #$OPENCMD "/tmp/saxon_out"
