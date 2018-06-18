@@ -3,7 +3,7 @@
 Digital Thoreau Logo taken from 
 http://www.flickr.com/photos/hynkle/5149834312/sizes/l/in/photostream
 -->
-<xsl:stylesheet version="1.1" exclude-result-prefixes="tei"
+<xsl:stylesheet version="1.0" exclude-result-prefixes="tei"
    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
    xmlns:tei="http://www.tei-c.org/ns/1.0">
    <xsl:output method="html" version="4.01" encoding="utf-8" indent="yes" doctype-system="http://www.w3.org/TR/html4/strict.dtd" doctype-public="-//W3C//DTD HTML 4.01//EN" />
