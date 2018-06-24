@@ -883,7 +883,7 @@
                      <seg type="chapterTitle">Economy</seg>
                      <seg type="paragraph">8a</seg>
                      <seg type="written">A</seg>
-                     <seg type="rewritten">B. C, D</seg>
+                     <seg type="rewritten">B, C, D</seg>
                   </ab>
                </note>I sometimes wonder <app xml:id="walc01-app-0072">
                      <lem>that</lem>
@@ -5226,7 +5226,7 @@
                      <seg type="chapterTitle">Economy</seg>
                      <seg type="paragraph">46a</seg>
                      <seg type="written">A</seg>
-                     <seg type="rewritten">B. D</seg>
+                     <seg type="rewritten">B, D</seg>
                   </ab>
                </note>It <app xml:id="walc01-app-0488">
                      <lem>may be guessed that I reduce almost</lem>
