@@ -84,10 +84,10 @@
 
             <p n="1" change="#wc_0e">
                <note type="header" resp="#clapper">
-                  <ab type="string">The House-Warming 1 written: E.</ab>
+                  <ab type="string">House-Warming 1 written: E.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">13</seg>
-                     <seg type="chapterTitle">The House-Warming</seg>
+                     <seg type="chapterTitle">House-Warming</seg>
                      <seg type="paragraph">1</seg>
                      <seg type="written">E</seg>
                   </ab>
@@ -311,10 +311,10 @@
 
             <p n="2" change="#wc_0d">
                <note type="header" resp="#clapper">
-                  <ab type="string">The House-Warming 2 written D; rewritten E, F.</ab>
+                  <ab type="string">House-Warming 2 written D; rewritten E, F.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">13</seg>
-                     <seg type="chapterTitle">The House-Warming</seg>
+                     <seg type="chapterTitle">House-Warming</seg>
                      <seg type="paragraph">2</seg>
                      <seg type="written">D</seg>
                      <seg type="rewritten">E, F</seg>
@@ -390,10 +390,10 @@
 
             <p n="3" change="#wc_0e">
                <note type="header" resp="#clapper">
-                  <ab type="string">The House-Warming 3 written E; rewritten F.</ab>
+                  <ab type="string">House-Warming 3 written E; rewritten F.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">13</seg>
-                     <seg type="chapterTitle">The House-Warming</seg>
+                     <seg type="chapterTitle">House-Warming</seg>
                      <seg type="paragraph">3</seg>
                      <seg type="written">E</seg>
                      <seg type="rewritten">F</seg>
@@ -413,10 +413,10 @@
 
             <p n="4" change="#wc_0e">
                <note type="header" resp="#clapper">
-                  <ab type="string">The House-Warming 4 written: E.</ab>
+                  <ab type="string">House-Warming 4 written: E.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">13</seg>
-                     <seg type="chapterTitle">The House-Warming</seg>
+                     <seg type="chapterTitle">House-Warming</seg>
                      <seg type="paragraph">4</seg>
                      <seg type="written">E</seg>
                   </ab>
@@ -436,10 +436,10 @@
             <p n="5" change="#wc_0a">
                <seg n="5a" change="#wc_0a">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 5a written A; rewritten B, F, G.</ab>
+                     <ab type="string">House-Warming 5a written A; rewritten B, F, G.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">5a</seg>
                         <seg type="written">A</seg>
                         <seg type="rewritten">B, F, G</seg>
@@ -534,10 +534,10 @@
                   </app> and also made my mortar with the white sand from the same place. </seg>
                <seg n="5b" change="#wc_0b">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 5b written B; rewritten F, G.</ab>
+                     <ab type="string">House-Warming 5b written B; rewritten F, G.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">5b</seg>
                         <seg type="written">B</seg>
                         <seg type="rewritten">F, G</seg>
@@ -619,10 +619,10 @@
             <p n="6" change="#wc_0f">
                <seg n="6a" change="#wc_0f">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 6a written F; rewritten G.</ab>
+                     <ab type="string">House-Warming 6a written F; rewritten G.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">6a</seg>
                         <seg type="written">F</seg>
                         <seg type="rewritten">G</seg>
@@ -690,10 +690,10 @@
                   </app> servant, derive from living in a house, I enjoyed it all. </seg>
                <seg n="6b" change="#wc_0g">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 6b written G; rewritten G.</ab>
+                     <ab type="string">House-Warming 6b written G; rewritten G.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">6b</seg>
                         <seg type="written">G</seg>
                         <seg type="rewritten">G</seg>
@@ -718,10 +718,10 @@
             <p n="7" change="#wc_0f">
                <seg n="7a" change="#wc_0f">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 7a written F.</ab>
+                     <ab type="string">House-Warming 7a written F.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">7a</seg>
                         <seg type="written">F</seg>
                      </ab>
@@ -746,10 +746,10 @@
                </seg>
                <seg n="7b" change="#wc_0e">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 7b written E.</ab>
+                     <ab type="string">House-Warming 7b written E.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">7b</seg>
                         <seg type="written">E</seg>
                      </ab>
@@ -837,10 +837,10 @@
                   without</seg>
                <seg n="7c" change="#wc_0f">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 7c written F.</ab>
+                     <ab type="string">House-Warming 7c written F.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">7c</seg>
                         <seg type="written">F</seg>
                      </ab>
@@ -903,10 +903,10 @@
 
             <p n="8" change="#wc_0f">
                <note type="header" resp="#clapper">
-                  <ab type="string">The House-Warming 8 written F.</ab>
+                  <ab type="string">House-Warming 8 written F.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">13</seg>
-                     <seg type="chapterTitle">The House-Warming</seg>
+                     <seg type="chapterTitle">House-Warming</seg>
                      <seg type="paragraph">8</seg>
                      <seg type="written">F</seg>
                   </ab>
@@ -931,10 +931,10 @@
 
             <p n="9" change="#wc_0f">
                <note type="header" resp="#clapper">
-                  <ab type="string">The House-Warming 9 written F.</ab>
+                  <ab type="string">House-Warming 9 written F.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">13</seg>
-                     <seg type="chapterTitle">The House-Warming</seg>
+                     <seg type="chapterTitle">House-Warming</seg>
                      <seg type="paragraph">9</seg>
                      <seg type="written">F</seg>
                   </ab>
@@ -960,10 +960,10 @@
             <p n="10" change="#wc_0a">
                <seg n="10a" change="#wc_0a">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 10a written A; rewritten B, F, F.</ab>
+                     <ab type="string">House-Warming 10a written A; rewritten B, F, F.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">10a</seg>
                         <seg type="written">A</seg>
                         <seg type="rewritten">B, F, F</seg>
@@ -1011,11 +1011,11 @@
                </seg>
                <seg n="10b" change="#wc_0f">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 10b written F written: F.</ab>
+                     <ab type="string">House-Warming 10b written F written: F.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
-                        <seg type="paragraph">10b written F</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
+                        <seg type="paragraph">10b</seg>
                         <seg type="written">F</seg>
                      </ab>
                      <ab change="#wc_0f">House-Warming 10b follows House-Warming 5b; present order
@@ -1104,10 +1104,10 @@
 
             <p n="11" change="#wc_0a">
                <note type="header" resp="#clapper">
-                  <ab type="string">The House-Warming 11 written A; rewritten E, G.</ab>
+                  <ab type="string">House-Warming 11 written A; rewritten E, G.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">13</seg>
-                     <seg type="chapterTitle">The House-Warming</seg>
+                     <seg type="chapterTitle">House-Warming</seg>
                      <seg type="paragraph">11</seg>
                      <seg type="written">A</seg>
                      <seg type="rewritten">E, G</seg>
@@ -1359,10 +1359,10 @@
             <p n="12" change="#wc_0f">
                <seg n="12a" change="#wc_0f">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 12a written F.</ab>
+                     <ab type="string">House-Warming 12a written F.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">12a</seg>
                         <seg type="written">F</seg>
                      </ab>
@@ -1374,10 +1374,10 @@
                   Fair Haven, </seg>
                <seg n="12b" change="#wc_0a">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 12b written A; rewritten E.</ab>
+                     <ab type="string">House-Warming 12b written A; rewritten E.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">12b</seg>
                         <seg type="written">A</seg>
                         <seg type="rewritten">E</seg>
@@ -1570,10 +1570,10 @@
             <p n="13" change="#wc_0e">
                <seg n="13a" change="#wc_0e">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 13a written E.</ab>
+                     <ab type="string">House-Warming 13a written E.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">13a</seg>
                         <seg type="written">E</seg>
                      </ab>
@@ -1616,10 +1616,10 @@
                   themselves.</seg>
                <seg n="13b" change="#wc_0g">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 13b written G.</ab>
+                     <ab type="string">House-Warming 13b written G.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">13b</seg>
                         <seg type="written">G</seg>
                      </ab>
@@ -1650,10 +1650,10 @@
 
             <p n="14" change="#wc_0e">
                <note type="header" resp="#clapper">
-                  <ab type="string">The House-Warming 14 written E.</ab>
+                  <ab type="string">House-Warming 14 written E.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">13</seg>
-                     <seg type="chapterTitle">The House-Warming</seg>
+                     <seg type="chapterTitle">House-Warming</seg>
                      <seg type="paragraph">14</seg>
                      <seg type="written">E</seg>
                   </ab>
@@ -1733,10 +1733,10 @@
 
             <p n="15" change="#wc_0e">
                <note type="header" resp="#clapper">
-                  <ab type="string">The House-Warming 15 written E; rewritten E, G.</ab>
+                  <ab type="string">House-Warming 15 written E; rewritten E, G.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">13</seg>
-                     <seg type="chapterTitle">The House-Warming</seg>
+                     <seg type="chapterTitle">House-Warming</seg>
                      <seg type="paragraph">15</seg>
                      <seg type="written">E</seg>
                      <seg type="rewritten">E, G</seg>
@@ -1773,10 +1773,10 @@
             <p n="16" change="#wc_0a">
                <seg n="16a" change="#wc_0g">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 16a written G; rewritten G.</ab>
+                     <ab type="string">House-Warming 16a written G; rewritten G.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">16a</seg>
                         <seg type="written">G</seg>
                         <seg type="rewritten">G</seg>
@@ -1829,10 +1829,10 @@
                   earth. </seg>
                <seg n="16b" change="#wc_0e">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 16b written: E; rewritten: E, G.</ab>
+                     <ab type="string">House-Warming 16b written: E; rewritten: E, G.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">16b</seg>
                         <seg type="written">E</seg>
                         <seg type="rewritten">E, G</seg>
@@ -1889,10 +1889,10 @@
 
             <p n="17" change="#wc_0e">
                <note type="header" resp="#clapper">
-                  <ab type="string">The House-Warming 17 written E; rewritten E.</ab>
+                  <ab type="string">House-Warming 17 written E; rewritten E.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">13</seg>
-                     <seg type="chapterTitle">The House-Warming</seg>
+                     <seg type="chapterTitle">House-Warming</seg>
                      <seg type="paragraph">17</seg>
                      <seg type="written">E</seg>
                      <seg type="rewritten">E</seg>
@@ -1971,10 +1971,10 @@
             <p n="18" change="#wc_0f">
                <seg n="18a" change="#wc_0f">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 18a written F; rewritten G, G.</ab>
+                     <ab type="string">House-Warming 18a written F; rewritten G, G.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">18a</seg>
                         <seg type="written">F</seg>
                         <seg type="rewritten">G, G</seg>
@@ -2008,10 +2008,10 @@
                </seg>
                <seg n="18b" change="#wc_0g">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 18b written G; rewritten G.</ab>
+                     <ab type="string">House-Warming 18b written G; rewritten G.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">18b</seg>
                         <seg type="written">G</seg>
                         <seg type="rewritten">G</seg>
@@ -2100,10 +2100,10 @@
             <p n="19" change="#wc_0e">
                <seg n="19a" change="#wc_0e">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 19a written: E.</ab>
+                     <ab type="string">House-Warming 19a written: E.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">19a</seg>
                         <seg type="written">E</seg>
                      </ab>
@@ -2126,10 +2126,10 @@
                </seg>
                <seg n="19b" change="#wc_0e">
                   <note type="header" resp="#clapper">
-                     <ab type="string">The House-Warming 19b written E.</ab>
+                     <ab type="string">House-Warming 19b written E.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">19b</seg>
                         <seg type="written">E</seg>
                      </ab>
@@ -2149,7 +2149,7 @@
                      <ab type="string">The House-Warming 19c written E.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">13</seg>
-                        <seg type="chapterTitle">The House-Warming</seg>
+                        <seg type="chapterTitle">House-Warming</seg>
                         <seg type="paragraph">19c</seg>
                         <seg type="written">E</seg>
                      </ab>
