@@ -1927,15 +1927,17 @@
                      <seg type="written">A</seg>
                      <seg type="rewritten">E, F</seg>
                   </ab>
-               </note> in the almanac—his shanty. <add rendition="pencil">They
+               </note> 
+                  <note type="general" resp="#clapper" ana="#wc_0a">The Pond in Winter 18a follows a missing leaf (#211).</note>
+                  <note type="general" resp="#clapper" ana="#wc_0a">The Pond in Winter 18a appears as follows: in the almanac—his shanty. <add rendition="pencil">They
                      told me that</add> in a good day <del>they told me</del> they could get out a
-                  thousand tons which was the yield of about one acre <add>&amp; contained 10000
-                     tons</add>
-                  <add rendition="pencil">finally</add>
+                     thousand tons which was the yield of about one acre <add>&amp; contained 10000
+                        tons</add>
+                     <add rendition="pencil">finally</add></note>
                   <note type="general" resp="#clapper" ana="#wc_0e">The Pond in Winter 18a is
                      followed by Economy 106b.</note>
                   <app xml:id="walc16-app-0201">
-                     <lem>to speak literally,</lem>
+                     <lem>To speak literally,</lem>
                      <rdg wit="#wc_0e">But to speak <del>without jesting</del>
                         <add rendition="pencil">literally</add>
                      </rdg>
