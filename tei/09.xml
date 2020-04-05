@@ -1303,11 +1303,11 @@
                   </app> later I was accustomed to fish from a boat
                      <anchor type="hn" xml:id="hn-09-024"/>
                   <app xml:id="walc09-app-0128">
-                     <lem wit="#wc_base">in a secluded cove in the woods,</lem>
+                     <lem wit="#wc_base">in a secluded cove in the woods</lem>
                      <rdg wit="#wc_0d">
-                        <add>in a secluded cove in the woods</add>, in a <del>deep</del>
-                        <add>secluded</add> cove in the woods</rdg>
-                  </app> fifteen rods from the only shore they knew, which place was long since converted into a meadow.<app xml:id="walc09-app-0129">
+                        <add>in a <del>deep</del>
+                        <add>secluded</add> cove in the woods</add></rdg>
+                  </app>, fifteen rods from the only shore they knew, which place was long since converted into a meadow.<app xml:id="walc09-app-0129">
                      <lem wit="#wc_base">But</lem>
                      <rdg wit="#wc_0d">But <del>since I left it</del>
                      </rdg>
