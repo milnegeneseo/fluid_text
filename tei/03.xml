@@ -35,6 +35,8 @@
                   <persName xml:id="harding" role="editor">Walter Harding</persName>
                   <persName xml:id="shanley" role="editor">J. Lyndon Shanley</persName>
                   <persName xml:id="clapper" role="editor">Ronald Clapper</persName>
+                  <persName xml:id="schacht" role="editor">Paul Schacht</persName>
+                  <persName xml:id="witherell" role="editor">Elizabeth Witherell</persName>
                   <persName xml:id="easterly" role="manager">Joe Easterly</persName>
                </personGrp>
             </listPerson>
