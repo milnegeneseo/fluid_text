@@ -919,7 +919,10 @@
                      <rdg wit="#wc_0b">
                         <del>yourself the slave-driver</del>
                         <add>the slave-driver of yourself</add>.</rdg>
-                  </app> Talk of a divinity in man!<anchor type="hn" xml:id="hn-01-038"/> Look at the teamster on the highway, wending
+                  </app> <app xml:id="walc01-app-0076a">
+                     <lem>Talk of a divinity in man!</lem>
+                     <rdg wit="#wc_0a" resp="schacht">Ancient books, and some modern ones, talk of a divinity in man.</rdg></app>
+                     <anchor type="hn" xml:id="hn-01-038"/> Look at the teamster on the highway, wending
                   to market by day or night; <app xml:id="walc01-app-0077">
                      <lem>does any divinity stir within him?<anchor type="hn" xml:id="hn-01-039"/> His highest duty to fodder and water his horses! What is his
                         destiny to him compared with the shipping interests? Does not he drive for
