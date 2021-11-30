@@ -1066,8 +1066,8 @@
                      <seg type="written">A</seg>
                      <seg type="rewritten">B, F</seg>
                   </ab>
-                     <ab change="#wc_0a #wc_0b">A &amp; B: "They say that characters ... can understand that" does not appear in the manuscript in A or in the original copying of B but is interlined in pencil in B.</ab>
-                     <ab change="#wc_0b">B: A fair copy was made of only "I have been as sincere ... rest of the day and night."</ab>
+                     <ab change="#wc_0a #wc_0b"><quote>They say that characters ... can understand that</quote> does not appear in the manuscript in A or in the original copying of B but is interlined in pencil in B.</ab>
+                     <ab change="#wc_0b">A fair copy was made of only <quote>I have been as sincere ... rest of the day and night.</quote></ab>
                </note> Every morning was a cheerful
                   invitation to make my life of equal simplicity, and <app xml:id="walc02-app-0115">
                      <lem>I may say innocence, with Nature herself.</lem>
