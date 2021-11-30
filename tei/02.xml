@@ -1092,15 +1092,24 @@
                      </rdg>
                   </app> I did. <app xml:id="walc02-app-0118">
                      <lem>They say</lem>
+                     <rdg wit="#wc_0a"><!-- [not in ms.] --></rdg>
                      <rdg wit="#wc_0b">I have since read</rdg>
-                  </app> that characters were engraven on the bathing tub<app xml:id="walc02-app-0119">
+                  </app> 
+                  <app xml:id="walc02-app-0118a">
+                     <lem>that characters were engraven on the bathing tub</lem>
+                     <rdg wit="#wc_0a"><!-- [not in ms.] --></rdg>
+                     <rdg wit="#wc_0b">that characters were engraven on the bathing tub</rdg></app>
+                  <app xml:id="walc02-app-0119">
                      <lem>of</lem>
+                     <rdg wit="#wc_0a"><!-- [not in ms.] --></rdg>
                      <rdg wit="#wc_0b">of the</rdg>
-                  </app> king Tching-thang to this effect: “Renew thyself completely each day; do it <app xml:id="walc02-app-0120">
-                     <lem>again, and again, and forever again."<anchor type="hn" xml:id="hn-02-037"/>
-                     </lem>
-                     <rdg wit="#wc_0b #wc_0f">anew, and anew, and forever anew</rdg>
-                  </app> I can understand that. Morning brings back the heroic ages. <app xml:id="walc02-app-0121">
+                  </app> 
+                  <app xml:id="walc02-app-0120">
+                     <lem><anchor type="hn" xml:id="hn-02-037"/>king Tching-thang to this effect: “Renew thyself completely each day; do it again, and again, and forever again." I can understand that.</lem>
+                     <rdg wit="#wc_0a"><!-- [not in ms.] --></rdg>
+                     <rdg wit="#wc_0b wc_0f">king Tching-thang to this effect: “Renew thyself completely each day; do it anew, and anew, and forever anew." I can understand that.</rdg>
+                  </app>
+                     Morning brings back the heroic ages. <app xml:id="walc02-app-0121">
                      <lem>I was as much affected by the faint hum of a mosquito making its invisible and unimaginable
                         tour through my apartment at earliest dawn, when I was sitting with door and windows open, as I
                         could be by any trumpet that ever sang of fame.<anchor type="hn" xml:id="hn-02-038"/> It was
