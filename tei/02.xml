@@ -1081,7 +1081,7 @@
                         <del>The morning is to every one the season of his ideal life. Then, if ever, we
                            can realize the life of the Greeks—and we are all at some time good heathens enough to
                            acknowledge and worship their Aurora. Morning brings back the heroic ages.</del>
-                        <add>I have been as sincere a worshipper of Aurora as the Greeks.</add>
+                        <add resp="#schacht">For I have been as sincere a worshipper of Aurora as the Greeks.</add>
                      </rdg>
                   </app> I got up early and bathed in the pond; that was a religious exercise, and one of the best things<app xml:id="walc02-app-0117">
                      <lem>which</lem>
@@ -1093,31 +1093,32 @@
                   </app> I did. <app xml:id="walc02-app-0118">
                      <lem>They say</lem>
                      <rdg wit="#wc_0a"><!-- [not in ms.] --></rdg>
-                     <rdg wit="#wc_0b">I have since read</rdg>
+                     <rdg wit="#wc_0b"><add rendition="pencil">I have since read</add></rdg>
                   </app> 
                   <app xml:id="walc02-app-0118a">
                      <lem>that characters were engraven on the bathing tub</lem>
                      <rdg wit="#wc_0a"><!-- [not in ms.] --></rdg>
-                     <rdg wit="#wc_0b">that characters were engraven on the bathing tub</rdg></app>
+                     <rdg wit="#wc_0b"><add rendition="pencil">that characters were engraven on the bathing tub</add></rdg></app>
                   <app xml:id="walc02-app-0119">
                      <lem>of</lem>
                      <rdg wit="#wc_0a"><!-- [not in ms.] --></rdg>
-                     <rdg wit="#wc_0b">of the</rdg>
+                     <rdg wit="#wc_0b"><add rendition="pencil">of the</add></rdg>
                   </app> 
                   <app xml:id="walc02-app-0120">
                      <lem><anchor type="hn" xml:id="hn-02-037"/>king Tching-thang to this effect: “Renew thyself completely each day; do it again, and again, and forever again." I can understand that.</lem>
                      <rdg wit="#wc_0a"><!-- [not in ms.] --></rdg>
-                     <rdg wit="#wc_0b wc_0f">king Tching-thang to this effect: “Renew thyself completely each day; do it anew, and anew, and forever anew." I can understand that.</rdg>
+                     <rdg wit="#wc_0b wc_0f"><add rendition="pencil">king Tching-thang to this effect: “Renew thyself completely each day; do it anew, and anew, and forever anew." I can understand that.</add></rdg>
+                     <rdg wit="#wc_0f">king Tching-thang to this effect: “Renew thyself completely each day; do it anew, and anew, and forever anew." I can understand that.</rdg>
                   </app>
                      Morning brings back the heroic ages. <app xml:id="walc02-app-0121">
-                     <lem>I was as much affected by the faint hum of a mosquito making its invisible and unimaginable
+                        <lem>Morning brings back the heroic ages. I was as much affected by the faint hum of a mosquito making its invisible and unimaginable
                         tour through my apartment at earliest dawn, when I was sitting with door and windows open, as I
                         could be by any trumpet that ever sang of fame.<anchor type="hn" xml:id="hn-02-038"/> It was
                         Homer’s requiem;<anchor type="hn" xml:id="hn-02-039"/> itself an Iliad and Odyssey in
                         the air, singing its own wrath and wanderings.<anchor type="hn" xml:id="hn-02-040"/> There was something cosmical about it; a standing advertisement, till
                         forbidden, of the everlasting vigor and fertility of the world.</lem>
                      <rdg wit="#wc_0a">
-                        <del>So far the day was well spent—</del> In some unrecorded hours of solitude,
+                        So far the day was well spent— <add resp="#schacht"><del resp="#witherell">The</del> Morning brings back the heroic ages.</add> In some unrecorded hours of solitude,
                         sitting with door and windows open at very early dawn when the stillness was audible, and the
                         atmosphere contained the auroral perfume <add>which</add> I have mentioned, the faint hum of a
                         mosquito making its invisible and unimaginable tour through <del>the loaded and drowsy air
@@ -1134,7 +1135,7 @@
                            <orig xml:lang="gr">Өετον</orig>
                            <reg xml:lang="en" resp="#easterly">thetan</reg>
                         </choice> or divine. Only Homer could have named it </rdg>
-                     <rdg wit="#wc_0b">In some unrecorded hours of solitude, sitting with door and windows open, at very
+                        <rdg wit="#wc_0b">Morning brings back the heroic ages. In some unrecorded hours of solitude, sitting with door and windows open, at very
                         early dawn, when the stillness was audible, and the atmosphere contained the auroral perfume
                         which I have mentioned, the faint hum of a mosquito making its invisible and unimaginable tour
                         through my apartment was a trumpet that recalled <del>what</del>
@@ -1147,7 +1148,7 @@
                            song of the spheres that anthem the overflowing joy of the universe</add> It expressed the
                         infinite and everlasting fertility of the <del> қόбмоѕ or</del> world. It was Өετον or divine.
                         Only Homer could have named it </rdg>
-                     <rdg wit="#wc_0f">I was as much affected <del>sometimes</del> by the faint hum of a mosquito making
+                        <rdg wit="#wc_0f">Morning brings back the heroic ages. I was as much affected <del>sometimes</del> by the faint hum of a mosquito making
                         its invisible and unimaginable tour through my apartment at <del>very early</del>
                         <add rendition="pencil">earliest</add> dawn <add rendition="pencil">an Iliad &amp; Odyssey
                            in the air—singing its own wrath &amp; wanderings</add>, when I was sitting with door and
