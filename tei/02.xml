@@ -1099,7 +1099,7 @@
                   <app xml:id="walc02-app-0118a">
                      <lem>that characters were engraven on the bathing tub</lem>
                      <rdg wit="#wc_0a"><!-- [not in ms.] --></rdg>
-                     <rdg wit="#wc_0b"><add rendition="pencil"><del resp="#schacht">that</del> characters were engraven on the bathing tub</add></rdg></app>
+                     <rdg wit="#wc_0b"><del resp="#schacht"><add rendition="pencil">that</add></del> <add rendition="pencil">characters were engraven on the bathing tub</add></rdg></app>
                   <app xml:id="walc02-app-0119">
                      <lem>of</lem>
                      <rdg wit="#wc_0a"><!-- [not in ms.] --></rdg>
