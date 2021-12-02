@@ -1080,7 +1080,7 @@
                      <rdg wit="#wc_0a">
                         <del>The morning is to every one the season of his ideal life. Then, if ever, we
                            can realize the life of the Greeks—and we are all at some time good heathens enough to
-                           acknowledge and worship their Aurora. Morning brings back the heroic ages.</del>
+                           acknowledge and worship their Aurora.</del><del resp="#witherell"> Morning brinks back the heroic ages.</del>
                         <add resp="#schacht">For I have been as sincere a worshipper of Aurora as the Greeks.</add>
                      </rdg>
                      <rdg wit="#wc_0b" resp="#schacht"><del>For</del> <add rendition="pencil">Indeed</add> I have been as sincere a worshipper of Aurora as the Greeks.</rdg>
@@ -1094,12 +1094,12 @@
                   </app> I did. <app xml:id="walc02-app-0118">
                      <lem>They say</lem>
                      <rdg wit="#wc_0a"><!-- [not in ms.] --></rdg>
-                     <rdg wit="#wc_0b"><add rendition="pencil">I have since read</add></rdg>
+                     <rdg wit="#wc_0b"><add rendition="pencil"><del resp="#schacht">I have since read</del></add></rdg>
                   </app> 
                   <app xml:id="walc02-app-0118a">
                      <lem>that characters were engraven on the bathing tub</lem>
                      <rdg wit="#wc_0a"><!-- [not in ms.] --></rdg>
-                     <rdg wit="#wc_0b"><add rendition="pencil">that characters were engraven on the bathing tub</add></rdg></app>
+                     <rdg wit="#wc_0b"><add rendition="pencil"><del resp="#schacht">that</del> characters were engraven on the bathing tub</add></rdg></app>
                   <app xml:id="walc02-app-0119">
                      <lem>of</lem>
                      <rdg wit="#wc_0a"><!-- [not in ms.] --></rdg>
@@ -1136,7 +1136,7 @@
                            <orig xml:lang="gr">Өετον</orig>
                            <reg xml:lang="en" resp="#easterly">thetan</reg>
                         </choice> or divine. Only Homer could have named it </rdg>
-                        <rdg wit="#wc_0b">Morning brings back the heroic ages. In some unrecorded hours of solitude, sitting with door and windows open, at very
+                        <rdg wit="#wc_0b">So far the day was well spent. Morning brings back <add resp="#witherell">or brings about</add> the heroic ages. In some unrecorded hours of solitude, sitting with door and windows open, at very
                         early dawn, when the stillness was audible, and the atmosphere contained the auroral perfume
                         which I have mentioned, the faint hum of a mosquito making its invisible and unimaginable tour
                         through my apartment was a trumpet that recalled <del>what</del>
