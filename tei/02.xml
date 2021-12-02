@@ -1094,7 +1094,7 @@
                   </app> I did. <app xml:id="walc02-app-0118">
                      <lem>They say</lem>
                      <rdg wit="#wc_0a"><!-- [not in ms.] --></rdg>
-                     <rdg wit="#wc_0b"><add rendition="pencil"><del resp="#schacht">I have since read</del></add></rdg>
+                     <rdg wit="#wc_0b"><del resp="#schacht"><add rendition="pencil">I have since read</add></del></rdg>
                   </app> 
                   <app xml:id="walc02-app-0118a">
                      <lem>that characters were engraven on the bathing tub</lem>
