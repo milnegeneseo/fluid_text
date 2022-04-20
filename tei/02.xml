@@ -1683,10 +1683,13 @@
                      <seg type="written">A</seg>
                      <seg type="rewritten">B, B, E</seg>
                   </ab>
+                     <ab change="#wc_0a"><quote>If we read of one man … greedy after this gossip</quote> does not appear in the manuscript.</ab>
+                     <ab change="#wc_0b"><quote>For my part … greedy after this gossip</quote> was written in pencil on a leaf that was added to the manuscript before a fair copy was made of all of Where I Lived, and What I Lived For 19a.</ab>
+                     <ab change="#wc_0e">A fair copy was made of
+                     only <quote>For my part, I could … or one vessel wrecked, or one steam-</quote>.</ab>
                </note>
                   
-                   A fair copy was made of
-                  only <quote>For my part, I could … or one vessel wrecked, or one steam-</quote>. <app xml:id="walc02-app-0182">
+                    <app xml:id="walc02-app-0182">
                      <lem>For my part, I could easily do without the post-office. I think that there are very few
                         important communications made through it. To speak critically, I never received more than one or
                         two letters in my life—I wrote this some years ago—that were worth the postage.<anchor type="hn" xml:id="hn-02-064"/> The penny-post<anchor type="hn" xml:id="hn-02-065"/> is, commonly, an institution through
