@@ -1031,7 +1031,7 @@
                   <lem>to Aldebaran or Altair,<anchor type="hn" xml:id="hn-02-034"/>
                   </lem>
                   <rdg wit="#wc_0a">
-                     <add rendition="pencil">to Aldebaran or Altair</add>,</rdg>
+                     <add rendition="pencil" resp="#schacht">to</add> <del resp="#schacht">or Orion or</del> Aldebaran <add rendition="pencil" resp="#schacht">or Altair,</add></rdg>
                </app> then I was really there, or at an equal remoteness from the life which I had left<app xml:id="walc02-app-0112">
                   <lem>behind,</lem>
                   <rdg wit="#wc_0a">behind—<del>as near to the immortal city</del>
