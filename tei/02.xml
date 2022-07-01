@@ -1083,7 +1083,7 @@
                            acknowledge and worship their Aurora.</del><del resp="#witherell"> Morning brinks back the heroic ages.</del>
                         <add resp="#schacht">For I have been as sincere a worshipper of Aurora as the Greeks.</add>
                      </rdg>
-                     <rdg wit="#wc_0b" resp="#schacht"><del>For</del> <add rendition="pencil">Indeed</add> I have been as sincere a worshipper of Aurora as the Greeks.</rdg>
+                     <rdg wit="#wc_0b" resp="#schacht"><del resp="#schacht">For</del> <add rendition="pencil" resp="#schacht">Indeed</add> I have been as sincere a worshipper of Aurora as the Greeks.</rdg>
                   </app> I got up early and bathed in the pond; that was a religious exercise, and one of the best things<app xml:id="walc02-app-0117">
                      <lem>which</lem>
                      <rdg wit="#wc_0a"><!-- [ not in ms.]-->
