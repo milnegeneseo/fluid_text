@@ -1094,7 +1094,7 @@
                   </app> I did. <app xml:id="walc02-app-0118">
                      <lem>They say</lem>
                      <rdg wit="#wc_0a"><!-- [not in ms.] --></rdg>
-                     <rdg wit="#wc_0b" resp="#schacht"><del resp="#schacht"><add rendition="pencil" resp="#schacht">I have since read</add></del></rdg>
+                     <rdg wit="#wc_0b"><del resp="#schacht"><add rendition="pencil">I have since read</add></del></rdg>
                   </app> 
                   <app xml:id="walc02-app-0118a">
                      <lem>that characters were engraven on the bathing tub</lem>
@@ -2092,7 +2092,7 @@
                   after the last man. In eternity there is indeed something true and sublime. But all these times and
                   places and occasions are now <app xml:id="walc02-app-0221a">
                      <lem>and here.</lem>
-                     <rdg wit="#wc_0a" resp="#schacht"><add rendition="pencil">and here. </add></rdg>
+                     <rdg wit="#wc_0a" resp="#schacht"><add rendition="pencil" resp="#schacht">and here. </add></rdg>
                   </app>God himself culminates in the present moment, and will never be
                   more divine in the lapse of all the ages. And we are enabled to apprehend at all what is sublime and
                   noble only by the perpetual instilling and drenching of the reality which surrounds us. The universe
