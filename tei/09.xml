@@ -1323,7 +1323,7 @@
                      <anchor type="hn" xml:id="hn-09-025"/>
                    is just five feet higher than when I lived there, or as high as it was<app xml:id="walc09-app-0131">
                      <lem wit="#wc_base">thirty</lem>
-                     <rdg wit="#wc_0d" resp="#easterly" cert="low">
+                     <rdg wit="#wc_0d">
                         <del>20</del>
                         <add>25</add>
                         </rdg>
@@ -1973,7 +1973,7 @@
                </note>
                The shore is irregular enough not to be monotonous. I have in my <app xml:id="walc09-app-0195">
                   <lem wit="#wc_base">mind’s eye</lem>
-                  <rdg wit="#wc_0f" cert="low" resp="#easterly">
+                  <rdg wit="#wc_0f">
                      <del>mind</del>
                      <add>mind’s eye</add>
                   </rdg>
@@ -2828,7 +2828,7 @@
                   </app> A walk through the woods thither was often my recreation. It was worth the while, if only to
                   feel the wind blow<app xml:id="walc09-app-0297">
                      <lem wit="#wc_base">on your cheek freely,</lem>
-                     <rdg wit="#wc_0e" cert="low" resp="#easterly">
+                     <rdg wit="#wc_0a">
                         <add rendition="pencil">on your cheek</add>
                      </rdg>
                   </app> and see the waves run, and remember the life of mariners. I went <app xml:id="walc09-app-0298">
