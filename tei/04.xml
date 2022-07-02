@@ -388,29 +388,33 @@
                      </rdg>
                      <rdg wit="#wc_0f"><del resp="#schacht">It is true, a</del><add resp="#schacht">A</add> man must find his occasions in himself<add resp="#schacht">, it is true.</add></rdg>
                   </app>
-                  <app xml:id="walc04-app-0036" /><!-- this app removed -->
-                  The natural day is very calm, and will hardly reprove his <app xml:id="walc04-app-0037">
+                  
+                  <!-- app walc04-app-0036 removed -->
+                  
+                  The natural day is very calm, and will hardly reprove his 
+                  
+                  <app xml:id="walc04-app-0037">
                      <lem>indolence.</lem>
                      
                      <rdg wit="#wc_0a">indolence. <del>If there was</del>
                         <add>When there is</add> no elevation in <del>our spirits</del>
                         <add>my spirit</add> the pond <del>would</del>
                         <add>does</add> not seem elevated like a mountain tarn, but a low pool, a silent muddy water
-                        &amp; place for fishermen</rdg>
-                     <rdg wit="#wc_0b">indolence. Where there <del>is</del>
+                        &amp; place for fishermen.<note type="general" resp="#clapper" ana="#wc_0a">In A, paragraphs 18-22 of "Where I Lived" follow here.</note> I am glad to remember as I sit by my door that I too am a remote descendant of a heroic race of men of whom there is tradition—in one sense a fellow wanderer and
+                        survivor of Ulysses, for instance. My life passes amid the pines of New England. The pitch pine
+                        grows before my door unlike any <del>glyph</del> <del><add rendition="pencil">glyphic</add></del> <add rendition="pencil">symbol</add> I have seen sculptured or painted. Where are the heroes
+                        whose exploits shall appear to posterity sculptured on monuments amid such natural forms as
+                        these—as <add rendition="pencil">we see</add> heroes and demigods amid the lotuses and palms of the east. What new marks shall we <del>add to</del><add rendition="pencil"> make at</add> the Reed Pipe-stone Quarry?</rdg>
+                     <rdg wit="#wc_0b">indolence. When there <del>is</del>
                         <add rendition="pencil">was</add> no elevation of my spirit the pond <del>does</del>
-                        <add rendition="pencil">did</add> not seem elevated like a mountain tarn, but a low pool, a
-                        silent muddy water &amp; place for fishermen.</rdg>
-                     <rdg wit="#wc_0f" cert="low" resp="#easterly">indolence. Where there <del>is</del>
-                        <add>was</add> no elevation of my spirit the pond <del>does</del>
-                        <add>did</add> not seem elevated like a mountain tarn, but a low pool, a silent muddy water and
+                        <add rendition="pencil">did</add> not seem elevated like a mountain tarn, but a low pool, a silent muddy water and
                         place for fishermen. I am glad to remember as I sit by my door that I too am a remote descendant
                         at least of a heroic race of men of whom there is tradition, in one sense a fellow wanderer and
                         survivor of Ulysses, for instance. My life passes amid the pines of New England. The pitch pine
                         grows before my door unlike any symbol or glyphic I have seen painted. Where are the heroes
                         whose exploits shall appear to posterity sculptured on monuments amid such natural forms as
                         these? As we see heroes and demigods amid the lotuses and palms of the east. Where are the new
-                        Americans whose forms shall be sculpted on the Reed Pipe-stone Quarry?</rdg>
+                        Americans whose forms shall be sculpted on the Reed Pipe-stone Quarry? <note type="general" resp="#clapper" ana="#wc_0b">In B, paragraphs 18-22 of "Where I Lived" follow here.</note></rdg>
                   </app>
                </seg>
             </p>
