@@ -380,16 +380,16 @@
                      <ab change="#wc_0a #wc_0b">Sounds 2c follows Sounds 3</ab>
                      <ab change="#wc_0a">Sounds 2c is followed by Where I Lived, and What I
                      Lived For 21b.</ab>
+                     <ab change="#wc_0f">Sounds 2c follows Sounds 2b.</ab>
                   </note>
                   
-                   A man must find<app xml:id="walc04-app-0035">
-                     <lem>his</lem>
-                     <rdg wit="#wc_0a">his <del>own</del>
+                  <app xml:id="walc04-app-0035"><lem>A man must find his occasions in himself, it is true.</lem>
+                     <rdg wit="#wc_0a">A man must find his <del>own</del> occasions in himself.
                      </rdg>
-                  </app> occasions in himself,<app xml:id="walc04-app-0036">
-                     <lem>it is true.</lem>
-                     <rdg wit="#wc_0a #wc_0b"><!--[not in ms.]--></rdg>
-                  </app> The natural day is very calm, and will hardly reprove his <app xml:id="walc04-app-0037">
+                     <rdg wit="#wc_0f"><del resp="#schacht">It is true, a</del><add resp="#schacht">A</add> man must find his occasions in himself<add resp="#schacht">, it is true.</add></rdg>
+                  </app>
+                  <app xml:id="walc04-app-0036" /><!-- this app removed -->
+                  The natural day is very calm, and will hardly reprove his <app xml:id="walc04-app-0037">
                      <lem>indolence.</lem>
                      
                      <rdg wit="#wc_0a">indolence. <del>If there was</del>
