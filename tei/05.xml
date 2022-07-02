@@ -187,7 +187,7 @@
                      <del>We associate wildness with the night—and silence—But the repose is never
                         complete;</del> nature has her watchmen who are links connecting the days of
                      animated life.</rdg>
-                  <rdg wit="#wc_0b" resp="#ygm #clapper" cert="medium">
+                  <rdg wit="#wc_0b">
                      <del>
                         <del>Nature has her</del>
                         <add rendition="pencil">These are Nature’s</add> watchmen <del>who are</del>
@@ -998,7 +998,7 @@
                   <ab change="#wc_0a">Solitude 12a is preceded by Visitors 1.</ab>
                </note> I find it <app xml:id="walc05-app-0107">
                      <lem>wholesome</lem>
-                     <rdg wit="#wc_0a" resp="clapper">
+                     <rdg wit="#wc_0a">
                         <del>healthy</del>
                         <add>wholesome</add>
                      </rdg>
