@@ -1592,20 +1592,31 @@
             
             <p n="21" change="#wc_0f">
                
-               <seg n="21a" change="#wc_0e">
+               <seg n="21a" change="#wc_0d">
                   <note type="header" resp="#clapper">
-                  <ab type="string">Former Inhabitants 21a written: E; rewritten: G.</ab>
+                  <ab type="string">Former Inhabitants 21a written: D; rewritten: E, F, G.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">14</seg>
                      <seg type="chapterTitle">Former Inhabitants</seg>
                      <seg type="paragraph">21a</seg>
-                     <seg type="written">E</seg>
+                     <seg type="written">D</seg>
+                     <seg type="rewritten">E</seg>
+                     <seg type="rewritten">F</seg>
                      <seg type="rewritten">G</seg>
                   </ab>
                </note>
-
-                   I should not forget that during my last winter at the pond there was
-                  another welcome visitor,<anchor type="hn" xml:id="hn-14-053"/> who at one time came
+                  <app xml:id="walc14-app-0169a">
+                     <lem>I should not forget that during my last winter at the pond</lem>
+                     <rdg wit="#wc_0d"><del>During</del> I should not forget that during my last winter at the pond</rdg>
+                     <rdg wit="#wc-0e">I should not forget that, during my last winter at the pond,</rdg>
+                  </app>
+                   there was
+                  <app xml:id="walc14-app-0169b">
+                     <lem>another</lem>
+                     <rdg wit="#wc_0d">one <del>visit</del><add rendition="pencil">other</add></rdg>
+                     <rdg wit="#wc_0e">one other</rdg>
+                  </app>
+                  welcome visitor,<anchor type="hn" xml:id="hn-14-053"/> who at one time came
                   through the village, through snow and rain and darkness, till he saw my lamp through the trees, and
                   shared with me some long winter evenings. One of the last of the philosophers,— <app xml:id="walc14-app-0170">
                      <lem>Connecticut gave him</lem>
