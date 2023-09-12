@@ -719,7 +719,7 @@
                   </note>
                    I <app xml:id="walc12-app-0057">
                      <lem>formerly saw</lem>
-                     <rdg wit="#wc_0a">have formerly seen </rdg>
+                     <rdg wit="#wc_0a"><del resp="#schacht">have</del> <add rendition="pencil" resp="#schacht">had</add> formerly seen </rdg>
                      <rdg wit="#wc_0e">had formerly seen </rdg>
                      <rdg wit="#wc_0g">
                         <del>had formerly seen</del>
@@ -728,8 +728,7 @@
                   </app> the raccoon in the woods behind <app xml:id="walc12-app-0058">
                      <lem>where my house is built,</lem>
                      <rdg wit="#wc_0a">
-                        <del>my house</del>
-                        <add>where my house stands</add>
+                        <add>where</add> <del><add>my</add></del> my house <add>stands</add> 
                      </rdg>
                      <rdg wit="#wc_0e">where my house was built </rdg>
                      <rdg wit="#wc_0g">where my house <del>was</del>
@@ -739,10 +738,11 @@
                      <rdg wit="#wc_0a">hear</rdg>
                   </app> their whinnering at <app xml:id="walc12-app-0060">
                      <lem>night.</lem>
-                     <rdg wit="#wc_0a">night <add>castel’d in a hollow tree</add>
+                     <rdg wit="#wc_0a">night — <add rendition="pencil" resp="#witherell" cert="medium">They are</add><note type="general" subtype="inline" resp="#schacht">"They are" is overwritten in ink by "castel'd".</note><del resp="#witherell"><add rendition="pencil" resp="#witherell" cert="medium">occasionally still</add></del> <add rendition="pencil" resp="#schacht"> from time to time found in the hollow trees in my neighborhood</add> <add resp="#schacht">"castel’d in a hollow tree"</add>  
+                        <add rendition="pencil" resp="#schacht">"castel'd in the hollow of an aged tree;"</add>
                      </rdg>
                   </app>
-               </seg>
+               </seg>   
                
                <seg n="11c" change="#wc_0e">
                   <note type="header" resp="#clapper">
