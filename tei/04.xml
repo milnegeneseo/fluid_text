@@ -988,6 +988,7 @@
                      <seg type="written">B</seg>
                      <seg type="rewritten">D</seg>
                   </ab>
+                     <ab change="#wc_0b">10a is interlined in pencil.</ab>
                </note>
                    Far through<app xml:id="walc04-app-0104">
                      <lem>unfrequented woods</lem>
@@ -1137,6 +1138,8 @@
                      <seg type="written">A</seg>
                      <seg type="rewritten">B, D</seg>
                   </ab>
+                     <ab change="#wc_0b">11a follows 11b.</ab>
+                     <ab change="#wc_0d">11a precedes 11b.</ab>
                </note>
                   <app xml:id="walc04-app-0122">
                      <lem>What recommends commerce to me is</lem>
