@@ -1862,20 +1862,12 @@
                      <seg type="written">E</seg>
                      <seg type="rewritten">F</seg>
                   </ab>
-                  <ab change="#wc_0e">Former Inhabitants; and Winter Visitors 23 appears as
-                  follows.</ab>
                </note>
-                Others there were one or two who paid me angel visits, looking in upon me from time to
-               time, but no more for society had I <add rendition="pencil">there</add>
-               <note type="general" resp="#clapper" ana="#wc_0f">
-                  <p>Former Inhabitants; and Winter Visitors 23 appears
-                     as follows.</p>
-                  <p>Others there were, one or two <add>with whom I had "solid seasons," long to be remembered, at their
-                        houses in the village &amp;</add> who paid me angel visits, looking in upon me from time to
-                     time, but no more for society had I there</p>
-               </note> There was one other<anchor type="hn" xml:id="hn-14-063"/> with whom I had "solid seasons," long to be remembered, at
-               his house in the village, and who looked in upon me from time to time; but I had no more for society
-               there. </p>
+               <app xml:id="walc14-app-0198a">
+                  <lem>There was one other<anchor type="hn" xml:id="hn-14-063"/> with whom I had "solid seasons," long to be remembered, at his house in the village, and who looked in upon me from time to time; but I had no more for society there.</lem>
+                  <rdg wit="#wc_0e">Others there were one or two who paid me angel visits, looking in upon me from time to time, but no more for society had I <add rendition="pencil">there</add>.</rdg>
+                  <rdg wit="#wc_0f">Others there were, one or two <add>with whom I had "solid seasons," long to be remembered, at their houses in the village &amp;</add> who paid me angel visits, looking in upon me from time to time, but no more for society had I there.</rdg>
+               </app></p>
             
             <p n="24" change="#wc_0e">
                <note type="header" resp="#clapper">
