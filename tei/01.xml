@@ -2049,37 +2049,37 @@
                      <rdg wit="#wc_0a">From this list it appears </rdg>
                      <rdg wit="#wc_0b">It appears, <del>then</del>
                         <add>therefore</add>, from the above list</rdg>
-                  </app> that the expression, <hi rend="style(italics)">animal</hi>, <app xml:id="walc01-app-0179">
+                  </app>  that <app xml:id="walc01-app-0179">
                      <lem>
-                        <hi rend="style(italics)">life</hi>
+                        the expression, <hi rend="style(italics)">animal life</hi>
                      </lem>
-                     <rdg wit="#wc_0a">heat </rdg>
-                     <rdg wit="#wc_0b">
-                        <del>heat</del>
-                        <add>life</add>
+                     <rdg wit="#wc_0a" resp="#schacht">the expression "animal heat"</rdg>
+                     <rdg wit="#wc_0b" resp="#schacht">
+                        the expression "animal <del>heat</del>
+                        <add>life</add>"
                      </rdg>
-                  </app> is nearly synonymous with <app xml:id="walc01-app-0180">
-                     <lem>the expression,</lem>
-                     <rdg wit="#wc_0a"><!--A: not in ms.--></rdg>
-                     <rdg wit="#wc_0b">
-                        <add>the expression</add>,</rdg>
+                  </app>, is nearly synonymous with <app xml:id="walc01-app-0180">
+                     <lem resp="#schacht">the expression, <hi rend="style(italics)">animal heat</hi>;</lem>
+                     <rdg wit="#wc_0a" resp="#schacht">"animal life" —<!-- A: not in ms. --><!-- Preceding comment preserved from Clapper but no longer relevant. --></rdg>
+                     <rdg wit="#wc_0b" resp="#schacht">
+                        <add>the expression</add> "<del resp="#schacht">A</del><add resp="#schacht">a</add>nimal <del resp="#schacht">life</del><add resp="#schacht">heat</add>" — </rdg>
                   </app>
-                  <hi rend="style(italics)">animal</hi>; <app xml:id="walc01-app-0181">
+                  <!--  Corrections above have rendered this content no longer necessary. <hi rend="style(italics)">animal</hi> <app xml:id="walc01-app-0181">
                      <lem>
                         <hi rend="style(italics)">heat</hi>;</lem>
-                     <rdg wit="#wc_0a">life</rdg>
+                     <rdg wit="#wc_0a">life;</rdg>
                      <rdg wit="#wc_0b">
                         <del>life</del>
-                        <add>heat</add>;</rdg>
-                  </app> for <app xml:id="walc01-app-0182">
+                        <add>heat;</add></rdg>
+                  </app> --> for <app xml:id="walc01-app-0182">
                      <lem>while Food may be regarded as the Fuel which keeps up the fire within
                         us,—and Fuel serves only to prepare that Food or to increase the warmth of
                         our bodies by addition from without,—Shelter and Clothing also serve only to
                         retain the <hi rend="style(italics)">heat</hi> thus generated and
                         absorbed.</lem>
-                     <rdg wit="#wc_0a">Shelter Clothing and Fuel warm us, so to speak from without,
+                     <rdg wit="#wc_0a">Shelter Clothing and Fuel warm us, so to speak, from without,
                         Food from within.</rdg>
-                     <rdg wit="#wc_0b">While Food <del>is</del>
+                     <rdg wit="#wc_0b">while Food <del>is</del>
                         <add rendition="pencil">may be regarded as</add> the <hi rend="style(underline)">fuel</hi> which keeps up the fire within us, and
                         Fuel serves only to prepare that Food, or to increase the <hi rend="style(underline)">warmth</hi> of our bodies by addition from
                         without—Shelter and Clothing also serve only to retain the <hi rend="style(underline)">heat</hi> thus generated and absorbed.</rdg>
@@ -2216,15 +2216,15 @@
                </note>
                   <app xml:id="walc01-app-0197">
                      <lem>Most of the luxuries, and many of the so-called comforts of life, are not
-                        only indispensable, but positive hindrances to the elevation of
+                        only not indispensable, but positive hinderances to the elevation of
                         mankind.</lem>
                      <rdg wit="#wc_0a">To the elevation and ennoblement of mankind what are called
                         the luxuries &amp; many of the comforts of life are not only not
                         indispensable, but positive hindrances.</rdg>
-                     <rdg wit="#wc_0b">
+                     <rdg wit="#wc_0b" resp="#schacht">
                         <del>To the elevation and ennoblement of mankind what are called</del>
                         <add rendition="pencil">Most of</add> the luxuries and many of the <add rendition="pencil"> so-called</add> comforts of life are not only not
-                        indispensable, but positive hindrances <add rendition="pencil"> to the
+                        indispensable, but positive hind<add rendition="pencil" resp="#schacht">e</add>rances <add rendition="pencil"> to the
                            elevation of mankind.</add>
                      </rdg>
                   </app> With respect to luxuries and comforts, the wisest have ever lived a more
