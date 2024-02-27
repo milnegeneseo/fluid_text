@@ -7901,12 +7901,12 @@
                      <rdg wit="#wc_0a #wc_0b">would undoubtedly </rdg>
                      <rdg wit="#wc_0c">would <del>undoubtedly</del>
                      </rdg>
-                  </app> be <hi rend="style(italics)">better than this</hi>, <app xml:id="walc01-app-0756">
-                     <lem>than this</lem>
+                  </app> be <app xml:id="walc01-app-0756">
+                     <lem><hi rend="style(italics)">better than this</hi></lem>
                      <rdg wit="#wc_0a">
-                        <add>than this</add>
+                        better <add>than this</add>
                      </rdg>
-                  </app> for the students, or those who de<anchor type="page" n="51"/>sire to be benefited by it, <app xml:id="walc01-app-0757">
+                  </app> for the students, or those who <anchor type="page" n="51"/>desire to be benefited by it, <app xml:id="walc01-app-0757">
                      <lem>even</lem>
                      <rdg wit="#wc_0a">
                         <add rendition="pencil">even</add>
@@ -7981,7 +7981,7 @@
                         <del>should</del>
                         <add rendition="pencil">would</add>
                      </rdg>
-                  </app> not pursue the common course, which is merely <app xml:id="walc01-app-0766">
+                  </app> not pursue the common course, which is <app xml:id="walc01-app-0766">
                      <lem>merely</lem>
                      <rdg wit="#wc_0d">
                         <add rendition="pencil">merely</add>
@@ -8005,8 +8005,7 @@
                         <add rendition="pencil">learn</add>
                      </rdg>
                   </app> how it is earned; to discover new satellites to Neptune,<anchor type="hn" xml:id="hn-01-215"/> and
-                  not detect the motes in his eyes,<anchor type="hn" xml:id="hn-01-216"/> or to what vagabond he is a
-                  satellite himself; or <app xml:id="walc01-app-0770">
+                  not detect the motes in his eyes,<anchor type="hn" xml:id="hn-01-216"/> <app xml:id="walc01-app-0770">
                      <lem>or to what vagabond he is a satellite himself; or </lem>
                      <rdg wit="#wc_0d"><!--D: not in ms.--></rdg>
                   </app> to be devoured by the monsters that swarm all around him, while
