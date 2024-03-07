@@ -8509,9 +8509,9 @@
                      <rdg wit="#wc_0a">
                         <add>the remainder of my fuel.</add>
                      </rdg>
-                  </app> I was <app xml:id="walc01-app-0826">
+                  </app> I <app xml:id="walc01-app-0826">
                      <lem>was obliged to</lem>
-                     <rdg wit="#wc_a1">had </rdg>
+                     <rdg wit="#wc_a1">had to</rdg>
                      <rdg wit="#wc_0b">
                         <del>had</del>
                         <add rendition="pencil">was obliged to</add>
@@ -9676,7 +9676,7 @@
                      <lem>it is supposed,</lem>
                      <rdg wit="#wc_0a">
                         <add rendition="pencil">it is supposed</add>,</rdg>
-                  </app> taught the leavening process, and through <app xml:id="walc01-app-0924">
+                  </app> taught the leavening process, and <app xml:id="walc01-app-0924">
                      <lem>through</lem>
                      <rdg wit="#wc_0a"><!--A: not in ms.--></rdg>
                   </app> the various fermentations thereafter, till <app xml:id="walc01-app-0925">
@@ -9687,8 +9687,8 @@
                      </rdg>
                   </app> to “good, sweet, wholesome bread,” the staff of life.<anchor type="hn" xml:id="hn-01-266"/> Leaven, which some deem the soul of bread, the <hi rend="style(italics)">spiritus</hi> which fills its cellular tissue, which is
                   religiously preserved like the vestal fire,<anchor type="hn" xml:id="hn-01-267"/> —some precious bottle-full, I
-                  suppose, <app xml:id="walc01-app-0926">
-                     <lem>suppose </lem>
+                  <app xml:id="walc01-app-0926">
+                     <lem>suppose, </lem>
                      <rdg wit="#wc_0a">
                         <del>presume</del>
                         <add rendition="pencil">suppose</add>
