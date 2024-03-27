@@ -1046,11 +1046,11 @@
                         <add>
                            <add rendition="pencil">remembered</add> the story of</add>
                      </rdg>
-                  </app> a conceited fellow, who, in fine clothes,<app xml:id="walc13-app-0104">
+                  </app> a conceited fellow, who, <app xml:id="walc13-app-0104">
                      <lem>in</lem>
                      <rdg wit="#wc_0f">
                         <del>dressed</del> in</rdg>
-                  </app> was wont to lounge about the village<app xml:id="walc13-app-0105">
+                  </app> fine clothes, was wont to lounge about the village<app xml:id="walc13-app-0105">
                      <lem>once,</lem>
                      <rdg wit="#wc_0f">
                         <add rendition="pencil">once</add>,</rdg>
@@ -1272,7 +1272,7 @@
                   <rdg wit="#wc_0f">since formed </rdg>
                   <rdg wit="#wc_0g">
                      <del>since</del> formed</rdg>
-               </app> as <app xml:id="walc13-app-0134">
+               </app> <app xml:id="walc13-app-0134">
                   <lem>as I could see distinctly by the seam in the edge of the cake.</lem>
                   <rdg wit="#wc_0f">
                      <del>and I could see the seam distinctly</del>
