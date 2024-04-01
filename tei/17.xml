@@ -226,7 +226,7 @@
                         Walden.</ab>
                   </note> A thermometer thrust into the middle of Walden on the 6th of March, 1847,
                   stood at 32°, or freezing point; near the shore at 33°; in the middle of Flint’s
-                  Pond, the same day, at 32½°'; at a dozen rods from the shore, in shallow water,
+                  Pond, the same day, at 32½°; at a dozen rods from the shore, in shallow water,
                   under ice a foot thick, at 36°. This difference of three and it half degrees
                   between the temperature of the deep water and the shallow in the latter pond, and
                   the fact that a great proportion of it is comparatively shallow, show why it
@@ -445,7 +445,7 @@
                         <del>when I had</del>
                         <add rendition="pencil">having</add> gone</rdg>
                   </app> to Flint’s Pond to spend the <app xml:id="walc17-app-0032">
-                     <lem wit="#wc_base">day'</lem>
+                     <lem wit="#wc_base">day,</lem>
                      <rdg wit="#wc_0e">day observing the temperature of the water </rdg>
                      <rdg wit="#wc_0f">day, <del>observing the temperature of the water</del>
                      </rdg>
@@ -833,7 +833,7 @@
                </app> entirely. In 1845 Walden <app xml:id="walc17-app-0075">
                   <lem wit="#wc_base">was first completely open on the 1st of April; in ’46, the
                      25th of March; in ’47, the 8th of April; in ’51, the 28th of March; in ’52, the
-                     18th of April; in ’'53, the 23d of March; in ’54, about the 7th of April.<anchor type="hn" xml:id="hn-17-006"/>
+                     18th of April; in ’53, the 23d of March; in ’54, about the 7th of April.<anchor type="hn" xml:id="hn-17-006"/>
                   </lem>
                   <rdg wit="#wc_0a">broke up on the 1<hi rend="style(superscript)">st</hi> of April
                      in 1846 on <add>the</add> 25<hi rend="style(superscript)">th</hi> March </rdg>
@@ -2674,7 +2674,7 @@
                   </rdg>
                </app> sticks<anchor type="hn" xml:id="hn-17-040"/> which boys play with their fingers, when,
                looking up, I observed a very slight and graceful hawk,<anchor type="hn" xml:id="hn-17-041"/> like a night-hawk, alternately soaring
-               like a ripple and tumbling a rod or two over and over, showing<app xml:id="walc17-app-0265">
+               like a ripple and tumbling a rod or two over and over, <app xml:id="walc17-app-0265">
                   <lem wit="#wc_base">showing</lem>
                   <rdg wit="#wc_0a">
                      <del>and</del> showing</rdg>
