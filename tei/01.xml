@@ -11750,14 +11750,18 @@
                      <seg type="written">A</seg>
                      <seg type="rewritten">E</seg>
                   </ab>
+                     <ab change="#wc_0a">Economy 109a, which follows Economy 110b, appears as follows: <quote>If we will think of it—there is no reformer on the globe—no such philanthropic, benevolent, &amp; charitable man, now engaged in any good work any where, sorely afflicted by the sight of misery <hi rend="style(underline)">around</hi> him, and animated by the desire to relieve it, who would not instantly and unconsciously sign off from these pure labors, and betake himself to purer, if he had but righted some obscure and perhaps unrecognized private grievance. Let but the spring come to him, let the morning rise over his couch, and he will forsake his generous companions, without apology or explanation—or the need of any. I would say to the anxious philanthropist—Take up a little life into your pores—strike root and grow—endeavor to encourage the flow of sap in your veins—and help to clothe the human field with green.—If your branches wither strike your roots wider and deeper—send your fibres into every kingdom of nature for its contribution, and make the most of that greenness and life which the gods allot you. Send forth your boughs into the <add>heavens for</add> ethereal and starry influences—and make firm your trunk against the elements. Who can foretel what blossoms, what fruits, what private and public advantage may push up through this rind which we call a man.—The traveller may stand by him as a perennial fountain in the desert, and slake his thirst forever.</quote></ab>
                </note> I believe that what so saddens the reformer is not his
                   sympathy with his fellows in distress, but, though he be the holiest son of God,
                      <app xml:id="walc01-app-1102">
                      <lem>is</lem>
                      <rdg wit="#wc_0e">it is</rdg>
-                  </app> his private ail. Let this be righted, let the spring come to him, the
-                  morning rise over his couch, and he will forsake his generous companions without
-                  apology. </seg>
+                  </app> his private ail. Let this be righted, let the spring come to him,
+                  <app xml:id="walc01-app-1102a">
+                     <lem>the</lem>
+                     <rdg wit="#wc_0a">let the</rdg>
+                  </app>morning rise over his couch, and he will forsake his generous companions without
+                  apology.</seg>
                <seg n="109b" change="#wc_0e">
                   <note type="header" resp="#clapper">
                      <ab type="string">Economy 109b written: E.</ab>
