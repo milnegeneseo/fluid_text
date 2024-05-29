@@ -7918,31 +7918,52 @@
                         and unprofitable leisure, defrauding himself of the experience which alone
                         can make leisure fruitful.</lem>
                      <rdg wit="#wc_0a"><!--A: not in ms.--></rdg>
+                     <rdg wit="#wc_0b" resp="#schacht"><add rendition="pencil">The student who secures his coveted leisure &amp; retirement by
+                        systematically shirking any labor necessary to man<del resp="#schacht"><add rendition="pencil" resp="#schacht">kind</add></del> obtains but an ignoble
+                        and unprofitable leisure <del resp="#schacht"><add rendition="pencil" resp="#schacht">&amp;</add> </del>defrauding himself of the experience which alone
+                        can make <del><add rendition="pencil" resp="#schacht">that</add></del>leisure fruitful.</add></rdg>
                   </app>
                   <app xml:id="walc01-app-0759">
                      <lem>“But,” says one,</lem>
-                     <rdg wit="#wc_0a #wc_0b">But,</rdg>
+                     <rdg wit="#wc_0a" resp="#schacht"><add rendition="pencil" resp="#schacht">But,</add></rdg>
+                     <rdg wit="#wc_0b">But,</rdg>
                      <rdg wit="#wc_0c">But <add rendition="pencil">asks one</add>,</rdg>
-                  </app> “you do not mean that the students should go to work with their hands
-                  instead of their <app xml:id="walc01-app-0760">
+                  </app> 
+                  <app xml:id="walc01-app-0759a">
+                     <lem>"you </lem>
+                     <rdg wit="#wc_0a" resp="#schacht"><add rendition="pencil" resp="#schacht">you </add></rdg>
+                     <rdg wit="#wc_0b #wc_0c" resp="#schacht">you </rdg>
+                  </app>
+                  <app xml:id="walc01-app-0759b"><lem>do not mean that the students should go to work with their hands
+                  instead of their </lem>
+                     <rdg wit="#wc_0a" resp="#schacht"><add rendition="pencil" resp="#schacht">do not mean that the students should go to work with their hands
+                  instead of their </add></rdg>
+                  </app><app xml:id="walc01-app-0760">
                      <lem>heads?"</lem>
-                     <rdg wit="#wc_0a">heads do you? No— </rdg>
+                     <rdg wit="#wc_0a" resp="#schacht"><add rendition="pencil" resp="#schacht">heads do you? No— </add></rdg>
                      <rdg wit="#wc_0b">heads, do you?—<del>No,</del>
                      </rdg>
                      <rdg wit="#wc_0c">heads, do you?</rdg>
-                  </app> I do not mean that exactly, but I mean something which <app xml:id="walc01-app-0761">
+                  </app> 
+                  <app xml:id="walc01-app-0760a"><lem>I do not mean that exactly, but I mean something which </lem>
+                     <rdg wit="#wc_0a" resp="#schacht"><add rendition="pencil" resp="#schacht">I do not mean that exactly, but I mean something which </add></rdg></app>
+                  <app xml:id="walc01-app-0761">
                      <lem>he</lem>
-                     <rdg wit="#wc_0a #wc_0b #wc_0c">you</rdg>
-                  </app> might think a good deal like that; I mean that <app xml:id="walc01-app-0762">
+                     <rdg wit="#wc_0a" resp="#schacht"><add rendition="pencil" resp="#schacht">you</add></rdg>
+                     <rdg wit="#wc_0b #wc_0c">you</rdg>
+                  </app> <app xml:id="walc01-app-0762a">
+                     <lem>might think a good deal like that; I mean that</lem>
+                     <rdg wit="#wc_0a" resp="#schacht"><add rendition="pencil" resp="#schacht">might think a good deal like that; I mean that</add></rdg> </app>
+                  <app xml:id="walc01-app-0762">
                      <lem>they should not <hi rend="style(italics)">play</hi> life, or <hi rend="style(italics)">study</hi> it merely, while the community supports
                         them at this expensive game, but earnestly <hi rend="style(italics)">live</hi> it from beginning to end.</lem>
-                     <rdg wit="#wc_0a">they should work with their hands as well as or rather than
-                        with their heads </rdg>
+                     <rdg wit="#wc_0a" resp="#schacht"><add rendition="pencil" resp="#schacht">they should work with their hands as well as or rather than
+                        with their heads. </add></rdg>
                      <rdg wit="#wc_0b">
                         <del>the students should work with their hands <hi rend="style(underline)">as well as</hi> with their heads at least</del>
-                        <add>they should not play life or study it merely while the community
+                        <add rendition="pencil">they should not play life or study it merely while the community
                            supports them at this expensive game but earnestly live it from beginning
-                           to end</add>
+                           to end.</add>
                      </rdg>
                   </app>
                   <app xml:id="walc01-app-0763">
@@ -7952,10 +7973,8 @@
                      <rdg wit="#wc_0a"><!--A: not in ms.-->
                      </rdg>
                      <rdg wit="#wc_0b">
-                        <add>How could youths better learn to live than by at once trying the
-                           experiment of living? Methinks this would exercise their minds as much as
-                           mathematics.</add> How will you better learn to live than by trying the
-                        experiment of living a little.</rdg>
+                        <add>How will you better learn to live than by trying the
+                        experiment of living a little.</add></rdg>
                      <rdg wit="#wc_0c">How could youths better learn to live than by at once trying
                         the experiment of living? Methinks this would exercise their minds
                            <del>sufficiently</del>
