@@ -1423,6 +1423,9 @@
                      <add>who waters it and makes it green. These beans have results which are not
                         harvested by me</add>
                   </rdg>
+                  <rdg wit="#wc_0f" resp="#schacht">which water it &amp; make it green. <add rendition="pencil" cert="high" resp="#witherell">Shall I not rejoice also
+                     at the abundance of the weeds whose seeds are the granary of the
+                     birds?</add></rdg>
                </app>
                <app xml:id="walc07-app-0132">
                   <lem>Do they not grow for woodchucks partly? The ear of wheat, (in Latin <hi
@@ -1436,13 +1439,13 @@
                   <rdg wit="#wc_0a"><!--[not in ms.]-->
                   </rdg>
                   <rdg wit="#wc_0f">
-                     <add rendition="pencil">Do they not grow for woodchucks partly? The ear of wheat, (in Latin <hi
-                           rend="style(underline)">spica</hi>, obsoletely <hi rend="style(underline)"
-                           >speca</hi> from <hi rend="style(underline)">spe</hi>, hope) should not be
+                     <add rendition="pencil">Do they not grow for woodchucks partly? The ear of grain, (<hi
+                           rend="style(underline)">spica</hi> obsol. <hi rend="style(underline)"
+                           >speca</hi> from <hi rend="style(underline)">spe</hi> hope) should not be
                         the only hope of the husbandman</add> <anchor type="hn"
-                           xml:id="hn-07-069"/> Shall I not rejoice also
+                           xml:id="hn-07-069"/> <add>Shall I not rejoice also
                         at the abundance of the weeds whose seeds are the granary of the
-                        birds?
+                        birds?</add>
                      </rdg>
                </app> It matters little comparatively whether the fields fill the farmer’s barns.
                The true husbandman will cease from anxiety, <app xml:id="walc07-app-0133">
