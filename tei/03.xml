@@ -1071,13 +1071,14 @@
                the board.<anchor type="hn" xml:id="hn-03-062"/>
             </p>
 
-            <p n="12" change="#wc_0a">
+            <p n="12" change="#wc_base">
                <note type="header" resp="#clapper">
                   <ab type="string">Reading 12 [not in manuscript].</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">3</seg>
                      <seg type="chapterTitle">Reading</seg>
                      <seg type="paragraph">12</seg>
+                     <seg type="written">Not in manuscript</seg>
                      <anchor type="not-in-MS"/>
                   </ab>
                </note>We boast that we belong to the nineteenth century and are making the most
