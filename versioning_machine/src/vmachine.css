@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,700,600&subset=latin,latin-ext);
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 body {
    width: 100%;
@@ -414,7 +414,7 @@ text-decoration: underline;
 .rendition-pencil { color: #808000; }
 
 /* COLOR KEY */
-.key-gray { color: #999999; }
+.key-gray { color: #000000; background: #efefef}
 .key-red { color: #800000; }
 .key-green { color: #009900; }
 .key-olive { color: #808000; }

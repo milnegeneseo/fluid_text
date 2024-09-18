@@ -306,13 +306,13 @@ http://www.flickr.com/photos/hynkle/5149834312/sizes/l/in/photostream
             <p><em><a href="http://digitalthoreau.org/walden-a-fluid-text-edition/toc"></a></em></p>
             <h4>Key</h4>
             <ul>
-               <li><span class="key-black">Black</span> = Unchanged text through the Princeton Ed.</li>
-               <li><span class="key-gray">Gray</span> = introduced in some versions as a change, assumed to be same as the base</li>
-               <li><span class="key-red">Red</span> = supplied text (interpolated, not in manuscripts)</li>
-               <li><span class="key-green">Green</span> = interlined in ink.</li>
+               <li><span class="key-black">Black</span> = no variation from base (Princeton Ed.) recorded</li>
+               <li><span class="key-gray">Gray Background</span> = assumed to be retained</li>
+               <!-- <li><span class="key-red">Red</span> = supplied text (interpolated, not in manuscripts)</li> -->
+               <li><span class="key-green">Green</span> = interlined in ink</li>
                <li><span class="key-olive">Olive</span> = interlined
                   in pencil.</li>
-               <li><span class="key-strikethrough">Strikethrough</span> = cancelled text.</li>
+               <li><span class="key-strikethrough">Strikethrough</span> = cancelled text</li>
             </ul>
             <h4>List of Versions</h4>
             <ul>
@@ -328,7 +328,7 @@ http://www.flickr.com/photos/hynkle/5149834312/sizes/l/in/photostream
                   </li>
                </xsl:for-each>
             </ul>
-            <h4><a href="http://digitalthoreau.org/walden/report-issue" target="_blank">Report an Issue</a></h4>
+            <h4><a href="https://digitalthoreau.org/fluid-text-toc/#error-reports-and-queries" target="_blank">Report an Issue</a></h4>
             <xsl:if test="tei:notesStmt/tei:note[@anchored = 'true' and not(@type='image')]">
                <h4>Textual Notes</h4>
                <xsl:for-each select="tei:notesStmt/tei:note[@anchored = 'true' and not(@type='image')]">
