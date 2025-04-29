@@ -550,6 +550,7 @@
                   </app> woods, without any visible inlet or outlet<app xml:id="walc09-app-0049">
                      <lem wit="#wc_base">except</lem>
                      <rdg wit="#wc_0a">but</rdg>
+                     <rdg wit="#wc_0d" resp="#schacht">except</rdg>
                   </app> by the clouds<app xml:id="walc09-app-0050">
                      <lem wit="#wc_base">and evaporation.</lem>
                      <rdg wit="#wc_0a">and by evaporations </rdg>
@@ -585,10 +586,10 @@
                         eighty feet, though on the south-east and east they attain to about one hundred and one hundred
                         and fifty feet respectively, within a quarter and a third of a mile. They are exclusively
                         woodland.</lem>
-                     <rdg wit="#wc_0d">The surrounding hills are <del>from 50 to a hundred and in one place perhaps 200
-                           feet high</del>
-                        <add>generally from 50 to 75 feet high though in one place they rise to the height of about 150
-                           feet &amp; for the most part they [are]</add> covered with wood </rdg>
+                     <rdg wit="#wc_0d" resp="#schacht">The surrounding hills are <add>generally</add> from 50 to <del>a hundred and</del> <add>75 feet high, though</add> in one place <del resp="#schacht"><add rendition="pencil" resp="#schacht">nearly</add></del> <del>perhaps 200
+                           feet high</del> 
+                        <add>they rise to the height of about 150
+                           feet &amp; for the most part they [are]</add> covered with wood. </rdg>
                      <rdg wit="#wc_0e">The surrounding hills <del>are generally from fifty to seventy-five feet high,
                            though in one place they rise to the height of about one hundred and fifty feet, and for the
                            most part they are</del>
@@ -705,7 +706,7 @@
                         of a yellowish tint next the shore where you can see the sand, then a light green, which
                         gradually deepens to a uniform dark green in the body of the pond. In some lights, viewed even
                         from a hill-top, it is of a vivid green next the shore.</lem>
-                     <rdg wit="#wc_0d">Viewed from a hill top it <add>reflects the color of the sky,</add> is blue in the
+                     <rdg wit="#wc_0d">Viewed from a hill top <add rendition="pencil">in some lights </add>it <add>reflects the color of the sky,</add> is blue in the
                         depths <del>&amp; green in the shallows, or rather close to the shore, for there are no other
                            shallows;</del>
                         <add>but a vivid green near the shore</add> but from a boat <add>when the surface is calm</add>
