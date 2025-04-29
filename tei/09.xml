@@ -606,6 +606,7 @@
                   </app>
                   <app xml:id="walc09-app-0052">
                      <lem wit="#wc_base">All</lem>
+                     <rdg wit="#wc_0d"><!-- [not in ms.] --></rdg>
                      <rdg wit="#wc_0e">
                         <del>In their colors all waters follow the sky, i.e. it depends on the light. In
                               <del>fair</del>
