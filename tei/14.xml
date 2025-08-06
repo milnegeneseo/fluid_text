@@ -1607,7 +1607,7 @@
                </note>
                   <app xml:id="walc14-app-0169a">
                      <lem>I should not forget that during my last winter at the pond</lem>
-                     <rdg wit="#wc_0d"><del>During</del> I should not forget that during my last winter at the pond</rdg>
+                     <rdg wit="#wc_0d"><add>I should not forget that</add> During my last winter at the pond</rdg>
                      <rdg wit="#wc-0e">I should not forget that, during my last winter at the pond,</rdg>
                   </app>
                    there was
@@ -1616,35 +1616,51 @@
                      <rdg wit="#wc_0d">one <del>visit</del><add rendition="pencil">other</add></rdg>
                      <rdg wit="#wc_0e">one other</rdg>
                   </app>
-                  welcome visitor,<anchor type="hn" xml:id="hn-14-053"/> who at one time came
-                  through the village, through snow and rain and darkness, till he saw my lamp through the trees, and
-                  shared with me some long winter evenings. One of the last of the philosophers,— <app xml:id="walc14-app-0170">
-                     <lem>Connecticut gave him</lem>
+                  welcome visitor,<anchor type="hn" xml:id="hn-14-053"/> who 
+                  <app xml:id="walc14-app-0169c">
+                     <lem>at one time came</lem>
+                     <rdg wit="#wc_0d"><add rendition="pencil">at one time</add> came <del><add rendition="pencil" cert="low">once in a while</add></del><del>occasionally</del></rdg>
+                  </app>
+                  <app xml:id="walc14-app-0169d">
+                     <lem>through</lem>
+                     <rdg wit="#wc_0d #wc_0e">from</rdg>
+                  </app>
+                  the village, through snow and rain and darkness, 
+                  <app xml:id="walc14-app-0169e">
+                     <lem>till</lem>
+                     <rdg wit="#wc_0d"><del>un</del>til<add>l</add></rdg>
+                  </app>
+                  he saw my
+                  <app xml:id="walc14-app-0170">
+                     <lem>lamp</lem>
+                     <rdg wit="#wc_0d"><del>taper</del><add rendition="pencil">lamp</add></rdg>
+                  </app>
+                  <app xml:id="walc14-app-0171">
+                     <lem>through the trees, and shared with me some long winter evenings. One of the last of the philosophers,—Connecticut gave him to the world,—he peddled first her wares, afterwards, as he declares, his brains.</lem>
+                     <rdg wit="#wc_0d">through the <del>woods</del> trees—<del>and</del> to share<del>d</del> with me <del>the</del> <add rendition="pencil">some</add> long winter evenings.— <add rendition="pencil">One of</add> The last of the philosophers, whom Connecticut gave to the world. He peddled first her wares afterwards <add rendition="pencil">as he declared </add>his brains.</rdg>
+                     <rdg wit="#wc_0e">through the trees, and shared with me some long winter evenings. <add rendition="pencil">Also</add> One of the last of the philosophers,— <del>whom</del>Connecticut gave <add>him</add> to the world—he peddled first her wares, <del>&amp;</del> afterwards, as he declares, his brains.</rdg>
+                  </app>
+                   <app xml:id="walc14-app-0172">
+                     <lem>These he peddles still, prompting God and disgracing man, </lem>
+                      <rdg wit="#wc_0d">With nothing to show, <add rendition="pencil">for his pains, however,</add> without special talents, he lives <add rendition="pencil">still</add> prompting God, but disgracing man, </rdg>
                      <rdg wit="#wc_0e">
-                        <del>whom</del> Connecticut gave <add>him</add>
+                        <del>with nothing to show for his pains, without special talents, he lives</del> <add>These he peddles</add> still, prompting God and disgracing <add rendition="pencil">man, </add>
                      </rdg>
-                  </app> to the world,—he peddled first her wares, afterwards, as he declares, his brains. <app xml:id="walc14-app-0171">
-                     <lem>These he peddles</lem>
-                     <rdg wit="#wc_0e">
-                        <del>with nothing to show for his pains, without special talents, he lives</del>
-                        <add>These he peddles</add>
-                     </rdg>
-                  </app> still, prompting God and disgracing<app xml:id="walc14-app-0172">
-                     <lem>man,</lem>
-                     <rdg wit="#wc_0e">
-                        <add> man</add>,</rdg>
-                  </app> bearing for fruit his brain only, like the nut its kernel. I think that he must be the man of
+                  </app>bearing for fruit his brain only, like the nut its kernel. I think that he must be the man of
                   the most faith of any alive. <app xml:id="walc14-app-0173">
-                     <lem>His words and attitude</lem>
+                     <lem>His words and attitude always suppose a better state of things than </lem>
+                     <rdg wit="#wc_0d">He never wavers. His words &amp; his attitude always suppose a better and a truer state than </rdg>
                      <rdg wit="#wc_0e">
-                        <del>He never wavers.</del> His words and his attitude</rdg>
-                  </app> always suppose a better state of things than other men are acquainted with, and<app xml:id="walc14-app-0174">
-                     <lem>he</lem>
-                     <rdg wit="#wc_0e">it is one of his requirements that he</rdg>
+                        <del>He never wavers.</del> His words and his attitude always suppose a better state of things than </rdg>
+                  </app>other men are acquainted <app xml:id="walc14-app-0174">
+                     <lem>with, and he</lem>
+                     <rdg wit="#wc_0d">with. It is one of his merits <add rendition="pencil">surely</add> that he</rdg>
+                     <rdg wit="#wc_0e">with, and it is one of his requirements that he</rdg>
                   </app> will be the last man to be disappointed as the ages <app xml:id="walc14-app-0175">
                      <lem>revolve.</lem>
+                     <rdg wit="#wc_0d">revolve for he anticipates more than any. God will find it hard to astonish him.</rdg>
                      <rdg wit="#wc_0e">revolve, <del>for he anticipates more than any. God will find it</del>
-                        <add>It will be</add> hard to astonish him</rdg>
+                        <add>It will be</add> hard to astonish him.</rdg>
                   </app> He has no venture in the present. But though <app xml:id="walc14-app-0176">
                      <lem>comparatively</lem>
                      <rdg wit="#wc_0e">
