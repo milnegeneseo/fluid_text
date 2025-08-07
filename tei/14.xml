@@ -1644,7 +1644,7 @@
                      <lem>These he peddles still, prompting God and disgracing man, </lem>
                       <rdg wit="#wc_0d">With nothing to show, <add rendition="pencil">for his pains, however,</add> without special talents, he lives <add rendition="pencil">still</add> prompting God, but disgracing man, </rdg>
                      <rdg wit="#wc_0e">
-                        <del>with nothing to show for his pains, without special talents, he lives</del> <add>These he peddles</add> still, prompting God and disgracing <add rendition="pencil">man, </add>
+                        <del>with nothing to show for his pains, without special talents, he lives</del> <add>These he peddles</add> still, prompting God and disgracing <add>man, </add>
                      </rdg>
                   </app>bearing for fruit his brain only, like the nut its kernel. I think that he must be the man of
                   the most faith of any alive. <app xml:id="walc14-app-0173">
@@ -1661,43 +1661,50 @@
                      <rdg wit="#wc_0d">revolve for he anticipates more than any. God will find it hard to astonish him.</rdg>
                      <rdg wit="#wc_0e">revolve, <del>for he anticipates more than any. God will find it</del>
                         <add>It will be</add> hard to astonish him.</rdg>
-                  </app> He has no venture in the present. But though <app xml:id="walc14-app-0176">
-                     <lem>comparatively</lem>
-                     <rdg wit="#wc_0e">
-                        <add>comparatively</add>
+                  </app> He has no venture in the <app xml:id="walc14-app-0176">
+                     <lem>present. But though comparatively</lem>
+                     <rdg wit="#wc_0d">present. Though</rdg>
+                     <rdg wit="#wc_0e">present; but though <add>comparatively</add>
                      </rdg>
                   </app> disregarded now, when his day comes, laws unsuspected by most will take effect, and<app xml:id="walc14-app-0177">
                      <lem>masters</lem>
-                     <rdg wit="#wc_0e">the practical everywhere, masters</rdg>
-                  </app> of families and rulers will come to him for advice.— <quote>"How blind that cannot see
-                        serenity!"<anchor type="hn" xml:id="hn-14-054"/>
-                  </quote> A true friend of man; almost the only friend of human progress. An Old <app xml:id="walc14-app-0178">
+                     <rdg wit="#wc_0d #wc_0e">the practical everywhere, masters</rdg>
+                  </app> of families and rulers will come to him for advice.— 
+                  <app xml:id="walc14-app-0178">
+                     <lem><quote><lg><l>"How blind that cannot see serenity!"</l></lg><anchor type="hn" xml:id="hn-14-054"/>
+                     </quote> A true friend of man; almost the only friend of human progress. An Old Mortality, say rather an Immortality, with unwearied patience and faith making plain the image engraven in men's bodies, </lem>
+                     <rdg wit="#wc_0d"><add rendition="pencil"><quote><lg><l>"How blind that cannot see serenetie!"</l></lg><anchor type="hn" xml:id="hn-14-054"/></quote></add><del>He is a</del> <add>A</add> true friend of man—and has the simplest purest &amp; healthiest sympathy with the race.<del></del></rdg>
+                     <rdg wit="#wc_0e"><quote><lg><l>"How blind that cannot see
+                        serenity!"</l></lg><anchor type="hn" xml:id="hn-14-054"/>
+                     </quote>A true friend of man; almost the only friend of human progress.</rdg>
+                  </app> An Old <app xml:id="walc14-app-0178a">
                      <lem>Mortality,<anchor type="hn" xml:id="hn-14-055"/> say
                         rather an Immortality,</lem>
+                     <rdg wit="#wc_0d">Humanity</rdg>
                      <rdg wit="#wc_0e">
                         <del>humanity</del>
                         <add rendition="pencil">mortality say rather immortality</add>
                      </rdg>
-                  </app> with unwearied patience and faith making plain the image engraven in men’s bodies, the God of
-                  whom they are but defaced and<app xml:id="walc14-app-0179">
-                     <lem>leaning</lem>
-                     <rdg wit="#wc_0e">leaning <del>&amp; crumbling</del>
-                     </rdg>
+                  </app> with unwearied patience and faith making plain the <app xml:id="walc14-app-0179">
+                     <lem>image engraven in men’s bodies, the God of whom they are but defaced and leaning</lem>
+                     <rdg wit="#wc_0d">image engraven in men’s bodies, the God of whom they are but defaced and leaning &amp; crumbling</rdg>
+                     <rdg wit="#wc_0e">image engraven in men’s bodies, the God of whom they are but defaced and leaning <del>&amp; crumbling</del></rdg>
+                     <rdg wit="#wc_0f"><add>fair</add> image engraven in men’s bodies, the God of whom they are but defaced and leaning <del><add>&amp; crumbling</add></del></rdg>
                   </app> monuments. With his hospitable intellect<app xml:id="walc14-app-0180">
                      <lem>he embraces</lem>
-                     <rdg wit="#wc_0e">embracing </rdg>
+                     <rdg wit="#wc_0d #wc_0e">embracing </rdg>
                      <rdg wit="#wc_0f">
                         <del>embracing</del>
                         <add>he embraces</add>
                      </rdg>
-                  </app> children, beggars, insane, and scholars, and entertains the thought of all, <app xml:id="walc14-app-0181">
-                     <lem>adding to it commonly some breadth and elegance.</lem>
-                     <rdg wit="#wc_0e"><!--[not in ms.]-->
-                     </rdg>
-                     <rdg wit="#wc_0f">
-                        <add>adding to it commonly some breadth and elegance</add>. adding to it <add rendition="pencil">perhaps</add> some breadth &amp; elegance </rdg>
-                     <rdg wit="#wc_0g">adding to it, <del>perhaps</del>
-                        <add>commonly</add>, some breadth and elegance</rdg>
+                     <rdg wit="#wc_0g">he embraces</rdg>
+                  </app> children, beggars, insane, and scholars, <app xml:id="walc14-app-0181">
+                     <lem>and entertains the thought of all, adding to it commonly some breadth and elegance.</lem>
+                     <rdg wit="#wc_0d">and entertains the thought of all. </rdg>
+                     <rdg wit="#wc_0e">and entertaining the thought of all.</rdg>
+                     <rdg wit="#wc_0f">and <del>entertaining</del> <add>entertains</add> the thought of all, <add>adding to it <add>perhaps</add> some breadth &amp; elegance</add>.</rdg>
+                     <rdg wit="#wc_0g">and entertains the thought of all, adding to it, <del>perhaps</del>
+                        <add>commonly</add>, some breadth and elegance.</rdg>
                   </app> I think that he should keep a caravansary on the world’s highway, where<app xml:id="walc14-app-0182">
                      <lem>philosophers</lem>
                      <rdg wit="#wc_0e">the thinkers </rdg>
