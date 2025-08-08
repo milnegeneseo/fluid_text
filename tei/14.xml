@@ -1705,34 +1705,35 @@
                      <rdg wit="#wc_0f">and <del>entertaining</del> <add>entertains</add> the thought of all, <add>adding to it <add>perhaps</add> some breadth &amp; elegance</add>.</rdg>
                      <rdg wit="#wc_0g">and entertains the thought of all, adding to it, <del>perhaps</del>
                         <add>commonly</add>, some breadth and elegance.</rdg>
-                  </app> I think that he should keep a caravansary on the world’s highway, where<app xml:id="walc14-app-0182">
-                     <lem>philosophers</lem>
-                     <rdg wit="#wc_0e">the thinkers </rdg>
-                     <rdg wit="#wc_0f">
-                        <del>the thinkers</del>
-                        <add rendition="pencil">philosophers</add>
+                  </app> I think <app xml:id="walc14-app-0182">
+                     <lem>that he should keep a caravansary on the world’s highway, where philosophers</lem>
+                     <rdg wit="#_0d"><add rendition="pencil">that</add> he should keep an inn a caravansery on the world's highway, where the thinkers</rdg>
+                     <rdg wit="#wc_0e">that he should keep an inn, a caravansery, on the world's highway, where the thinkers</rdg>
+                     <rdg wit="#wc_0f">that he should keep an inn, a caravansery, on the world's highway, where <del>the thinkers</del><add rendition="pencil">philosophers</add>
                      </rdg>
-                  </app> of all nations might put up, <app xml:id="walc14-app-0183">
-                     <lem>and on his sign should be printed,</lem>
-                     <rdg wit="#wc_0e">
-                        <add rendition="pencil">&amp;</add> on his sign might be written </rdg>
-                     <rdg wit="#wc_0f">&amp; on his sign might be <del>written</del>
-                        <add rendition="pencil">printed</add>
-                     </rdg>
-                     <rdg wit="#wc_0g">and on his sign <del>might</del>
+                  </app> of all nations might put <app xml:id="walc14-app-0183">
+                     <lem>up, and on his sign should be printed,</lem>
+                     <rdg wit="#wc_0d">up. On his sign <del>should</del><add rendition="pencil">might</add> be written </rdg>
+                     <rdg wit="#wc_0e">up <add rendition="pencil">&amp;</add> on his sign <del>might</del> <add rendition="pencil">might</add> be written </rdg>
+                     <rdg wit="#wc_0f">up, &amp; on his sign might be <del>written</del> <add>printed</add></rdg>
+                     <rdg wit="#wc_0g">up, and on his sign <del>might</del>
                         <add>should</add> be printed</rdg>
-                  </app> "Entertainment for man, but not for his beast.<anchor type="hn" xml:id="hn-14-056"/> Enter <app xml:id="walc14-app-0184">
-                     <lem>ye</lem>
-                     <rdg wit="#wc_0e">all ye </rdg>
-                     <rdg wit="#wc_0f">
-                        <del>all</del> ye</rdg>
+                  </app> <app xml:id="walc14-app-0184">
+                     <lem>"Entertainment for man, but not for his beast.<anchor type="hn" xml:id="hn-14-056"/> Enter ye</lem>
+                     <rdg wit="#wc_0d">Entertainment for man, but not for his beast.<anchor type="hn" xml:id="hn-14-056"/> Enter all ye</rdg>
+                     <rdg wit="#wc_0e">"Entertainment for man, but not for his beast;<anchor type="hn" xml:id="hn-14-056"/> enter all ye </rdg>
+                     <rdg wit="#wc_0f">"Entertainment for man, but not for his beast;<anchor type="hn" xml:id="hn-14-056"/> enter <del>all</del> ye</rdg>
+                     <rdg wit="#wc_0g">"Entertainment for man, but not for his beast.<anchor type="hn" xml:id="hn-14-056"/> Enter ye</rdg>
                   </app> that have leisure and a quiet mind, who earnestly <app xml:id="walc14-app-0185">
                      <lem>seek the right road."</lem>
+                     <rdg wit="#wc_0d">but without anxiety seek the right road. A thought floats as serenely and as much 
+                        at home in his mind as a duck pluming <del>itself</del> <add rendition="pencil">himself</add> on a far inland lake</rdg>
                      <rdg wit="#wc_0e">but without anxiety seek the right road." A thought floats as serenely and as much
                         at home in his mind as a duck pluming himself on a far inland lake </rdg>
                      <rdg wit="#wc_0f">
                         <del>but without anxiety</del> seek the <del>right</del>
-                        <add>higher</add> road</rdg>
+                        <add>higher</add> road.</rdg>
+                     <rdg wit="#wc_0g">seek the <del>right</del> <add>road.</add></rdg>
                   </app>
                </seg>
                
@@ -1758,7 +1759,7 @@
                      <rdg wit="#wc_0g">
                         <add>He is</add>
                      </rdg>
-                  </app> perhaps the sanest man and has<app xml:id="walc14-app-0187">
+                  </app> perhaps the sanest man and <app xml:id="walc14-app-0187">
                      <lem>has</lem>
                      <rdg wit="#wc_f1 #wc_f2">with </rdg>
                      <rdg wit="#wc_0g">
