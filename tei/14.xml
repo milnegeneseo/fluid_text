@@ -1593,22 +1593,20 @@
             <p n="21" change="#wc_0f">
                
                <seg n="21a" change="#wc_0d">
-                  <note type="header" resp="#clapper">
+                  <note type="header" resp="#schacht">
                   <ab type="string">Former Inhabitants 21a written: D; rewritten: E, F, G.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">14</seg>
                      <seg type="chapterTitle">Former Inhabitants</seg>
                      <seg type="paragraph">21a</seg>
                      <seg type="written">D</seg>
-                     <seg type="rewritten">E</seg>
-                     <seg type="rewritten">F</seg>
-                     <seg type="rewritten">G</seg>
+                     <seg type="rewritten">D, E, F, G</seg>
                   </ab>
                </note>
                   <app xml:id="walc14-app-0169a">
                      <lem>I should not forget that during my last winter at the pond</lem>
                      <rdg wit="#wc_0d"><add>I should not forget that</add> During my last winter at the pond</rdg>
-                     <rdg wit="#wc-0e">I should not forget that, during my last winter at the pond,</rdg>
+                     <rdg wit="#wc_0e">I should not forget that, during my last winter at the pond,</rdg>
                   </app>
                    there was
                   <app xml:id="walc14-app-0169b">
@@ -1642,9 +1640,9 @@
                   </app>
                    <app xml:id="walc14-app-0172">
                      <lem>These he peddles still, prompting God and disgracing man, </lem>
-                      <rdg wit="#wc_0d">With nothing to show, <add rendition="pencil">for his pains, however,</add> without special talents, he lives <add rendition="pencil">still</add> prompting God, but disgracing man, </rdg>
+                      <rdg wit="#wc_0d">With nothing to show <add rendition="pencil">for his pains, however,</add> without special talents, he lives <add rendition="pencil">still</add> prompting God, but disgracing man, </rdg>
                      <rdg wit="#wc_0e">
-                        <del>with nothing to show for his pains, without special talents, he lives</del> <add>These he peddles</add> still, prompting God and disgracing <add>man, </add>
+                        <del>With nothing to show for his pains, without special talents, he lives</del> <add>These he peddles</add> still, prompting God and disgracing <add>man, </add>
                      </rdg>
                   </app>bearing for fruit his brain only, like the nut its kernel. I think that he must be the man of
                   the most faith of any alive. <app xml:id="walc14-app-0173">
@@ -1672,19 +1670,20 @@
                   </app> of families and rulers will come to him for advice.— 
                   <app xml:id="walc14-app-0178">
                      <lem><quote><lg><l>"How blind that cannot see serenity!"</l></lg><anchor type="hn" xml:id="hn-14-054"/>
-                     </quote> A true friend of man; almost the only friend of human progress. An Old Mortality, say rather an Immortality, with unwearied patience and faith making plain the image engraven in men's bodies, </lem>
-                     <rdg wit="#wc_0d"><add rendition="pencil"><quote><lg><l>"How blind that cannot see serenetie!"</l></lg><anchor type="hn" xml:id="hn-14-054"/></quote></add><del>He is a</del> <add>A</add> true friend of man—and has the simplest purest &amp; healthiest sympathy with the race.<del></del></rdg>
+                     </quote> A true friend of man; almost the only friend of human progress. </lem>
+                     <rdg wit="#wc_0d"><add rendition="pencil"><quote><lg><l>"How blind that cannot see serenetie!"</l></lg><anchor type="hn" xml:id="hn-14-054"/></quote></add><del>He is a</del> <add>A</add> true friend of man—<del>&amp; has the simplest purest &amp; healthiest sympathy with the race.</del></rdg>
                      <rdg wit="#wc_0e"><quote><lg><l>"How blind that cannot see
                         serenity!"</l></lg><anchor type="hn" xml:id="hn-14-054"/>
                      </quote>A true friend of man; almost the only friend of human progress.</rdg>
-                  </app> An Old <app xml:id="walc14-app-0178a">
-                     <lem>Mortality,<anchor type="hn" xml:id="hn-14-055"/> say
+                  </app> An <app xml:id="walc14-app-0178a">
+                     <lem>Old Mortality,<anchor type="hn" xml:id="hn-14-055"/> say
                         rather an Immortality,</lem>
-                     <rdg wit="#wc_0d">Humanity</rdg>
-                     <rdg wit="#wc_0e">
+                     <rdg wit="#wc_0d">Old Humanity</rdg>
+                     <rdg wit="#wc_0e"> old 
                         <del>humanity</del>
                         <add rendition="pencil">mortality say rather immortality</add>
                      </rdg>
+                     <rdg wit="#wc_0f">old mortality, say rather Immortality,</rdg>
                   </app> with unwearied patience and faith making plain the <app xml:id="walc14-app-0179">
                      <lem>image engraven in men’s bodies, the God of whom they are but defaced and leaning</lem>
                      <rdg wit="#wc_0d">image engraven in men’s bodies, the God of whom they are but defaced and leaning &amp; crumbling</rdg>
@@ -1707,10 +1706,11 @@
                         <add>commonly</add>, some breadth and elegance.</rdg>
                   </app> I think <app xml:id="walc14-app-0182">
                      <lem>that he should keep a caravansary on the world’s highway, where philosophers</lem>
-                     <rdg wit="#_0d"><add rendition="pencil">that</add> he should keep an inn a caravansery on the world's highway, where the thinkers</rdg>
+                     <rdg wit="#wc_0d"><add rendition="pencil">that</add> he should keep an inn a caravansery on the world's highway, where the thinkers</rdg>
                      <rdg wit="#wc_0e">that he should keep an inn, a caravansery, on the world's highway, where the thinkers</rdg>
                      <rdg wit="#wc_0f">that he should keep an inn, a caravansery, on the world's highway, where <del>the thinkers</del><add rendition="pencil">philosophers</add>
                      </rdg>
+                     <rdg wit="#wc_0g">that he should keep <del>an inn</del> a caravansery on the world's highway, where philosophers</rdg>
                   </app> of all nations might put <app xml:id="walc14-app-0183">
                      <lem>up, and on his sign should be printed,</lem>
                      <rdg wit="#wc_0d">up. On his sign <del>should</del><add rendition="pencil">might</add> be written </rdg>
@@ -1733,7 +1733,7 @@
                      <rdg wit="#wc_0f">
                         <del>but without anxiety</del> seek the <del>right</del>
                         <add>higher</add> road.</rdg>
-                     <rdg wit="#wc_0g">seek the <del>right</del> <add>road.</add></rdg>
+                     <rdg wit="#wc_0g">seek the <del>right</del> <add>higher</add> road.</rdg>
                   </app>
                </seg>
                
