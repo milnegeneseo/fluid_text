@@ -1602,7 +1602,7 @@
                      <seg type="written">D</seg>
                      <seg type="rewritten">D, E, F, G</seg>
                   </ab>
-                     <ab change="#wc_0d" resp="#schacht">In D, 21a is written and partially rewritten on what appears to be a repurposed leaf. As ordered in HM 924, the verso of this leaf precedes the recto. On the recto, Thoreau has drawn three vertical lines through D1, either to cancel the material or mark it as used. A line below this material separates it from material belonging to 22b and 23. D1 reads: There dwells in his low hut the last of the philosophers, <add>whom</add> Connecticut gave <del>him</del> to the world – He peddled first his wares – afterwards his brains. <del>He will be</del> <add>He will be </add> The last man to be disappointed as the ages revolve – for he <del>expects</del> <add> anticipates</add> more <del>of futurity</del> than any – God will find it hard to astonish  him. <del>The most</del> <add>With his</add> hospitable intellect <del>of the</del> embracing children beggars insane <del><unclear reason="illegible">xxxxxx</unclear></del> &amp; scholars &amp; entertaining the thought of all. <add>With nothing to show –</add> Without special talents – <del>but perseveringly "<unclear reason="illegible">xxxxxxx xxx xxxxxx xxxx</unclear>"</del> he lives prompting God &amp; disgracing  man – bearing for fruit his brain only like the nut its kernel. Though disregarded now, when his day comes laws unsuspected by most will take effect, &amp; the practical everywhere, masters of families &amp; rulers, will come to him for advice.</ab>
+                     <ab change="#wc_0d" resp="#schacht #witherell">In D, 21a is written and partially rewritten on what may have been the blank leaf of a letter that Thoreau repurposed for his draft, judging by the spot of wax on the recto page. In HM 924, the leaf is the last of nine representing assorted chapters grouped together by Shanley at the end of D. Shanley may have grouped them here because the paper types vary from that of the first 69 leaves. It is possible that these nine leaves belong to a period of revision different from that of D (early 1852 to September 1852). As positioned in HM 924, the verso of this leaf precedes the recto. On the recto, Thoreau has drawn three vertical lines through D1, either to cancel the material or mark it as used. A line below this material separates it from material belonging to 22b and 23. D1 reads: There dwells in his low hut the last of the philosophers. <add>whom</add> Connecticut gave <del>him</del> to the world–He peddled first his wares–afterwards his brains. <del>He will be</del> <add>He will be </add> The last man to be disappointed as the ages revolve–for he <del>expects</del> <add> anticipates</add> more <del>of futurity</del> than any–God will find it hard to astonish him. <del>The most</del> <add>With his</add> hospitable intellect <del>of th</del> embracing children beggars insane <del>poets</del> &amp; scholars–<add>&amp;</add> entertaining the thought of all– <add>With nothing to show –</add> Without special talents – <del>but perseveringly to "shell the humble pod"</del> he lives prompting God &amp; disgracing  man–bearing for fruit his brain only like the nut its kernel. Though disregarded now, when his day comes laws unsuspected by most will take effect, and the practical everywhere, masters of families &amp; rulers, will come to him for advice.</ab>
                </note>
                   <app xml:id="walc14-app-0169a">
                      <lem>I should not forget that during my last winter at the pond</lem>
@@ -1618,7 +1618,7 @@
                   welcome visitor,<anchor type="hn" xml:id="hn-14-053"/> who 
                   <app xml:id="walc14-app-0169c">
                      <lem>at one time came</lem>
-                     <rdg wit="#wc_0d"><add rendition="pencil">at one time</add> came <del><add rendition="pencil" cert="low">once in a while</add></del><del>occasionally</del></rdg>
+                     <rdg wit="#wc_0d"><add rendition="pencil">at one time</add> came <del><add rendition="pencil">one while</add></del> <del>occasionally</del></rdg>
                   </app>
                   <app xml:id="walc14-app-0169d">
                      <lem>through</lem>
@@ -1636,7 +1636,7 @@
                   </app>
                   <app xml:id="walc14-app-0171">
                      <lem>through the trees, and shared with me some long winter evenings. One of the last of the philosophers,—Connecticut gave him to the world,—he peddled first her wares, afterwards, as he declares, his brains.</lem>
-                     <rdg wit="#wc_0d">through the <del>woods</del> trees—<del>and</del> to share<del>d</del> with me <del>the</del> <add rendition="pencil">some</add> long winter evenings.— <add rendition="pencil">One of</add> The last of the philosophers, whom Connecticut gave to the world. He peddled first her wares afterwards <add rendition="pencil">as he declared </add>his brains.</rdg>
+                     <rdg wit="#wc_0d">through the <del>woods</del> trees—<del>and</del> to share<del>d</del> with me <del>the</del> <add rendition="pencil">some</add> long winter evening.— <add rendition="pencil">One of</add> The last of the philosophers, whom Connecticut gave to the world. He peddled first her wares afterwards <add rendition="pencil">as he declared </add>his brains.</rdg>
                      <rdg wit="#wc_0e">through the trees, and shared with me some long winter evenings. <add rendition="pencil">Also</add> One of the last of the philosophers,— <del>whom</del>Connecticut gave <add>him</add> to the world—he peddled first her wares, <del>&amp;</del> afterwards, as he declares, his brains.</rdg>
                   </app>
                    <app xml:id="walc14-app-0172">
@@ -1668,12 +1668,12 @@
                   </app> disregarded now, when his day comes, laws unsuspected by most will take effect, and<app xml:id="walc14-app-0177">
                      <lem>masters</lem>
                      <rdg wit="#wc_0d #wc_0e">the practical everywhere, masters</rdg>
-                  </app> of families and rulers will come to him for advice.— 
+                  </app> of families and rulers will  
                   <app xml:id="walc14-app-0178">
-                     <lem><quote><lg><l>"How blind that cannot see serenity!"</l></lg><anchor type="hn" xml:id="hn-14-054"/>
+                     <lem>come to him for advice.—<quote><lg><l>"How blind that cannot see serenity!"</l></lg><anchor type="hn" xml:id="hn-14-054"/>
                      </quote> A true friend of man; almost the only friend of human progress. </lem>
-                     <rdg wit="#wc_0d"><add rendition="pencil"><quote><lg><l>"How blind that cannot see serenetie!"</l></lg><anchor type="hn" xml:id="hn-14-054"/></quote></add><del>He is a</del> <add>A</add> true friend of man—<del>&amp; has the simplest purest &amp; healthiest sympathy with the race.</del></rdg>
-                     <rdg wit="#wc_0e"><quote><lg><l>"How blind that cannot see
+                     <rdg wit="#wc_0d"><add rendition="pencil">perchance</add> come to him for advice.—<add rendition="pencil"><quote><lg><l>"How blind that cannot see serenetie!"</l></lg><anchor type="hn" xml:id="hn-14-054"/></quote></add><del>He is a</del> <add>A</add> true friend of man—<del>&amp; has the simplest purest &amp; healthiest sympathy with the race.</del></rdg>
+                     <rdg wit="#wc_0e">come to him for advice.—<quote><lg><l>"How blind that cannot see
                         serenity!"</l></lg><anchor type="hn" xml:id="hn-14-054"/>
                      </quote>A true friend of man; almost the only friend of human progress.</rdg>
                   </app> An <app xml:id="walc14-app-0178a">
@@ -1700,14 +1700,14 @@
                      <rdg wit="#wc_0g">he embraces</rdg>
                   </app> children, beggars, insane, and scholars, <app xml:id="walc14-app-0181">
                      <lem>and entertains the thought of all, adding to it commonly some breadth and elegance.</lem>
-                     <rdg wit="#wc_0d">and entertains the thought of all. </rdg>
+                     <rdg wit="#wc_0d">and entertaining the thought of all.– </rdg>
                      <rdg wit="#wc_0e">and entertaining the thought of all.</rdg>
                      <rdg wit="#wc_0f">and <del>entertaining</del> <add>entertains</add> the thought of all, <add>adding to it <add>perhaps</add> some breadth &amp; elegance</add>.</rdg>
                      <rdg wit="#wc_0g">and entertains the thought of all, adding to it, <del>perhaps</del>
                         <add>commonly</add>, some breadth and elegance.</rdg>
                   </app> I think <app xml:id="walc14-app-0182">
                      <lem>that he should keep a caravansary on the world’s highway, where philosophers</lem>
-                     <rdg wit="#wc_0d"><add rendition="pencil">that</add> he should keep an inn a caravansery on the world's highway, where the thinkers</rdg>
+                     <rdg wit="#wc_0d"><add rendition="pencil">that</add> he should keep an inn a caravansery on the world's highway, where the Thinkers</rdg>
                      <rdg wit="#wc_0e">that he should keep an inn, a caravansery, on the world's highway, where the thinkers</rdg>
                      <rdg wit="#wc_0f">that he should keep an inn, a caravansery, on the world's highway, where <del>the thinkers</del><add rendition="pencil">philosophers</add>
                      </rdg>
