@@ -33,7 +33,7 @@
                   <persName xml:id="shanley" role="editor">J. Lyndon Shanley</persName>
                   <persName xml:id="clapper" role="editor">Ronald Clapper</persName>
                   <persName xml:id="schacht" role="editor">Paul Schacht</persName>
-                  <persName xml:id="witherell" role="editor">Elizabeth Witherell</persName>
+                  <persName xml:id="witherell" role="editor">Beth Witherell</persName>
                   <persName xml:id="easterly" role="manager">Joe Easterly</persName>
                </personGrp>
             </listPerson>
@@ -1593,7 +1593,7 @@
             <p n="21" change="#wc_0f">
                
                <seg n="21a" change="#wc_0d">
-                  <note type="header" resp="#schacht">
+                  <note type="header" resp="#witherell #schacht">
                   <ab type="string">Former Inhabitants 21a written: D; rewritten: E, F, G.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">14</seg>
@@ -1602,8 +1602,12 @@
                      <seg type="written">D</seg>
                      <seg type="rewritten">D, E, F, G</seg>
                   </ab>
-                     <ab change="#wc_0d" resp="#schacht #witherell">In D, 21a is written and partially rewritten on what may have been the blank leaf of a letter that Thoreau repurposed for his draft, judging by the spot of wax on the recto page. In HM 924, the leaf is the last of nine representing assorted chapters grouped together by Shanley at the end of D. Shanley may have grouped them here because the paper types vary from that of the first 69 leaves. It is possible that these nine leaves belong to a period of revision different from that of D (early 1852 to September 1852). As positioned in HM 924, the verso of this leaf precedes the recto. On the recto, Thoreau has drawn three vertical lines through D1, either to cancel the material or mark it as used. A line below this material separates it from material belonging to 22b and 23. D1 reads: There dwells in his low hut the last of the philosophers. <add>whom</add> Connecticut gave <del>him</del> to the world–He peddled first his wares–afterwards his brains. <del>He will be</del> <add>He will be </add> The last man to be disappointed as the ages revolve–for he <del>expects</del> <add> anticipates</add> more <del>of futurity</del> than any–God will find it hard to astonish him. <del>The most</del> <add>With his</add> hospitable intellect <del>of th</del> embracing children beggars insane <del>poets</del> &amp; scholars–<add>&amp;</add> entertaining the thought of all– <add>With nothing to show –</add> Without special talents – <del>but perseveringly to "shell the humble pod"</del> he lives prompting God &amp; disgracing  man–bearing for fruit his brain only like the nut its kernel. Though disregarded now, when his day comes laws unsuspected by most will take effect, and the practical everywhere, masters of families &amp; rulers, will come to him for advice.</ab>
+                     <ab change="#wc_0d" resp="#witherell #schacht">In D, 21a is written and partially rewritten on what may have been the blank leaf of a letter that Thoreau repurposed for his draft, judging by the spot of wax on the recto page. In HM 924, the leaf is the last of nine representing assorted chapters grouped together by Shanley at the end of D. Shanley may have grouped them here because the paper types vary from that of the first 69 leaves. It is possible that these nine leaves belong to a period of revision different from that of D (early 1852 to September 1852). As positioned in HM 924, the verso of this leaf precedes the recto. On the recto, Thoreau has drawn three vertical lines through D1, either to cancel the material or mark it as used. A line below this material separates it from material belonging to 22b and 23. See note for D1 reading.</ab>
                </note>
+                  <note type="general" resp="#schacht #witherell" ana="#wc_d1">
+                     <p>D1 appears as follows.</p>
+                     <p>There dwells in his low hut the last of the philosophers. <add>whom</add> Connecticut gave <del>him</del> to the world–He peddled first his wares–afterwards his brains. <del>He will be</del> <add>He will be </add> The last man to be disappointed as the ages revolve–for he <del>expects</del> <add> anticipates</add> more <del>of futurity</del> than any–God will find it hard to astonish him. <del>The most</del> <add>With his</add> hospitable intellect <del>of th</del> embracing children beggars insane <del>poets</del> &amp; scholars–<add>&amp;</add> entertaining the thought of all– <add>With nothing to show –</add> Without special talents – <del>but perseveringly to "shell the humble pod"</del> he lives prompting God &amp; disgracing  man–bearing for fruit his brain only like the nut its kernel. Though disregarded now, when his day comes laws unsuspected by most will take effect, and the practical everywhere, masters of families &amp; rulers, will come to him for advice.</p>
+                  </note>
                   <app xml:id="walc14-app-0169a">
                      <lem>I should not forget that during my last winter at the pond</lem>
                      <rdg wit="#wc_0d"><add>I should not forget that</add> During my last winter at the pond</rdg>
@@ -1656,14 +1660,14 @@
                      <rdg wit="#wc_0d">with. It is one of his merits <add rendition="pencil">surely</add> that he</rdg>
                      <rdg wit="#wc_0e">with, and it is one of his requirements that he</rdg>
                   </app> will be the last man to be disappointed as the ages <app xml:id="walc14-app-0175">
-                     <lem>revolve.</lem>
-                     <rdg wit="#wc_0d">revolve for he anticipates more than any. God will find it hard to astonish him.</rdg>
+                     <lem>revolve. He has no venture in the present.</lem>
+                     <rdg wit="#wc_0d">revolve for he anticipates more than any. God will find it hard to astonish him. </rdg>
                      <rdg wit="#wc_0e">revolve, <del>for he anticipates more than any. God will find it</del>
-                        <add>It will be</add> hard to astonish him.</rdg>
-                  </app> He has no venture in the <app xml:id="walc14-app-0176">
-                     <lem>present. But though comparatively</lem>
-                     <rdg wit="#wc_0d">present. Though</rdg>
-                     <rdg wit="#wc_0e">present; but though <add>comparatively</add>
+                        <add>It will be</add> hard to astonish him. He has no venture in the present;</rdg>
+                  </app> <app xml:id="walc14-app-0176">
+                     <lem>But though comparatively </lem>
+                     <rdg wit="#wc_0d">Though</rdg>
+                     <rdg wit="#wc_0e"> but though <add>comparatively</add>
                      </rdg>
                   </app> disregarded now, when his day comes, laws unsuspected by most will take effect, and<app xml:id="walc14-app-0177">
                      <lem>masters</lem>
@@ -1672,10 +1676,10 @@
                   <app xml:id="walc14-app-0178">
                      <lem>come to him for advice.—<quote><lg><l>"How blind that cannot see serenity!"</l></lg><anchor type="hn" xml:id="hn-14-054"/>
                      </quote> A true friend of man; almost the only friend of human progress. </lem>
-                     <rdg wit="#wc_0d"><add rendition="pencil">perchance</add> come to him for advice.—<add rendition="pencil"><quote><lg><l>"How blind that cannot see serenetie!"</l></lg><anchor type="hn" xml:id="hn-14-054"/></quote></add><del>He is a</del> <add>A</add> true friend of man—<del>&amp; has the simplest purest &amp; healthiest sympathy with the race.</del></rdg>
+                     <rdg wit="#wc_0d"><add rendition="pencil">perchance</add> come to him for advice.—<add rendition="pencil"><quote><lg><l>"How blind that cannot see serenetie!"</l></lg><anchor type="hn" xml:id="hn-14-054"/></quote></add><del>He is a</del> <add>A</add> true friend of man—<del>&amp; has the simplest purest &amp; healthiest sympathy with the race.</del> Almost the only friend of human progress.</rdg>
                      <rdg wit="#wc_0e">come to him for advice.—<quote><lg><l>"How blind that cannot see
                         serenitie!"</l></lg><anchor type="hn" xml:id="hn-14-054"/>
-                     </quote>A true friend of man; almost the only friend of human progress.</rdg>
+                     </quote>A true friend of man; almost the only friend of human progress. </rdg>
                   </app> An <app xml:id="walc14-app-0178a">
                      <lem>Old Mortality,<anchor type="hn" xml:id="hn-14-055"/> say
                         rather an Immortality,</lem>
@@ -1728,9 +1732,9 @@
                   </app> that have leisure and a quiet mind, who earnestly <app xml:id="walc14-app-0185">
                      <lem>seek the right road."</lem>
                      <rdg wit="#wc_0d">but without anxiety seek the right road. A thought floats as serenely and as much 
-                        at home in his mind as a duck pluming <del>itself</del> <add rendition="pencil">himself</add> on a far inland lake</rdg>
+                        at home in his mind as a duck pluming <del>itself</del> <add rendition="pencil">herself</add> on a far inland lake</rdg>
                      <rdg wit="#wc_0e">but without anxiety seek the right road." A thought floats as serenely and as much
-                        at home in his mind as a duck pluming himself on a far inland lake </rdg>
+                        at home in his mind as a duck pluming herself on a far inland lake </rdg>
                      <rdg wit="#wc_0f">
                         <del>but without anxiety</del> seek the <del>right</del>
                         <add>higher</add> road.</rdg>
