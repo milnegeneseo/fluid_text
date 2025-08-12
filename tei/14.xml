@@ -33,7 +33,7 @@
                   <persName xml:id="shanley" role="editor">J. Lyndon Shanley</persName>
                   <persName xml:id="clapper" role="editor">Ronald Clapper</persName>
                   <persName xml:id="schacht" role="editor">Paul Schacht</persName>
-                  <persName xml:id="witherell" role="editor">Elizabeth Witherell</persName>
+                  <persName xml:id="witherell" role="editor">Beth Witherell</persName>
                   <persName xml:id="easterly" role="manager">Joe Easterly</persName>
                </personGrp>
             </listPerson>
@@ -1591,113 +1591,153 @@
             
             <p n="21" change="#wc_0f">
                
-               <seg n="21a" change="#wc_0e">
-                  <note type="header" resp="#clapper">
-                  <ab type="string">Former Inhabitants 21a written: E; rewritten: G.</ab>
+               <seg n="21a" change="#wc_0d">
+                  <note type="header" resp="#witherell #schacht">
+                  <ab type="string">Former Inhabitants 21a written: D; rewritten: E, F, G.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">14</seg>
                      <seg type="chapterTitle">Former Inhabitants</seg>
                      <seg type="paragraph">21a</seg>
-                     <seg type="written">E</seg>
-                     <seg type="rewritten">G</seg>
+                     <seg type="written">D</seg>
+                     <seg type="rewritten">D, E, F, G</seg>
                   </ab>
+                     <ab change="#wc_0d" resp="#witherell #schacht">In D, 21a is written and partially rewritten on what may have been the blank leaf of a letter that Thoreau repurposed for his draft, judging by the spot of wax on the recto page. In HM 924, the leaf is the last of nine representing assorted chapters grouped together by Shanley at the end of D. Shanley may have grouped them here because the paper types vary from that of the first 69 leaves. It is possible that these nine leaves belong to a period of revision different from that of D (early 1852 to September 1852). As positioned in HM 924, the verso of this leaf precedes the recto. On the recto, Thoreau has drawn three vertical lines through D1, either to cancel the material or mark it as used. A line below this material separates it from material belonging to 22b and 23. See note for D1 reading.</ab>
                </note>
-
-                   I should not forget that during my last winter at the pond there was
-                  another welcome visitor,<anchor type="hn" xml:id="hn-14-053"/> who at one time came
-                  through the village, through snow and rain and darkness, till he saw my lamp through the trees, and
-                  shared with me some long winter evenings. One of the last of the philosophers,— <app xml:id="walc14-app-0170">
-                     <lem>Connecticut gave him</lem>
+                  <note type="general" resp="#schacht #witherell" ana="#wc_d1">
+                     <p>D1 appears as follows.</p>
+                     <p>There dwells in his low hut the last of the philosophers. <add>whom</add> Connecticut gave <del>him</del> to the world–He peddled first his wares–afterwards his brains. <del>He will be</del> <add>He will be </add> The last man to be disappointed as the ages revolve–for he <del>expects</del> <add> anticipates</add> more <del>of futurity</del> than any–God will find it hard to astonish him. <del>The most</del> <add>With his</add> hospitable intellect <del>of th</del> embracing children beggars insane <del>poets</del> &amp; scholars–<add>&amp;</add> entertaining the thought of all– <add>With nothing to show –</add> Without special talents – <del>but perseveringly to "shell the humble pod"</del> he lives prompting God &amp; disgracing  man–bearing for fruit his brain only like the nut its kernel. Though disregarded now, when his day comes laws unsuspected by most will take effect, and the practical everywhere, masters of families &amp; rulers, will come to him for advice.</p>
+                  </note>
+                  <app xml:id="walc14-app-0169a">
+                     <lem>I should not forget that during my last winter at the pond</lem>
+                     <rdg wit="#wc_0d"><add>I should not forget that</add> During my last winter at the pond</rdg>
+                     <rdg wit="#wc_0e">I should not forget that, during my last winter at the pond,</rdg>
+                  </app>
+                   there was
+                  <app xml:id="walc14-app-0169b">
+                     <lem>another</lem>
+                     <rdg wit="#wc_0d">one <del>visit</del><add rendition="pencil">other</add></rdg>
+                     <rdg wit="#wc_0e">one other</rdg>
+                  </app>
+                  welcome visitor,<anchor type="hn" xml:id="hn-14-053"/> who 
+                  <app xml:id="walc14-app-0169c">
+                     <lem>at one time came</lem>
+                     <rdg wit="#wc_0d"><add rendition="pencil">at one time</add> came <del><add rendition="pencil">one while</add></del> <del>occasionally</del></rdg>
+                  </app>
+                  <app xml:id="walc14-app-0169d">
+                     <lem>through</lem>
+                     <rdg wit="#wc_0d #wc_0e">from</rdg>
+                  </app>
+                  the village, through snow and rain and darkness, 
+                  <app xml:id="walc14-app-0169e">
+                     <lem>till</lem>
+                     <rdg wit="#wc_0d"><del>un</del>til<add>l</add></rdg>
+                  </app>
+                  he saw my
+                  <app xml:id="walc14-app-0170">
+                     <lem>lamp</lem>
+                     <rdg wit="#wc_0d"><del>taper</del><add rendition="pencil">lamp</add></rdg>
+                  </app>
+                  <app xml:id="walc14-app-0171">
+                     <lem>through the trees, and shared with me some long winter evenings. One of the last of the philosophers,—Connecticut gave him to the world,—he peddled first her wares, afterwards, as he declares, his brains.</lem>
+                     <rdg wit="#wc_0d">through the <del>woods</del> trees—<del>and</del> to share<del>d</del> with me <del>the</del> <add rendition="pencil">some</add> long winter evening.— <add rendition="pencil">One of</add> The last of the philosophers, whom Connecticut gave to the world. He peddled first her wares afterwards <add rendition="pencil">as he declared </add>his brains.</rdg>
+                     <rdg wit="#wc_0e">through the trees, and shared with me some long winter evenings. <add rendition="pencil">Also</add> One of the last of the philosophers,— <del>whom</del>Connecticut gave <add>him</add> to the world—he peddled first her wares, <del>&amp;</del> afterwards, as he declares, his brains.</rdg>
+                  </app>
+                   <app xml:id="walc14-app-0172">
+                     <lem>These he peddles still, prompting God and disgracing man, </lem>
+                      <rdg wit="#wc_0d">With nothing to show <add rendition="pencil">for his pains, however,</add> without special talents, he lives <add rendition="pencil">still</add> prompting God, but disgracing man, </rdg>
                      <rdg wit="#wc_0e">
-                        <del>whom</del> Connecticut gave <add>him</add>
+                        <del>With nothing to show for his pains, without special talents, he lives</del> <add>These he peddles</add> still, prompting God and disgracing <add>man, </add>
                      </rdg>
-                  </app> to the world,—he peddled first her wares, afterwards, as he declares, his brains. <app xml:id="walc14-app-0171">
-                     <lem>These he peddles</lem>
-                     <rdg wit="#wc_0e">
-                        <del>with nothing to show for his pains, without special talents, he lives</del>
-                        <add>These he peddles</add>
-                     </rdg>
-                  </app> still, prompting God and disgracing<app xml:id="walc14-app-0172">
-                     <lem>man,</lem>
-                     <rdg wit="#wc_0e">
-                        <add> man</add>,</rdg>
-                  </app> bearing for fruit his brain only, like the nut its kernel. I think that he must be the man of
+                  </app>bearing for fruit his brain only, like the nut its kernel. I think that he must be the man of
                   the most faith of any alive. <app xml:id="walc14-app-0173">
-                     <lem>His words and attitude</lem>
+                     <lem>His words and attitude always suppose a better state of things than </lem>
+                     <rdg wit="#wc_0d">He never wavers. His words &amp; his attitude always suppose a better and a truer state than </rdg>
                      <rdg wit="#wc_0e">
-                        <del>He never wavers.</del> His words and his attitude</rdg>
-                  </app> always suppose a better state of things than other men are acquainted with, and<app xml:id="walc14-app-0174">
-                     <lem>he</lem>
-                     <rdg wit="#wc_0e">it is one of his requirements that he</rdg>
+                        <del>He never wavers.</del> His words and his attitude always suppose a better state of things than </rdg>
+                  </app>other men are acquainted <app xml:id="walc14-app-0174">
+                     <lem>with, and he</lem>
+                     <rdg wit="#wc_0d">with. It is one of his merits <add rendition="pencil">surely</add> that he</rdg>
+                     <rdg wit="#wc_0e">with, and it is one of his requirements that he</rdg>
                   </app> will be the last man to be disappointed as the ages <app xml:id="walc14-app-0175">
-                     <lem>revolve.</lem>
+                     <lem>revolve. He has no venture in the present.</lem>
+                     <rdg wit="#wc_0d">revolve for he anticipates more than any. God will find it hard to astonish him. </rdg>
                      <rdg wit="#wc_0e">revolve, <del>for he anticipates more than any. God will find it</del>
-                        <add>It will be</add> hard to astonish him</rdg>
-                  </app> He has no venture in the present. But though <app xml:id="walc14-app-0176">
-                     <lem>comparatively</lem>
-                     <rdg wit="#wc_0e">
-                        <add>comparatively</add>
+                        <add>It will be</add> hard to astonish him. He has no venture in the present;</rdg>
+                  </app> <app xml:id="walc14-app-0176">
+                     <lem>But though comparatively </lem>
+                     <rdg wit="#wc_0d">Though</rdg>
+                     <rdg wit="#wc_0e"> but though <add>comparatively</add>
                      </rdg>
                   </app> disregarded now, when his day comes, laws unsuspected by most will take effect, and<app xml:id="walc14-app-0177">
                      <lem>masters</lem>
-                     <rdg wit="#wc_0e">the practical everywhere, masters</rdg>
-                  </app> of families and rulers will come to him for advice.— <quote>"How blind that cannot see
-                        serenity!"<anchor type="hn" xml:id="hn-14-054"/>
-                  </quote> A true friend of man; almost the only friend of human progress. An Old <app xml:id="walc14-app-0178">
-                     <lem>Mortality,<anchor type="hn" xml:id="hn-14-055"/> say
+                     <rdg wit="#wc_0d #wc_0e">the practical everywhere, masters</rdg>
+                  </app> of families and rulers will  
+                  <app xml:id="walc14-app-0178">
+                     <lem>come to him for advice.—<quote><lg><l>"How blind that cannot see serenity!"</l></lg><anchor type="hn" xml:id="hn-14-054"/>
+                     </quote> A true friend of man; almost the only friend of human progress. </lem>
+                     <rdg wit="#wc_0d"><add rendition="pencil">perchance</add> come to him for advice.—<add rendition="pencil"><quote><lg><l>"How blind that cannot see serenetie!"</l></lg><anchor type="hn" xml:id="hn-14-054"/></quote></add><del>He is a</del> <add>A</add> true friend of man—<del>&amp; has the simplest purest &amp; healthiest sympathy with the race.</del> Almost the only friend of human progress.</rdg>
+                     <rdg wit="#wc_0e">come to him for advice.—<quote><lg><l>"How blind that cannot see
+                        serenitie!"</l></lg><anchor type="hn" xml:id="hn-14-054"/>
+                     </quote>A true friend of man; almost the only friend of human progress. </rdg>
+                  </app> An <app xml:id="walc14-app-0178a">
+                     <lem>Old Mortality,<anchor type="hn" xml:id="hn-14-055"/> say
                         rather an Immortality,</lem>
-                     <rdg wit="#wc_0e">
+                     <rdg wit="#wc_0d">Old Humanity</rdg>
+                     <rdg wit="#wc_0e"> old 
                         <del>humanity</del>
                         <add rendition="pencil">mortality say rather immortality</add>
                      </rdg>
-                  </app> with unwearied patience and faith making plain the image engraven in men’s bodies, the God of
-                  whom they are but defaced and<app xml:id="walc14-app-0179">
-                     <lem>leaning</lem>
-                     <rdg wit="#wc_0e">leaning <del>&amp; crumbling</del>
-                     </rdg>
+                     <rdg wit="#wc_0f">old mortality, say rather Immortality,</rdg>
+                  </app> with unwearied patience and faith making plain the <app xml:id="walc14-app-0179">
+                     <lem>image engraven in men’s bodies, the God of whom they are but defaced and leaning</lem>
+                     <rdg wit="#wc_0d">image engraven in men’s bodies, the God of whom they are but defaced and leaning &amp; crumbling</rdg>
+                     <rdg wit="#wc_0e">image engraven in men’s bodies, the God of whom they are but defaced and leaning <del>&amp; crumbling</del></rdg>
+                     <rdg wit="#wc_0f"><add>fair</add> image engraven in men’s bodies, the God of whom they are but defaced and leaning <del><add>&amp; crumbling</add></del></rdg>
                   </app> monuments. With his hospitable intellect<app xml:id="walc14-app-0180">
                      <lem>he embraces</lem>
-                     <rdg wit="#wc_0e">embracing </rdg>
+                     <rdg wit="#wc_0d #wc_0e">embracing </rdg>
                      <rdg wit="#wc_0f">
                         <del>embracing</del>
                         <add>he embraces</add>
                      </rdg>
-                  </app> children, beggars, insane, and scholars, and entertains the thought of all, <app xml:id="walc14-app-0181">
-                     <lem>adding to it commonly some breadth and elegance.</lem>
-                     <rdg wit="#wc_0e"><!--[not in ms.]-->
+                     <rdg wit="#wc_0g">he embraces</rdg>
+                  </app> children, beggars, insane, and scholars, <app xml:id="walc14-app-0181">
+                     <lem>and entertains the thought of all, adding to it commonly some breadth and elegance.</lem>
+                     <rdg wit="#wc_0d">and entertaining the thought of all.– </rdg>
+                     <rdg wit="#wc_0e">and entertaining the thought of all.</rdg>
+                     <rdg wit="#wc_0f">and <del>entertaining</del> <add>entertains</add> the thought of all, <add>adding to it <add>perhaps</add> some breadth &amp; elegance</add>.</rdg>
+                     <rdg wit="#wc_0g">and entertains the thought of all, adding to it, <del>perhaps</del>
+                        <add>commonly</add>, some breadth and elegance.</rdg>
+                  </app> I think <app xml:id="walc14-app-0182">
+                     <lem>that he should keep a caravansary on the world’s highway, where philosophers</lem>
+                     <rdg wit="#wc_0d"><add rendition="pencil">that</add> he should keep an inn a caravansery on the world's highway, where the Thinkers</rdg>
+                     <rdg wit="#wc_0e">that he should keep an inn, a caravansery, on the world's highway, where the thinkers</rdg>
+                     <rdg wit="#wc_0f">that he should keep an inn, a caravansery, on the world's highway, where <del>the thinkers</del><add rendition="pencil">philosophers</add>
                      </rdg>
-                     <rdg wit="#wc_0f">
-                        <add>adding to it commonly some breadth and elegance</add>. adding to it <add rendition="pencil">perhaps</add> some breadth &amp; elegance </rdg>
-                     <rdg wit="#wc_0g">adding to it, <del>perhaps</del>
-                        <add>commonly</add>, some breadth and elegance</rdg>
-                  </app> I think that he should keep a caravansary on the world’s highway, where<app xml:id="walc14-app-0182">
-                     <lem>philosophers</lem>
-                     <rdg wit="#wc_0e">the thinkers </rdg>
-                     <rdg wit="#wc_0f">
-                        <del>the thinkers</del>
-                        <add rendition="pencil">philosophers</add>
-                     </rdg>
-                  </app> of all nations might put up, <app xml:id="walc14-app-0183">
-                     <lem>and on his sign should be printed,</lem>
-                     <rdg wit="#wc_0e">
-                        <add rendition="pencil">&amp;</add> on his sign might be written </rdg>
-                     <rdg wit="#wc_0f">&amp; on his sign might be <del>written</del>
-                        <add rendition="pencil">printed</add>
-                     </rdg>
-                     <rdg wit="#wc_0g">and on his sign <del>might</del>
+                     <rdg wit="#wc_0g">that he should keep <del>an inn</del> a caravansery on the world's highway, where philosophers</rdg>
+                  </app> of all nations might put <app xml:id="walc14-app-0183">
+                     <lem>up, and on his sign should be printed,</lem>
+                     <rdg wit="#wc_0d">up. On his sign <del>should</del><add rendition="pencil">might</add> be written </rdg>
+                     <rdg wit="#wc_0e">up <add rendition="pencil">&amp;</add> on his sign <del>might</del> <add rendition="pencil">might</add> be written </rdg>
+                     <rdg wit="#wc_0f">up, &amp; on his sign might be <del>written</del> <add>printed</add></rdg>
+                     <rdg wit="#wc_0g">up, and on his sign <del>might</del>
                         <add>should</add> be printed</rdg>
-                  </app> "Entertainment for man, but not for his beast.<anchor type="hn" xml:id="hn-14-056"/> Enter <app xml:id="walc14-app-0184">
-                     <lem>ye</lem>
-                     <rdg wit="#wc_0e">all ye </rdg>
-                     <rdg wit="#wc_0f">
-                        <del>all</del> ye</rdg>
+                  </app> <app xml:id="walc14-app-0184">
+                     <lem>"Entertainment for man, but not for his beast.<anchor type="hn" xml:id="hn-14-056"/> Enter ye</lem>
+                     <rdg wit="#wc_0d">Entertainment for man, but not for his beast.<anchor type="hn" xml:id="hn-14-056"/> Enter all ye</rdg>
+                     <rdg wit="#wc_0e">"Entertainment for man, but not for his beast;<anchor type="hn" xml:id="hn-14-056"/> enter all ye </rdg>
+                     <rdg wit="#wc_0f">"Entertainment for man, but not for his beast;<anchor type="hn" xml:id="hn-14-056"/> enter <del>all</del> ye</rdg>
+                     <rdg wit="#wc_0g">"Entertainment for man, but not for his beast.<anchor type="hn" xml:id="hn-14-056"/> Enter ye</rdg>
                   </app> that have leisure and a quiet mind, who earnestly <app xml:id="walc14-app-0185">
                      <lem>seek the right road."</lem>
+                     <rdg wit="#wc_0d">but without anxiety seek the right road. A thought floats as serenely and as much 
+                        at home in his mind as a duck pluming <del>itself</del> <add rendition="pencil">herself</add> on a far inland lake</rdg>
                      <rdg wit="#wc_0e">but without anxiety seek the right road." A thought floats as serenely and as much
-                        at home in his mind as a duck pluming himself on a far inland lake </rdg>
+                        at home in his mind as a duck pluming herself on a far inland lake </rdg>
                      <rdg wit="#wc_0f">
                         <del>but without anxiety</del> seek the <del>right</del>
-                        <add>higher</add> road</rdg>
+                        <add>higher</add> road.</rdg>
+                     <rdg wit="#wc_0g">seek the <del>right</del> <add>higher</add> road.</rdg>
                   </app>
                </seg>
                
@@ -1723,7 +1763,7 @@
                      <rdg wit="#wc_0g">
                         <add>He is</add>
                      </rdg>
-                  </app> perhaps the sanest man and has<app xml:id="walc14-app-0187">
+                  </app> perhaps the sanest man and <app xml:id="walc14-app-0187">
                      <lem>has</lem>
                      <rdg wit="#wc_f1 #wc_f2">with </rdg>
                      <rdg wit="#wc_0g">
