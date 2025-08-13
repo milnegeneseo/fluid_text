@@ -1701,11 +1701,19 @@
                      </rdg>
                      <rdg wit="#wc_0f">old mortality, say rather Immortality,</rdg>
                   </app> with unwearied patience and faith making plain the <app xml:id="walc14-app-0179">
-                     <lem>image engraven in men’s bodies, the God of whom they are but defaced and leaning</lem>
-                     <rdg wit="#wc_0d">image engraven in men’s bodies, the God of whom they are but defaced and leaning &amp; crumbling</rdg>
-                     <rdg wit="#wc_0e">image engraven in men’s bodies, the God of whom they are but defaced and leaning <del>&amp; crumbling</del></rdg>
-                     <rdg wit="#wc_0f"><add>fair</add> image engraven in men’s bodies, the God of whom they are but defaced and leaning <del><add>&amp; crumbling</add></del></rdg>
-                  </app> monuments. With his hospitable intellect<app xml:id="walc14-app-0180">
+                     <lem>image engraven in </lem>
+                     <rdg wit="#wc_0d">image engraven in </rdg>
+                     <rdg wit="#wc_0e">image engraven in </rdg>
+                     <rdg wit="#wc_0f"><add>fair</add> image engraven in </rdg>
+                  </app> men’s bodies, the God of whom they are but defaced and leaning
+                  <app xml:id="walc14-app-0179a">
+                     <lem>monuments. </lem>
+                     <rdg wit="#wc_0d"> &amp; crumbling monuments. </rdg>
+                     <rdg wit="#wc_0e"> <del>&amp; crumbling monuments. </del></rdg>
+                     <rdg wit="#wc_0f"> <del><add>&amp; crumbling</add></del> monuments. </rdg>
+                     <rdg wit="#wc_0g"> monuments.</rdg>     
+                  </app>
+                  With his hospitable intellect<app xml:id="walc14-app-0180">
                      <lem>he embraces</lem>
                      <rdg wit="#wc_0d #wc_0e">embracing </rdg>
                      <rdg wit="#wc_0f">
