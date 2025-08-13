@@ -1592,7 +1592,7 @@
             <p n="21" change="#wc_0f">
                
                <seg n="21a" change="#wc_0d">
-                  <note type="header" resp="#witherell #schacht">
+                  <note type="header" resp="#clapper #witherell #schacht">
                   <ab type="string">Former Inhabitants 21a written: D; rewritten: E, F, G.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">14</seg>
@@ -1602,6 +1602,8 @@
                      <seg type="rewritten">D, E, F, G</seg>
                   </ab>
                      <ab change="#wc_0d" resp="#witherell #schacht">In D, 21a is written and partially rewritten on what may have been the blank leaf of a letter that Thoreau repurposed for his draft, judging by the spot of wax on the recto page. In HM 924, the leaf is the last of nine representing assorted chapters grouped together by Shanley at the end of D. Shanley may have grouped them here because the paper types vary from that of the first 69 leaves. It is possible that these nine leaves belong to a period of revision different from that of D (early 1852 to September 1852). As positioned in HM 924, the verso of this leaf precedes the recto. On the recto, Thoreau has drawn three vertical lines through D1, either to cancel the material or mark it as used. A line below this material separates it from material belonging to 22b and 23. See note for D1 reading.</ab>
+                     <ab change="#wc_0f" resp="#clapper">A fair copy was made of only <quote>the only friend of human progress . . . who earnestly seek the right road.</quote></ab>
+                     <ab change="#wc_0g" resp="#clapper">A fair copy was made of only <quote>men’s bodies, the God of whom they are but defaced . . . who earnestly seek the right road.</quote></ab>
                </note>
                   <note type="general" resp="#schacht #witherell" ana="#wc_d1">
                      <p>D1 appears as follows.</p>
@@ -1618,10 +1620,11 @@
                      <rdg wit="#wc_0d">one <del>visit</del><add rendition="pencil">other</add></rdg>
                      <rdg wit="#wc_0e">one other</rdg>
                   </app>
-                  welcome visitor,<anchor type="hn" xml:id="hn-14-053"/> who 
+                  welcome visitor,<anchor type="hn" xml:id="hn-14-053"/> who
                   <app xml:id="walc14-app-0169c">
-                     <lem>at one time came</lem>
-                     <rdg wit="#wc_0d"><add rendition="pencil">at one time</add> came <del><add rendition="pencil">one while</add></del> <del>occasionally</del></rdg>
+                     <lem> at one time came</lem>
+                     <rdg wit="#wc_0d"><add rendition="pencil"> at one time</add> came <del><add rendition="pencil">one while</add></del> <del>occasionally</del></rdg>
+                     <rdg wit="#wc_0e">, at one time, came </rdg>
                   </app>
                   <app xml:id="walc14-app-0169d">
                      <lem>through</lem>
@@ -1631,11 +1634,13 @@
                   <app xml:id="walc14-app-0169e">
                      <lem>till</lem>
                      <rdg wit="#wc_0d"><del>un</del>til<add>l</add></rdg>
+                     <rdg wit="#wc_0e">till</rdg>
                   </app>
                   he saw my
                   <app xml:id="walc14-app-0170">
                      <lem>lamp</lem>
                      <rdg wit="#wc_0d"><del>taper</del><add rendition="pencil">lamp</add></rdg>
+                     <rdg wit="#wc_0e">lamp</rdg>
                   </app>
                   <app xml:id="walc14-app-0171">
                      <lem>through the trees, and shared with me some long winter evenings. One of the last of the philosophers,—Connecticut gave him to the world,—he peddled first her wares, afterwards, as he declares, his brains.</lem>
