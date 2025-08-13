@@ -1679,12 +1679,19 @@
                   </app> of families and rulers will  
                   <app xml:id="walc14-app-0178">
                      <lem>come to him for advice.—<quote><lg><l>"How blind that cannot see serenity!"</l></lg><anchor type="hn" xml:id="hn-14-054"/>
-                     </quote> A true friend of man; almost the only friend of human progress. </lem>
-                     <rdg wit="#wc_0d"><add rendition="pencil">perchance</add> come to him for advice.—<add rendition="pencil"><quote><lg><l>"How blind that cannot see serenetie!"</l></lg><anchor type="hn" xml:id="hn-14-054"/></quote></add><del>He is a</del> <add>A</add> true friend of man—<del>&amp; has the simplest purest &amp; healthiest sympathy with the race.</del> Almost the only friend of human progress.</rdg>
+                     </quote></lem>
+                     <rdg wit="#wc_0d"><add rendition="pencil">perchance</add> come to him for advice.—<add rendition="pencil"><quote><lg><l>"How blind that cannot see serenetie!"</l></lg><anchor type="hn" xml:id="hn-14-054"/></quote></add></rdg>
                      <rdg wit="#wc_0e">come to him for advice.—<quote><lg><l>"How blind that cannot see
                         serenitie!"</l></lg><anchor type="hn" xml:id="hn-14-054"/>
-                     </quote>A true friend of man; almost the only friend of human progress. </rdg>
-                  </app> An <app xml:id="walc14-app-0178a">
+                     </quote></rdg>
+                  </app> 
+                  <app xml:id="walc14-app-0178a">
+                     <lem> A true friend of man; almost the only friend of human progress. </lem>
+                     <rdg wit="#wc_0d"><del>He is a</del> <add>A</add> true friend of man—<del>&amp; has the simplest purest &amp; healthiest sympathy with the race.</del> Almost the only friend of human progress.</rdg>
+                     <rdg wit="#wc_0e"> A true friend of man; almost the only friend of human progress. </rdg>
+                     <rdg wit="#wc_0f"> the only friend of human progress. </rdg>
+                  </app>
+                  An <app xml:id="walc14-app-0178b">
                      <lem>Old Mortality,<anchor type="hn" xml:id="hn-14-055"/> say
                         rather an Immortality,</lem>
                      <rdg wit="#wc_0d">Old Humanity</rdg>
