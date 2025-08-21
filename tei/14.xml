@@ -1592,7 +1592,7 @@
             <p n="21" change="#wc_0f">
                
                <seg n="21a" change="#wc_0d">
-                  <note type="header" resp="#clapper #witherell #schacht">
+                  <note type="header" resp="#witherell #schacht #clapper">
                   <ab type="string">Former Inhabitants 21a written: D; rewritten: E, F, G.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">14</seg>
@@ -1750,9 +1750,9 @@
                      <rdg wit="#wc_0g" resp="#schacht">"Entertainment for man, but not for his beast.<anchor type="hn" xml:id="hn-14-056"/> Enter ye</rdg>
                   </app> that have leisure and a quiet mind, who earnestly <app xml:id="walc14-app-0185">
                      <lem>seek the right road."</lem>
-                     <rdg wit="#wc_0d" resp="#schacht">but without anxiety seek the right road. A thought floats as serenely and as much 
-                        at home in his mind as a duck pluming <del resp="#schacht">itself</del> <add rendition="pencil" resp="#schacht">herself</add> on a far inland lake</rdg>
-                     <rdg wit="#wc_0e" resp="#schacht">but without anxiety seek the right road." A thought floats as serenely and as much
+                     <rdg wit="#wc_0d" resp="#witherell">but without anxiety seek the right road. A thought floats as serenely and as much 
+                        at home in his mind as a duck pluming <del resp="#witherell">itself</del> <add rendition="pencil" resp="#witherell">herself</add> on a far inland lake</rdg>
+                     <rdg wit="#wc_0e" resp="#witherell">but without anxiety seek the right road." A thought floats as serenely and as much
                         at home in his mind as a duck pluming herself on a far inland lake </rdg>
                      <rdg wit="#wc_0f" resp="#schacht">
                         <del resp="#schacht">but without anxiety</del> seek the <del resp="#schacht">right</del>
