@@ -811,8 +811,10 @@
                      <seg type="chapterNum">3</seg>
                      <seg type="chapterTitle">Reading</seg>
                      <seg type="paragraph">8</seg>
+                     <!-- <seg type="written">Not in manuscript</seg> -->
                      <anchor type="not-in-MS"/>
                   </ab>
+                  <ab>Reading 8 is not in the manuscript.</ab>
                </note>
                <app xml:id="walc03-app-0061">
                   <lem>I think that having learned our letters we should read the best that is in
@@ -857,7 +859,7 @@
                      sort of gingerbread is baked daily and more sedulously than pure wheat or
                      rye-and-Indian in almost every oven,<anchor type="hn" xml:id="hn-03-039"/> and
                      finds a surer market.</lem>
-                  <rdg wit="#wc_0a #wc_0b #wc_0c" resp="#clapper"><!--not in manuscript--></rdg>
+                  <rdg wit="#wc_0a #wc_0b #wc_0c #wc_0d #wc_0e #wc_0f #wc_0g" resp="#clapper"><!--not in manuscript--></rdg>
                </app>
                <app>
                   <lem>
@@ -874,8 +876,10 @@
                         <seg type="chapterNum">3</seg>
                         <seg type="chapterTitle">Reading</seg>
                         <seg type="paragraph">9a</seg>
+                        <!-- <seg type="written">Not in manuscript</seg> -->
                         <anchor type="not-in-MS"/>
                      </ab>
+                     <ab>Reading 9a is not in the manuscript.</ab>
                   </note>
                   <app xml:id="walc03-app-0062">
                      <lem>The best books are not read even by those who are called good readers.
@@ -908,7 +912,7 @@
                         whose worth the wise of every succeeding age have assured us of;—and yet we
                         learn to read</lem>
 
-                     <rdg wit="#wc_0a #wc_0b #wc_0c" resp="#clapper">
+                     <rdg wit="#wc_0a #wc_0b #wc_0c #wc_0d #wc_0e #wc_0f #wc_0g" resp="#clapper">
                         <!--not in ms-->
                      </rdg>
                   </app>
