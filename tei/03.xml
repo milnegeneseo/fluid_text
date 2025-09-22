@@ -36,7 +36,7 @@
                   <persName xml:id="shanley" role="editor">J. Lyndon Shanley</persName>
                   <persName xml:id="clapper" role="editor">Ronald Clapper</persName>
                   <persName xml:id="schacht" role="editor">Paul Schacht</persName>
-                  <persName xml:id="witherell" role="editor">Elizabeth Witherell</persName>
+                  <persName xml:id="witherell" role="editor">Beth Witherell</persName>
                   <persName xml:id="easterly" role="manager">Joe Easterly</persName>
                </personGrp>
             </listPerson>
@@ -805,7 +805,7 @@
             </p>
 
             <p n="8" change="#wc_base">
-               <note type="header" resp="#schacht">
+               <note type="header" resp="#witherell">
                   <ab type="string">Reading 8 [not in manuscript].</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">3</seg>
@@ -813,7 +813,7 @@
                      <seg type="paragraph">8</seg>
                      <anchor type="not-in-MS"/>
                   </ab>
-                  <ab>Reading 8 is not in the manuscript. A leaf (recto) in HM 924 Volume 8 contains material from Reading 8. See Digital Thoreau explanation of Volume 8 and image 1297 in the search table. The verso of this leaf (image 1298) contains material from Reading 9a.</ab>
+                  <ab>Reading 8 is not in the A–G drafts of the manuscript. A leaf (recto) in HM 924 Volume 8 contains material from Reading 8. See Digital Thoreau explanation of Volume 8 and image 1297 in the search table. The verso of this leaf (image 1298) contains material from Reading 9a.</ab>
                </note>
                <app xml:id="walc03-app-0061">
                   <lem>I think that having learned our letters we should read the best that is in
@@ -864,7 +864,7 @@
 
             <p n="9" change="#wc_0a">
                <seg n="9a" change="#wc_base">
-                  <note type="header" resp="#schacht">
+                  <note type="header" resp="#witherell">
                      <ab type="string">Reading 9a [not in manuscript].</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">3</seg>
@@ -872,7 +872,7 @@
                         <seg type="paragraph">9a</seg>
                         <anchor type="not-in-MS"/>
                      </ab>
-                     <ab>Reading 9a is not in the manuscript. A leaf (verso) in HM 924 Volume 8 contains material from Reading 9a. See Digital Thoreau explanation of Volume 8 and image 1298 in the search table. The recto of this leaf (image 1297) contains material from Reading 8.</ab>
+                     <ab>Reading 9a is not in the A–G drafts of the manuscript. A leaf (verso) in HM 924 Volume 8 contains material from Reading 9a. See Digital Thoreau explanation of Volume 8 and image 1298 in the search table. The recto of this leaf (image 1297) contains material from Reading 8.</ab>
                   </note>
                   <app xml:id="walc03-app-0062">
                      <lem>The best books are not read even by those who are called good readers.
