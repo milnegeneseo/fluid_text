@@ -1999,10 +1999,11 @@
                      xml:id="walc13-app-0207">
                      <lem>Some of my friends spoke as if I was coming to the woods on purpose to
                         freeze myself.</lem>
-                     <rdg wit="#wc_0f #wc_g1">
-                        <add>Some of my friends spoke as if I was coming to the woods on purpose to
-                           freeze myself</add>. Some of my friends thought that I was coming to the
-                        woods on purpose to freeze myself </rdg>
+                     <rdg wit="#wc_0f"><add>Some of my friends thought that I was coming to the woods on purpose to
+                           freeze myself</add>.</rdg>
+                     <rdg wit="#wc_g1">
+                        Some of my friends thought that I was coming to the woods on purpose to
+                           freeze myself.</rdg>
                      <rdg wit="#wc_g2">Some of my friends <del>thought that</del>
                         <add>spoke as if</add> I was coming to the woods on purpose to freeze
                         myself</rdg>
@@ -2157,7 +2158,7 @@
                      </ab>
                      <ab change="#wc_0e">House-Warming 19c follows House-Warming 19a and precedes
                         House-Warming 19b.</ab>
-                  </note> The stove<app xml:id="walc13-app-0221">
+                  </note> <app xml:id="walc13-app-0221">
                      <lem>The stove</lem>
                      <rdg wit="#wc_0e">
                         <del>It</del>
