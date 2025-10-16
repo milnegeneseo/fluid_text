@@ -33,7 +33,7 @@
                   <persName xml:id="shanley" role="editor">J. Lyndon Shanley</persName>
                   <persName xml:id="clapper" role="editor">Ronald Clapper</persName>
                   <persName xml:id="schacht" role="editor">Paul Schacht</persName>
-                  <persName xml:id="witherell" role="editor">Elizabeth Witherell</persName>
+                  <persName xml:id="witherell" role="editor">Beth Witherell</persName>
                   <persName xml:id="easterly" role="manager">Joe Easterly</persName>
                </personGrp>
             </listPerson>
@@ -1138,14 +1138,12 @@
                   </ab>
                   <ab change="#wc_0d">Brute Neighbors 14 is interlined.</ab>
                </note>
-                Kirby and
-               Spence <anchor type="hn" xml:id="hn-12-036"/> tell us <app xml:id="walc12-app-0113">
+               <anchor type="hn" xml:id="hn-12-036"/><app xml:id="walc12-app-0113">
                   <lem>Kirby and Spence tell us</lem>
-                  
-                  <rdg wit="#wc_0d">Since making this record I learn from Kirby &amp; Spence </rdg>
+                  <rdg wit="#wc_0d" resp="#schacht">Since making this record I learn from Kirby &amp; Spence <del resp="#schacht">I learn</del></rdg>
                   <rdg wit="#wc_0e">
                      <del>Since making this record I learn from Kirby and Spence</del>
-                     <add rendition="pencil">Kirby and Spence tell us</add>
+                     <add rendition="pencil">Kirby &amp; Spence tell us</add>
                   </rdg>
                </app> that the battles of <app xml:id="walc12-app-0114">
                   <lem>ants</lem>
@@ -1380,6 +1378,7 @@
                      <seg type="rewritten">E</seg>
                   </ab>
                </note>
+                  <note type="general" resp="#witherell" ana="#wc_0e">In E, between the last line of 14 and the first line of 16a Thoreau has penciled the catchphrase "Many a village bose". <hi rend="style(italics)">(Beth Witherell)</hi></note>
                    In the fall the loon <app xml:id="walc12-app-0130">
                      <lem>(<hi rend="style(italics)">Colymbus glacialis</hi>)</lem>
                      <rdg wit="#wc_0a #wc_0e"><!-- [not in ms.]--></rdg>
