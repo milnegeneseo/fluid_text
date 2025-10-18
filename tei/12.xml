@@ -1127,7 +1127,7 @@
                and harrowed by witnessing the struggle, the ferocity and carnage, of a human battle before my door. </p>
             
             <p n="14" change="#wc_0d">
-               <note type="header" resp="#clapper">
+               <note type="header" resp="#witherell">
                   <ab type="string">Brute Neighbors 14 written: D; rewritten: E.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">12</seg>
@@ -1136,7 +1136,7 @@
                      <seg type="written">D</seg>
                      <seg type="rewritten">E</seg>
                   </ab>
-                  <ab change="#wc_0d">Brute Neighbors 14 is interlined.</ab>
+                  <ab change="#wc_0d">Brute Neighbors 14 is inserted in ink in the lower portion of a page containing Brute Neighbors 13, <hi rend="style(italics)">other woulds . . . before my door.</hi> At the bottom of the page, following <hi rend="style(italics)">Sweden.</hi>, Thoreau has written, <hi rend="style(italics)">A note to last refers to Mouffet, Theatr. Ins. 242.</hi> In <hi rend="style(italics)">An Introduction to Entomology: or Elements of the Natural History of Insects</hi> (1817), William Kirby and William Spence cite p. 242 of Thomas Mouffet's <hi rend="style(italics)">Insectorum sive Minimorum Animalium Theatrum</hi> (1634), also known as <hi rend="style(italics)">Theatrum Insectorum</hi>, as their source for the passage Thoreau quotes from them. Thoreau appears to be noting this source for his own reference, not for inclusion in the text.</ab>
                </note>
                <anchor type="hn" xml:id="hn-12-036"/><app xml:id="walc12-app-0113">
                   <lem>Kirby and Spence tell us</lem>
@@ -1181,7 +1181,6 @@
                engagement between great and small ants is recorded by Olaus Magnus, <anchor type="hn" xml:id="hn-12-040"/> in which the small ones, being victorious, are
                said to have buried the bodies of their own soldiers, but left those of their giant enemies a prey to the
                birds. This event happened previous to the expulsion of the tyrant Christiern the Second <anchor type="hn" xml:id="hn-12-041"/> from Sweden.” 
-               <note type="general" ana="#wc_0d" resp="#witherell">In D, following "Sweden.", Thoreau has written, "A note to last refers to Mouffet, Theatr. Ins. 242." In <hi rend="style(italics)">An Introduction to Entomology: or Elements of the Natural History of Insects</hi> (1817), William Kirby and William Spence cite p. 242 of Thomas Mouffet's <hi rend="style(italics)">Insectorum sive Minimorum Animalium Theatrum</hi> (1634), also known as <hi rend="style(italics)">Theatrum Insectorum</hi>, as their source for the passage Thoreau quotes from them. Thoreau appears to be noting this source for his own reference, not for inclusion in the text. <hi rend="style(italics)">(Beth Witherell)</hi></note>
                <app xml:id="walc12-app-0117">
                   <lem>The battle which I witnessed took place in the Presidency of Polk, <anchor type="hn" xml:id="hn-12-042"/> five years before the passage
                      of Webster’s Fugitive-Slave Bill. </lem>
