@@ -1149,12 +1149,13 @@
                   <lem>ants</lem>
                   <rdg wit="#wc_0d">
                      <del>the</del> ants</rdg>
-               </app> have long been celebrated and the date of them recorded, though <app xml:id="walc12-app-0115">
-                  <lem>they say that Huber <anchor type="hn" xml:id="hn-12-037"/> is the only modern author who
+                  <rdg wit="#wc_0e">ants</rdg>
+               </app> have long been celebrated and the date of them recorded, <app xml:id="walc12-app-0115">
+                  <lem>though they say that Huber <anchor type="hn" xml:id="hn-12-037"/> is the only modern author who
                      appears to have witnessed them.</lem>
-                  <rdg wit="#wc_0d">they state that “Huber is the only modern author that appears to have been witness to
-                     these combats” </rdg>
-                  <rdg wit="#wc_0e">
+                  <rdg wit="#wc_0d"><add>though they state that “Huber is the only modern author that appears to have been witness to
+                        these combats”</add>. </rdg>
+                  <rdg wit="#wc_0e"> though
                      <del>they state that “Huber is the only modern author that appears to have been
                         witness to these combats”</del>
                      <add>
@@ -1167,19 +1168,21 @@
                      them</add>
                   </rdg>
                </app> “Æneas Sylvius,” <anchor type="hn" xml:id="hn-12-038"/> say they, “after giving a very circumstantial account of one contested with great
-               obstinacy by a great and small species on the trunk of a pear tree,” <app xml:id="walc12-app-0116">
-                  <lem>adds that</lem>
+               obstinacy by a great and small species on the trunk of a <app xml:id="walc12-app-0116">
+                  <lem>pear tree,” adds that</lem>
                   <rdg wit="#wc_0d">
-                     <del>states that</del>
+                     pear-tree” <del>states that</del>
                      <add rendition="pencil">adds</add>
                   </rdg>
-                  <rdg wit="#wc_0e">adds <add rendition="pencil">that</add>
+                  <rdg wit="#wc_0e">pear tree," adds <add rendition="pencil">that</add>
                   </rdg>
                </app> “‘This action was fought in the pontificate of Eugenius the Fourth, <anchor type="hn" xml:id="hn-12-039"/> in the presence of Nicholas Pistoriensis, an
                eminent lawyer, who related the whole history of the battle with the greatest fidelity.’ A similar
                engagement between great and small ants is recorded by Olaus Magnus, <anchor type="hn" xml:id="hn-12-040"/> in which the small ones, being victorious, are
                said to have buried the bodies of their own soldiers, but left those of their giant enemies a prey to the
-               birds. This event happened previous to the expulsion of the tyrant Christiern the Second <anchor type="hn" xml:id="hn-12-041"/> from Sweden.” <app xml:id="walc12-app-0117">
+               birds. This event happened previous to the expulsion of the tyrant Christiern the Second <anchor type="hn" xml:id="hn-12-041"/> from Sweden.” 
+               <note type="general" ana="#wc_0d" resp="#witherell">In D, following "Sweden.", Thoreau has written, "A note to last refers to Mouffet, Theatr. Ins. 242." In <hi rend="style(italics)">An Introduction to Entomology: or Elements of the Natural History of Insects</hi> (1817), William Kirby and William Spence cite p. 242 of Thomas Mouffet's <hi rend="style(italics)">Insectorum sive Minimorum Animalium Theatrum</hi> (1634), also known as <hi rend="style(italics)">Theatrum Insectorum</hi>, as their source for the passage Thoreau quotes from them. Thoreau appears to be noting this source for his own reference, not for inclusion in the text. <hi rend="style(italics)">(Beth Witherell)</hi></note>
+               <app xml:id="walc12-app-0117">
                   <lem>The battle which I witnessed took place in the Presidency of Polk, <anchor type="hn" xml:id="hn-12-042"/> five years before the passage
                      of Webster’s Fugitive-Slave Bill. </lem>
                   <rdg wit="#wc_0d"><!--[not in ms.]-->
