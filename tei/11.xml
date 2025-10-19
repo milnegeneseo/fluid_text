@@ -405,11 +405,16 @@
                      <seg type="written">A</seg>
                      <seg type="rewritten">E, E, E</seg>
                   </ab>
-               </note> —and occasionally, though not so often, because I wish to add fish to my fare for variety—I actually fish
-                  sometimes <del>as naturally—and</del> from the same kind of necessity—as the first fishermen did.
-                  Moreover, when at the pond, I wished sometimes to add fish to my fare for variety. I have actually
-                  fished from the same kind of necessity that the first fishers did. </seg>
-               
+                     <ab change="#wc_0a">Higher laws 3a follows Higher Laws 1c and precedes Higher Laws 1b.</ab>
+                     <ab change="#wc_0e">Higher Laws 3a, 3b, 3d, and 3e were copied originally on a single leaf. Higher Laws 3a and 3b were canceled and recopied on a new leaf when Higher Laws 2 and 3c were added to the manuscript following Higher Laws 3b. A third copy of Higher Laws 3a and 3b was made in their present order.</ab>
+               </note> 
+                  <app xml:id="walc11-app-0024a">
+                  <lem>
+                     Moreover, when at the pond, I wished sometimes to add fish to my fare for variety. I have actually fished from the same kind of necessity that the first fishers did. 
+                  </lem>
+                     <rdg wit="#wc_0a">—and occasionally, though not so often, because I wish to add fish to my fare for variety—I actually fish sometimes <del>as naturally—and</del> from the same kind of necessity—as the first fishermen did. Moreover, when at the pond, I wished sometimes to add fish to my fare for variety. I have actually fished from the same kind of necessity that the first fishers did.</rdg>
+               </app>   
+                   </seg>
                <seg n="3b" change="#wc_0a">
                   <note type="header" resp="#clapper">
                      <ab type="string">Higher Laws 3b written: A; rewritten: E, E, E.</ab>
