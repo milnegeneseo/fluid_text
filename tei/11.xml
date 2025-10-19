@@ -412,7 +412,7 @@
                   <lem>
                      Moreover, when at the pond, I wished sometimes to add fish to my fare for variety. I have actually fished from the same kind of necessity that the first fishers did. 
                   </lem>
-                     <rdg wit="#wc_0a">—and occasionally, though not so often, because I wish to add fish to my fare for variety—I actually fish sometimes <del>as naturally—and</del> from the same kind of necessity—as the first fishermen did. Moreover, when at the pond, I wished sometimes to add fish to my fare for variety. I have actually fished from the same kind of necessity that the first fishers did.</rdg>
+                     <rdg wit="#wc_0a">—and occasionally, though not so often, because I wish to add fish to my fare for variety–I actually fish sometimes <del>as naturally–and</del> from the same kind of necessity–as the first fishermen did. Moreover, when at the pond, I wished sometimes to add fish to my fare for variety. I have actually fished from the same kind of necessity that the first fishers did.</rdg>
                </app>   
                    </seg>
                <seg n="3b" change="#wc_0a">
@@ -429,15 +429,22 @@
                      Higher Laws 1d.</ab>
                      <ab change="#wc_0a"> Higher Laws 3b appears as follows. Whatever
                      humanity I may conjure up against it is all factitious, &amp; concerns my philosophy more than my
-                     actual feelings—not that I am less humane than others—but I do not perceive that <del>these are
+                     actual feelings–not that I am less humane than others—but I do not perceive that <del>these are
                         affected very much</del>
                         <add>my feelings are much affected</add>. I do not pity the fishes nor the worms. This is
                      habit.</ab>
-                  </note>
-                  
-                   Whatever humanity I might conjure up against it was all factitious, and concerned my
-                  philosophy more than my<app xml:id="walc11-app-0025">
+                  </note> 
+                  Whatever <app xml:id="walc11-app-0024b">
+                     <lem>humanity</lem>
+                     <rdg wit="#wc_0a #wc_e1 #wc_e2">humanity</rdg>
+                     <rdg wit="#wc_e3"><add>humanity</add></rdg>
+                  </app> I might conjure up against it was all factitious, <app xml:id="walc11-app-0024c">
+                     <lem>and concerned</lem>
+                     <rdg wit="#wc_0a">&amp; concerns</rdg>
+                     <rdg wit="#wc_0e">and concerned</rdg>
+                  </app> my philosophy more than my<app xml:id="walc11-app-0025">
                      <lem>feelings.</lem>
+                     <rdg wit="#wc_0a">actual feelings–</rdg>
                      <rdg wit="#wc_e1">actual feelings </rdg>
                      <rdg wit="#wc_e2">
                         <del>actual</del> feelings</rdg>
@@ -445,6 +452,7 @@
                   <app xml:id="walc11-app-0026">
                      <lem> I speak of fishing only now, for I had long felt differently about fowling, and sold my gun
                         before I went to the woods.</lem>
+                     <rdg wit="#wc_0a"><!--not in ms -->   </rdg>
                      <rdg wit="#wc_e1">
                         <add> I speak of fishing only now, for I had long felt differently about fowling,
                            and sold my gun before I went to the woods</add>. I speak of fishing <add>only</add> now for
@@ -456,8 +464,26 @@
                      <rdg wit="#wc_e3">I speak of fishing only now, for I had long felt differently about
                            fowling—<add>and sold my gun before I went to the woods</add>
                      </rdg>
-                  </app> Not that I am less humane than others, but I did not perceive that my feelings were much
-                  affected. I did not pity the fishes nor the worms. This was habit.</seg>
+                  </app>
+                  <app xml:id="walc11-app-0026a">
+                     <lem>Not </lem>
+                     <rdg wit="#wc_0a">not </rdg>
+                        <rdg wit="#wc_e1"><add rend="pencil">–</add>not</rdg>
+                        <rdg wit="#wc_e2 #wc_e3">Not </rdg></app>
+                  that I am less humane than others, but I
+                           <app xml:id="walc11-app-0026b">
+                              <lem>did</lem>
+                              <rdg wit="#wc_0a">do</rdg>
+                              <rdg wit="#wc_0e">did</rdg>
+                           </app> not perceive that
+                  <app xml:id="walc11-app-0026c">
+                     <lem>my feelings were much affected.</lem>
+                     <rdg wit="#wc_0a"><del>these are
+                           affected very much</del>
+                        <add>my feelings are much affected</add>.</rdg>
+                     <rdg wit="#wc_0e">my feelings were much affected.</rdg>
+                  </app> I do not pity the fishes nor the worms. This is habit.
+               </seg>
                
                <seg n="3c" change="#wc_0e">
                   <note type="header" resp="#clapper">
