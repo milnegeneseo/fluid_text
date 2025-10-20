@@ -297,7 +297,7 @@ http://www.flickr.com/photos/hynkle/5149834312/sizes/l/in/photostream
                <li><a href="11.html">11. Higher Laws</a></li>
                <li><a href="12.html">12. Brute Neighbors</a></li>
                <li><a href="13.html">13. House Warming</a></li>
-               <li><a href="14.html">14. Inhabitants</a></li>
+               <li><a href="14.html">14. Former Inhabitants</a></li>
                <li><a href="15.html">15. Winter Animals</a></li>
                <li><a href="16.html">16. Pond In Winter</a></li>
                <li><a href="17.html">17. Spring</a></li>
