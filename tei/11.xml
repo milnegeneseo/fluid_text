@@ -176,7 +176,14 @@
                      are in this pursuit recommend it to me. </ab>
                   </note>
                   
-                   The<app xml:id="walc11-app-0009">
+                   <app xml:id="walc11-app-0009">
+                      <lem>The wildness and adventure that are in fishing still recommended it to me. I like sometimes to take rank hold on life and spend my day more as the animals do. Perhaps I have owed to this employment and to hunting, when quite young, my closest acquaintance with Nature. </lem>
+                      <rdg wit="#wc_0a">I love sometimes to take rank hold on life, and spend my day more as the animals do. The novelty and adventure that are in this pursuit recommend it to me. </rdg>
+                      <rdg wit="#wc_0e">The novelty and adventure that are in fishing <del>recommend</del><add rendition="pencil">recommended</add> it to me. I love sometimes to take rank hold on life and spend my day more as the animals do. Perhaps I have owed to this employment and to hunting, my closest acquaintance with Nature. </rdg>
+                      <rdg wit="#wc_0f">The <del>novelty</del><add rendition="pencil">wildness</add> and adventure that are in fishing <add rendition="pencil">still</add> recommended it to me. I love sometimes to take rank hold on life and spend my day more as the animals do. Perhaps I have owed to this employment and to hunting, <add rendition="pencil">when quite young</add>, my closest acquaintance with Nature.</rdg>
+                   </app>
+
+                  <!--  The <app> #placeholder app tag 
                      <lem>wildness</lem>
                      <rdg wit="#wc_0e">novelty </rdg>
                      <rdg wit="#wc_0f">
@@ -197,11 +204,13 @@
                   </app> sometimes to take rank hold on life and spend my day more as the animals do. Perhaps I have
                   owed to this employment and to hunting, <app xml:id="walc11-app-0012">
                      <lem>when quite young,</lem>
-                     <rdg wit="#wc_0e"><!--[not in ms.]-->
+                     <rdg wit="#wc_0e"> # [not in ms.]
                      </rdg>
                      <rdg wit="#wc_0f">
                         <add rendition="pencil">when quite young</add>,</rdg>
-                  </app> my closest acquaintance with Nature.</seg>
+                  </app> my closest acquaintance with Nature. --> 
+               
+               </seg> 
                
                <seg n="1c" change="#wc_0a">
                   <note type="header" resp="#clapper">
