@@ -411,7 +411,10 @@
                      <lem>humanity</lem>
                      <rdg wit="#wc_0a #wc_e1 #wc_e2">humanity</rdg>
                      <rdg wit="#wc_e3"><add>humanity</add></rdg>
-                  </app> I might conjure up against it was all factitious, <app xml:id="walc11-app-0024c">
+                  </app> I <app xml:id="walc11-app-0024c"><lem>might</lem>
+                     <rdg wit="#wc_0a" resp="#witherell">may</rdg>
+                     <rdg wit="#wc_0e">might</rdg>
+                  </app>conjure up against it was all factitious, <app xml:id="walc11-app-0024d">
                      <lem>and concerned</lem>
                      <rdg wit="#wc_0a">&amp; concerns</rdg>
                      <rdg wit="#wc_0e">and concerned</rdg>
@@ -443,17 +446,17 @@
                      <rdg wit="#wc_0a">not </rdg>
                         <rdg wit="#wc_e1"><add rendition="pencil">–</add>not</rdg>
                         <rdg wit="#wc_e2 #wc_e3">Not </rdg></app>
-                  that I am less humane than others, but I
+                  that I am less humane than others
                            <app xml:id="walc11-app-0026b">
-                              <lem>did</lem>
-                              <rdg wit="#wc_0a">do</rdg>
-                              <rdg wit="#wc_0e">did</rdg>
+                              <lem>, but I did</lem>
+                              <rdg wit="#wc_0a">–but I do</rdg>
+                              <rdg wit="#wc_0e">, but I did</rdg>
                            </app> not perceive that
                   <app xml:id="walc11-app-0026c">
                      <lem>my feelings were much affected.</lem>
-                     <rdg wit="#wc_0a"><del>these are
-                           affected very much</del>
-                        <add>my feelings are much affected</add>.</rdg>
+                     <rdg wit="#wc_0a"><del>these</del> <add rendition="pencil">my feelings</add> are
+                           <add rendition="pencil">much</add> affected <del>very much</del>.
+                        </rdg>
                      <rdg wit="#wc_0e">my feelings were much affected.</rdg>
                   </app> I do not pity the fishes nor the worms. This is habit.
                </seg>
