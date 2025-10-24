@@ -550,18 +550,16 @@
                         <seg type="written">A</seg>
                         <seg type="rewritten">E</seg>
                      </ab>
-                     <ab change="#wc_0a">[Higher Laws 3d follows Higher Laws 1d and precedes
+                     <ab change="#wc_0a">Higher Laws 3d follows Higher Laws 1d and precedes
                      Higher Laws 5b.</ab>
-                     <ab change="#wc_0a"> Higher Laws 3d appears as follows. When <add>some
-                        of</add> my friends have asked me anxiously about their boys—whether they should let them hunt
-                     or not—I have answered yes—remembering that it was the best part of my education. <add>Aye, make
-                        them hunters of such skill &amp; tenacity &amp; enterprise that at last they shall not find game
-                        large enough for them in these woods</add>
-                     </ab>
                   </note>
-                  
-                  
                   <app xml:id="walc11-app-0032">
+                     <lem>and when some of my friends have asked me anxiously about their boys, whether they should let them hunt, I have answered, yes,—remembering that it was one of the best parts of my education,—<hi rend="style(italics)">make</hi> them hunters, though sportsmen only at first, if possible, mighty hunters at last, so that they shall not find game large enough for them in this or any vegetable wilderness,—hunters as well as fishers of men.</lem>
+                     <rdg wit="#wc_0a" resp="#schacht">When <add>some
+                           of</add> my friends have asked me anxiously about their boys—whether they should let them hunt or not—I have answered yes—remembering that it was the best part of my education. <del resp="#witherell"><add rendition="pencil" resp="#witherell">Aye</add></del> <del resp="#schacht"><add rendition="pencil" resp="#witherell">Yes</add></del> <add rendition="pencil"><hi rend="style(underline)">make</hi> them Hunters of such</add> <del resp="#witherell"><add rendition="pencil">a stature</add></del> <add rendition="pencil" resp="#witherell">skill &amp; tenacity &amp;</add> <del resp="#witherell"><add rendition="pencil">ambition</add></del> <add rendition="pencil">enterprise that at last they shall not find game large enough for them in these woods.</add></rdg>
+                     <rdg wit="#wc_0e" resp="#schacht">
+                        When some of my friends have asked me anxiously about their boys, whether they should let them hunt, I have answered, yes,—remembering that it was one of the best parts of my education,—<hi rend="style(underline)">make</hi> them hunters, though sportsmen only at first, if possible, mighty hunters at last, so that they shall not find game large enough for them in these woods, or in any vegetable wilderness,<add rendition="pencil">—</add> <add>hunters as well as fishers of men</add>.</rdg>
+</app><!-- <app xml:id="walc11-app-0032">
                      <lem>and when</lem>
                      <rdg wit="#wc_0e">When</rdg>
                   </app> some of my friends have asked me anxiously about their boys, whether they should let them hunt,
@@ -574,8 +572,8 @@
                      <lem>hunters as well as fishers of men.</lem>
                      <rdg wit="#wc_0e">
                         <add>hunters as well as fishers of men</add>.</rdg>
-                  </app>
-                  <anchor type="hn" xml:id="hn-11-009"/>
+                  </app> -->
+                  <anchor type="hn" xml:id="hn-11-009"/> 
                </seg>
                
                <seg n="3e" change="#wc_0e">
