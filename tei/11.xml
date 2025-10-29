@@ -1100,7 +1100,7 @@
                      <add>says Confucius</add> “Of all men there is no one who does not eat and drink, but very few
                      among them know how to distinguish savors.”</rdg>
                </app> He who distinguishes the true savor of his food can never be a glutton; he who does not cannot be otherwise.<app xml:id="walc11-app-0098">
-                  <lem>a puritan may</lem>
+                  <lem>A puritan may</lem>
                   <rdg wit="#wc_0e">
                      <del>I have seen a puritan</del>
                      <add rendition="pencil">A puritan may</add>
@@ -1484,7 +1484,7 @@
                   <rdg wit="#wc_e1">earnestly and industriously </rdg>
                   <rdg wit="#wc_e2">earnestly <del>and industriously</del>
                   </rdg>
-               </app> though it be at cleaning a stable.<anchor type="hn" xml:id="hn-11-035"/> Nature<app xml:id="walc11-app-0142">
+               </app> though it be at cleaning a stable.<anchor type="hn" xml:id="hn-11-035"/> <app xml:id="walc11-app-0142">
                   <lem>Nature</lem>
                   <rdg wit="#wc_e1">And considering the state of the worker, how can his work be other than cleaning a
                      stable? It is the first job he will find to do. Ah! nature </rdg>
@@ -1624,9 +1624,9 @@
                      <del>work</del>
                      <add rendition="pencil">labor</add>
                   </rdg>
-               </app> more or less. Having bathed, he sat down to recreate<anchor type="hn" xml:id="hn-11-039"/>
-               his intellectual man.<app xml:id="walc11-app-0154">
-                  <lem>sat down to recreate his intellectual man</lem>
+               </app> more or less. Having bathed, he <anchor type="hn" xml:id="hn-11-039"/>
+               <app xml:id="walc11-app-0154">
+                  <lem>sat down to recreate his intellectual man.</lem>
                   
                   <rdg wit="#wc_0d">had sat down to think a quiet thought, and recreate his intellectual part </rdg>
                   <rdg wit="#wc_0e">
@@ -1642,9 +1642,8 @@
                      <add>Genius</add> apprehended something else </rdg>
                   <rdg wit="#wc_0g">frost <del>—but his Genius was apprehending something else</del>
                   </rdg>
-               </app> He had not attended to the train of his thoughts long when he heard some one playing on a
-                  flute,<anchor type="hn" xml:id="hn-11-040"/> and that sound harmonized with his mood.<app xml:id="walc11-app-0156">
-                  <lem>some one playing on a flute, and that sound harmonized with his mood</lem>
+               </app> He had not attended to the train of his thoughts long when he heard <anchor type="hn" xml:id="hn-11-040"/> <app xml:id="walc11-app-0156">
+                  <lem>some one playing on a flute, and that sound harmonized with his mood.</lem>
                   
                   <rdg wit="#wc_0d">one of his neighbors playing on his flute and that was a sound which harmonized with
                      his mood </rdg>
