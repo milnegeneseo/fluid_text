@@ -335,7 +335,7 @@
                   <app xml:id="walc09-app-0023">
                      <lem wit="#wc_base">In warm evenings</lem>
                      <rdg wit="#wc_0a">
-                        <del>Or sometimes at an early hour in the evening</del>
+                        <del>Or sometimes at an earlier hour</del> <del>in</del> <add rendition="pencil">In</add> <del>the</del> evening
                         <add rendition="pencil">In warm evenings</add>
                      </rdg>
                   </app> I<app xml:id="walc09-app-0024">
@@ -345,7 +345,11 @@
                      <lem wit="#wc_base">the boat</lem>
                      <rdg wit="#wc_0a">my boat on the pond </rdg>
                      <rdg wit="#wc_0e">my boat</rdg>
-                  </app> playing the flute, and saw the perch, which I seem to have charmed, hovering around me, and the
+                  </app> playing the flute, and saw the perch, which I 
+                  <app xml:id="walc09-app-0025a">
+                     <lem>seem</lem>
+                     <rdg wit="#wc_0a">seemed</rdg>
+                  </app> to have charmed, hovering around me, and the
                   moon travelling over the ribbed bottom,<app xml:id="walc09-app-0026">
                      <lem wit="#wc_base">which was strewed</lem>
                      <rdg wit="#wc_0a">strewn </rdg>
@@ -446,36 +450,44 @@
                   </rdg>
                </app> were very memorable and valuable to me,—anchored in forty feet of water, and twenty or thirty rods
                from the shore, surrounded sometimes by thousands of small perch and shiners, dimpling the surface with
-               their tails in the moonlight,<app xml:id="walc09-app-0038">
-                  <lem wit="#wc_base">and</lem>
-                  <rdg wit="#wc_0a"><!--[not in ms.]--></rdg>
-               </app> communicating by a long flaxen line with mysterious<app xml:id="walc09-app-0039">
+               their tails in the moonlight<app xml:id="walc09-app-0038">
+                  <lem wit="#wc_base">, and communicating</lem>
+                  <rdg wit="#wc_0a">–communicating</rdg>
+               </app> by a long flaxen line with mysterious<app xml:id="walc09-app-0039">
                   <lem wit="#wc_base">nocturnal</lem>
                   <rdg wit="#wc_0a">vespertinal</rdg>
-               </app> fishes which had their dwelling forty feet below, or sometimes dragging sixty feet of line about
+               </app> fishes which had their dwelling 
+               <app xml:id="walc09-app-0039a">
+                  <lem>forty</lem>
+                  <rdg wit="#wc_0a">40</rdg>
+               </app> feet below, or sometimes dragging 
+               <app xml:id="walc09-app-0039b">
+                  <lem>sixty</lem>
+                  <rdg wit="#wc_0a">60</rdg>
+               </app> feet of line about
                the pond as I drifted in the gentle night<app xml:id="walc09-app-0040">
-                  <lem wit="#wc_base">breeze,</lem>
-                  <rdg wit="#wc_0a">air, </rdg>
+                  <lem wit="#wc_base">breeze, </lem>
+                  <rdg wit="#wc_0a">air–</rdg>
                   <rdg wit="#wc_0e">
-                     <del>air,</del>
+                     <del>air, </del>
                      <del>
-                        <add rendition="pencil">wind</add>
+                        <add rendition="pencil">wind </add>
                      </del>
-                     <add rendition="pencil">breeze</add>
+                     <add rendition="pencil">breeze </add>
                   </rdg>
-               </app> now and then feeling a slight vibration along it, indicative of some life prowling about its
+               </app>now and then feeling a slight vibration along it, indicative of some life prowling about its
                extremity, of dull uncertain blundering purpose there, and slow to make up its mind. At length you slowly
-               raise, pulling hand over hand, some horned pout squeaking and squirming to the upper air. It was very queer,<app xml:id="walc09-app-0041">
-                  <lem wit="#wc_base">especially in dark</lem>
-                  <rdg wit="#wc_0a">in dark </rdg>
-                  <rdg wit="#wc_0e">in <del>dark</del>
-                     <add rendition="pencil">especially darker</add>
+               raise, pulling hand over hand, some horned pout squeaking and squirming to the upper air. It was very <app xml:id="walc09-app-0041">
+                  <lem wit="#wc_base">queer, especially in dark</lem>
+                  <rdg wit="#wc_0a">queer–in dark </rdg>
+                  <rdg wit="#wc_0e">queer, in <del>dark</del>
+                     <add rendition="pencil"> especially darker</add>
                   </rdg>
-               </app> nights, when your thoughts had wandered to vast and cosmogonal themes in other spheres, to feel<app xml:id="walc09-app-0042">
-                  <lem wit="#wc_base">this faint</lem>
-                  <rdg wit="#wc_0a">
+               </app> nights, when your thoughts had wandered to vast and cosmogonal themes in other <app xml:id="walc09-app-0042">
+                  <lem wit="#wc_base">spheres, to feel this faint</lem>
+                  <rdg wit="#wc_0a">spheres–to feel 
                      <del>the</del>
-                     <add rendition="pencil">this faint</add>
+                     <add>this faint</add>
                   </rdg>
                </app> jerk, which came to interrupt your dreams and link you to Nature again. It seemed as if I might
                next cast my line upward into the air, as well as downward into this element which was<app xml:id="walc09-app-0043">
@@ -2810,7 +2822,7 @@
                      <rdg wit="#wc_0a"><!--[not in ms.]--></rdg>
                   </app> our greatest lake and inland <app xml:id="walc09-app-0294">
                      <lem wit="#wc_base">sea,</lem>
-                     <rdg wit="#wc_0a">sea, containing 190 acres</rdg>
+                     <rdg wit="#wc_0a">sea, containing 197 acres</rdg>
                   </app> lies about a mile east of <app xml:id="walc09-app-0295">
                      <lem wit="#wc_base">Walden.</lem>
                      <rdg wit="#wc_0a">me, and</rdg>
@@ -2826,7 +2838,12 @@
                         fertile in fish <add rendition="pencil">but it is comparatively shallow, and not remarkably
                            pure</add>
                      </rdg>
-                  </app> A walk through the woods thither was often my recreation. It was worth the while, if only to
+                  </app>
+                  <app xml:id="walc09-app-0296a">
+                     <lem> A walk through the woods thither was often my recreation.</lem>
+                     <rdg wit="#wc_0a"> and a walk through the woods thither by such paths as the Indians used was sometimes my recreation in the summer.</rdg>
+                  </app>
+                   It was worth the while, if only to
                   feel the wind blow<app xml:id="walc09-app-0297">
                      <lem wit="#wc_base">on your cheek freely,</lem>
                      <rdg wit="#wc_0a">
@@ -2835,18 +2852,17 @@
                   </app> and see the waves run, and remember the life of mariners. I went <app xml:id="walc09-app-0298">
                      <lem wit="#wc_base">a-chestnutting</lem>
                      <rdg wit="#wc_0a">
-                        <del>a nutting</del>
-                        <add rendition="pencil">a chestnutting</add>
+                        a <add rendition="pencil">chestnutting</add>
                      </rdg>
                   </app>
                   
                      <anchor type="hn" xml:id="hn-09-065"/>
-                   there in the fall, <app xml:id="walc09-app-0299">
-                     <lem wit="#wc_base">on windy days,</lem>
-                     <rdg wit="#wc_0a">one windy day</rdg>
+                   there in the fall<app xml:id="walc09-app-0299">
+                     <lem wit="#wc_base">, on windy days,</lem>
+                     <rdg wit="#wc_0a"> one windy day</rdg>
                   </app> when the nuts were dropping into the water and were washed <app xml:id="walc09-app-0300">
                      <lem wit="#wc_base">to my feet;</lem>
-                     <rdg wit="#wc_0a">ashore</rdg>
+                     <rdg wit="#wc_0a">ashore;</rdg>
                   </app> and <app xml:id="walc09-app-0301">
                      <lem wit="#wc_base">one day,</lem>
                      <rdg wit="#wc_0a"><!--[not in ms.]--></rdg>
