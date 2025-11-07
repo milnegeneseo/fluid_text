@@ -335,8 +335,7 @@
                   <app xml:id="walc09-app-0023">
                      <lem wit="#wc_base">In warm evenings</lem>
                      <rdg wit="#wc_0a">
-                        <del>Or sometimes at an earlier hour</del> <del>in</del> <add rendition="pencil">In</add> <del>the</del> evening
-                        <add rendition="pencil">In warm evenings</add>
+                        <del>Or sometimes at an earlier hour</del> <add rendition="pencil">I</add>n <del>the</del> warm evening<add rendition="pencil">s</add>
                      </rdg>
                   </app> I<app xml:id="walc09-app-0024">
                      <lem wit="#wc_base">frequently</lem>
