@@ -357,9 +357,9 @@
                      <lem>spoken and the written</lem>
                      <rdg wit="#wc_0b #wc_0c">spoken and the written</rdg>
                      <rdg wit="#wc_0a">written and the spoken</rdg>
-                  </app> language, the <app xml:id="walc03-app-0027">
-                     <lem>language heard and the language read.</lem>
-                     <rdg wit="#wc_0b #wc_0c">language heard and the language read.</rdg>
+                  </app> language, the language <app xml:id="walc03-app-0027">
+                     <lem> heard and the language read.</lem>
+                     <rdg wit="#wc_0b #wc_0c"> heard and the language read.</rdg>
                      <rdg wit="#wc_0a">read and the language heard.</rdg>
                   </app> The one is commonly <app xml:id="walc03-app-0028">
                      <lem>transitory,</lem>
