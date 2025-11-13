@@ -1685,7 +1685,7 @@
                      <seg type="rewritten">B, B, E</seg>
                   </ab>
                      <ab change="#wc_0a"><quote>If we read of one man … greedy after this gossip</quote> does not appear in the manuscript.</ab>
-                     <ab change="#wc_0b"><quote>For my part … greedy after this gossip</quote> was written in pencil on a leaf that was added to the manuscript before a fair copy was made of all of Where I Lived, and What I Lived For 19a.</ab>
+                     <ab change="#wc_0b"><quote>For my part … greedy after this gossip</quote> was written in pencil on a leaf that was added to the manuscript before a fair copy was made of all of Where I Lived, and What I Lived For 19a. See digitized HM 924 image 259 (Vol. I, p. 3).</ab>
                      <ab change="#wc_0e">A fair copy was made of
                      only <quote>For my part, I could … or one vessel wrecked, or one steam-</quote>.</ab>
                </note>
@@ -1697,9 +1697,9 @@
                         which you seriously offer a man that penny for his thoughts<anchor type="hn" xml:id="hn-02-066"/> which is so often safely offered in jest.</lem>
                      <rdg wit="#wc_0a">I think that there are very few communications made through the Post Office. </rdg>
                      <rdg wit="#wc_b1">
-                        <add>For my part</add> I could <del>even</del> dispense with the Post Office if
+                        <add rendition="pencil">For my part</add> I could <del>even</del> dispense with the Post Office if
                         it were necessary. I think that there are very few important communications made through it.
-                           <add>To speak deliberately &amp; critically</add> I never received but one of two letters
+                           <add rendition="pencil">To speak deliberately &amp; critically</add> I never received but one of two letters
                         in my life that were worth the postage—much less the reading. </rdg>
                      <rdg wit="#wc_b2">For my part, I could dispense with the Post Office, if it were necessary. I think
                         that there are very few important communications made through it. To speak deliberately and
@@ -1723,7 +1723,7 @@
                   </app> I never read any memorable news in a<app xml:id="walc02-app-0184">
                      <lem>newspaper–</lem>
                      <rdg wit="#wc_0a">newspaper in my life. </rdg>
-                     <rdg wit="#wc_b1">newspaper <add>though I confess that in spirit in both of these cases like the
+                     <rdg wit="#wc_b1">newspaper <add rendition="pencil">though I confess that in spirit in both of these cases like the
                            rest of mankind I am but too ready to say that the smallest favors will be gratefully
                            received.</add>
                      </rdg>
@@ -1735,7 +1735,7 @@
                      <lem>If we read of one man</lem>
                      <rdg wit="#wc_0a"><!-- [not in ms.]--></rdg>
                      <rdg wit="#wc_b1">If we have read <del>that</del>
-                        <add>of</add> one man <del>was</del>
+                        <add rendition="pencil">of</add> one man <del>was</del>
                      </rdg>
                   </app>
                   <app xml:id="walc02-app-0186">
@@ -1752,7 +1752,8 @@
                   </app> <app xml:id="walc02-app-0188">
                      <lem>read of another. One is enough. If you are acquainted with the principle, what do you care for
                         a myriad instances and applications? To a philosopher all <hi rend="style(italics)">news</hi>, as it is called, is gossip, and</lem>
-                     <rdg wit=" #wc_0a #wc_b1"><!-- [not in ms.]--></rdg>
+                     <rdg wit="#wc_0a"><!-- [not in ms.]--></rdg>
+                     <rdg wit="#wc_b1">read of another. One is enough. If you are acquainted with the principle what do you care for a myriad instances &amp; applications? To a philosopher all news is gossip &amp;</rdg>
                      <rdg wit="#wc_b2">read of another. One is enough. If you are acquainted with the principle, what do you care for
                         a myriad instances and applications. To a philosopher all <hi rend="style(underline)">news</hi> is gossip, and</rdg>
                   </app> <app xml:id="walc02-app-0189">
@@ -1765,7 +1766,7 @@
                      <rdg wit="#wc_b1">who edit and read it are old women over their tea. Uncle Sam is a man who presumes to tell you each day how many times he has
                         stubbed his toes. No doubt such accidents do happen to a man, but let him wait at least till he
                         stubs his nose before he <del>disturbs</del>
-                        <add>bores</add> his neighbors with the news. </rdg>
+                        <add rendition="pencil">bores</add> his neighbors with the news. </rdg>
                      <rdg wit="#wc_b2">who edit and read it are old women over their tea. <del>Uncle Sam is a man who presumes to tell you each day how many times he
                            has stubbed his toes. No doubt such accidents do happen to a man, but let him wait at least
                            till he stubbs his nose before he troubles his neighbors with his affairs. </del>
@@ -1775,7 +1776,7 @@
                      <rdg wit="#wc_0a"><!-- [not in ms.]--></rdg>
                      <rdg wit="#wc_b1">
                         <del>Yet many</del>
-                        <add>Yet not a few</add>
+                        <add rendition="pencil">Yet not a few</add>
                      </rdg>
                   </app> <app xml:id="walc02-app-0192">
                      <lem>are greedy after this gossip.</lem>
