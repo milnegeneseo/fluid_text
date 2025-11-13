@@ -1695,32 +1695,33 @@
                         important communications made through it. To speak critically, I never received more than one or
                         two letters in my life—I wrote this some years ago—that were worth the postage.<anchor type="hn" xml:id="hn-02-064"/> The penny-post<anchor type="hn" xml:id="hn-02-065"/> is, commonly, an institution through
                         which you seriously offer a man that penny for his thoughts<anchor type="hn" xml:id="hn-02-066"/> which is so often safely offered in jest.</lem>
-                     <rdg wit="#wc_0a">I think that there are very few communications made through the Post Office </rdg>
+                     <rdg wit="#wc_0a">I think that there are very few communications made through the Post Office. </rdg>
                      <rdg wit="#wc_b1">
                         <add>For my part</add> I could <del>even</del> dispense with the Post Office if
                         it were necessary. I think that there are very few important communications made through it.
                            <add>To speak deliberately &amp; critically</add> I never received but one of two letters
-                        in my life that were worth the postage—much less the reading </rdg>
+                        in my life that were worth the postage—much less the reading. </rdg>
                      <rdg wit="#wc_b2">For my part, I could dispense with the Post Office, if it were necessary. I think
                         that there are very few important communications made through it. To speak deliberately and
                         critically, I never received but one or two letters in my life that were worth the postage, much
-                        less the reading </rdg>
+                        less the reading. </rdg>
                      <rdg wit="#wc_0e">For my part, I could easily do without the Post Office. I think that there are
                         very few important communications made through it. To speak critically I never received but one
                         or two letters in my life <add rendition="pencil">I wrote this some years ago</add> that were
                         worth <del>much more than</del> the postage. <add rendition="pencil">The penny post is an
                            institution through which you seriously offer a man that penny for his thoughts which is
-                           often safely offered in jest</add>
+                           often safely offered in jest.</add>
                      </rdg>
-                  </app> And<app xml:id="walc02-app-0183">
-                     <lem>I am sure that</lem>
+                  </app> <app xml:id="walc02-app-0183">
+                     <lem>And I am sure that</lem>
                      <rdg wit="#wc_0a"><!-- [not in ms.]-->
                      </rdg>
                      <rdg wit="#wc_b1">
-                        <add>&amp; I may say without being extravagant that</add>
+                        <add rendition="pencil">&amp; I may say without being extravagant that</add>
                      </rdg>
+                     <rdg wit="#wc_b2">And I am sure that</rdg>
                   </app> I never read any memorable news in a<app xml:id="walc02-app-0184">
-                     <lem>newspaper.</lem>
+                     <lem>newspaper–</lem>
                      <rdg wit="#wc_0a">newspaper in my life. </rdg>
                      <rdg wit="#wc_b1">newspaper <add>though I confess that in spirit in both of these cases like the
                            rest of mankind I am but too ready to say that the smallest favors will be gratefully
@@ -1730,46 +1731,56 @@
                            like the rest of mankind that the smallest favors, in either of these forms, will be
                            gratefully received.</del>
                      </rdg>
-                  </app> If we <app xml:id="walc02-app-0185">
-                     <lem>read of one man</lem>
-                     <rdg wit="#wc_b1">have read <del>that</del>
+                  </app> <app xml:id="walc02-app-0185">
+                     <lem>If we read of one man</lem>
+                     <rdg wit="#wc_0a"><!-- [not in ms.]--></rdg>
+                     <rdg wit="#wc_b1">If we have read <del>that</del>
                         <add>of</add> one man <del>was</del>
                      </rdg>
                   </app>
                   <app xml:id="walc02-app-0186">
                      <lem>robbed,</lem>
+                     <rdg wit="#wc_0a"><!-- [not in ms.]--></rdg>
                      <rdg wit="#wc_b2">
                         <del>being</del> robbed</rdg>
-                  </app> or murdered, or killed by accident, or one house burned, or one vessel wrecked, or one
-                  steamboat blown up, or one cow run over on the Western Railroad,<anchor type="hn" xml:id="hn-02-067"/> or one mad dog killed, or one lot of grasshoppers in the winter,—we<app xml:id="walc02-app-0187">
-                     <lem>never need</lem>
-                     <rdg wit="#wc_b1 #wc_b2">need never</rdg>
-                  </app> read of another. One is enough. If you are acquainted with the principle, what do you care for
-                  a myriad instances and applications? To a philosopher all <hi rend="style(italics)">news</hi>,<app xml:id="walc02-app-0188">
-                     <lem>as it is called,</lem>
-                     <rdg wit="#wc_b1"><!-- [not in ms.]--></rdg>
-                  </app> is gossip, and<app xml:id="walc02-app-0189">
+                  </app> <app xml:id="walc02-app-0187">
+                     <lem>or murdered, or killed by accident, or one house burned, or one vessel wrecked, or one
+                        steamboat blown up, or one cow run over on the Western Railroad,<anchor type="hn" xml:id="hn-02-067"/> or one mad dog killed, or one lot of grasshoppers in the winter,—we never need</lem>
+                     <rdg wit="#wc_0a"><!-- [not in ms.]--></rdg>
+                     <rdg wit="#wc_b1 #wc_b2">or murdered, or killed by accident, or one house burned, or one vessel wrecked, or one
+                        steamboat blown up, or one cow run over on the Western Railroad,<anchor type="hn" xml:id="hn-02-067"/> or one mad dog killed, or one lot of grasshoppers in the winter,—we need never</rdg>
+                  </app> <app xml:id="walc02-app-0188">
+                     <lem>read of another. One is enough. If you are acquainted with the principle, what do you care for
+                        a myriad instances and applications? To a philosopher all <hi rend="style(italics)">news</hi>, as it is called, is gossip, and</lem>
+                     <rdg wit=" #wc_0a #wc_b1"><!-- [not in ms.]--></rdg>
+                     <rdg wit="#wc_b2">read of another. One is enough. If you are acquainted with the principle, what do you care for
+                        a myriad instances and applications. To a philosopher all <hi rend="style(underline)">news</hi> is gossip, and</rdg>
+                  </app> <app xml:id="walc02-app-0189">
                      <lem>they</lem>
-                     <rdg wit="#wc_b1 b2">those</rdg>
-                  </app> who edit and read it are old women over their<app xml:id="walc02-app-0190">
-                     <lem>tea</lem>
-                     <rdg wit="#wc_b1">tea. Uncle Sam is a man who presumes to tell you each day how many times he has
+                     <rdg wit="#wc_0a"><!-- [not in ms.]--></rdg>
+                     <rdg wit="#wc_b1 #wc_b2">those</rdg>
+                  </app> <app xml:id="walc02-app-0190">
+                     <lem>who edit and read it are old women over their tea.</lem>
+                     <rdg wit="#wc_0a"><!-- [not in ms.]--></rdg>
+                     <rdg wit="#wc_b1">who edit and read it are old women over their tea. Uncle Sam is a man who presumes to tell you each day how many times he has
                         stubbed his toes. No doubt such accidents do happen to a man, but let him wait at least till he
                         stubs his nose before he <del>disturbs</del>
-                        <add>bores</add> his neighbors with the news</rdg>
-                     <rdg wit="#wc_b2">tea. <del>Uncle Sam is a man who presumes to tell you each day how many times he
+                        <add>bores</add> his neighbors with the news. </rdg>
+                     <rdg wit="#wc_b2">who edit and read it are old women over their tea. <del>Uncle Sam is a man who presumes to tell you each day how many times he
                            has stubbed his toes. No doubt such accidents do happen to a man, but let him wait at least
-                           till he stubbs his nose before he troubles his neighbors with his affairs</del>
+                           till he stubbs his nose before he troubles his neighbors with his affairs. </del>
                      </rdg>
-                  </app>. Yet<app xml:id="walc02-app-0191">
-                     <lem>not a few</lem>
+                  </app> <app xml:id="walc02-app-0191">
+                     <lem>Yet not a few</lem>
+                     <rdg wit="#wc_0a"><!-- [not in ms.]--></rdg>
                      <rdg wit="#wc_b1">
-                        <del>many</del>
-                        <add>not a few</add>
+                        <del>Yet many</del>
+                        <add>Yet not a few</add>
                      </rdg>
-                  </app> are greedy<app xml:id="walc02-app-0192">
-                     <lem>after this gossip.</lem>
-                     <rdg wit="#wc_b1 #wc_b2">of such gossip as this.</rdg>
+                  </app> <app xml:id="walc02-app-0192">
+                     <lem>are greedy after this gossip.</lem>
+                     <rdg wit="#wc_0a"><!-- [not in ms.]--></rdg>
+                     <rdg wit="#wc_b1 #wc_b2">are greedy of such gossip as this.</rdg>
                   </app> There was such a rush,<app xml:id="walc02-app-0193">
                      <lem>as I</lem>
                      <rdg wit="#wc_0a">I</rdg>
