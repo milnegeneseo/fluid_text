@@ -306,13 +306,13 @@ http://www.flickr.com/photos/hynkle/5149834312/sizes/l/in/photostream
             <p><em><a href="http://digitalthoreau.org/walden-a-fluid-text-edition/toc"></a></em></p>
             <h4>Key</h4>
             <ul>
-               <li><span class="key-black">Black</span> = no variation from base (Princeton Ed.) recorded</li>
+               
+               <li><span class="key-green">Green</span> = interlined in ink</li>
+               <li><span class="key-olive">Olive</span> = interlined in pencil</li>
+               <li><span class="key-strikethrough">Strikethrough</span> = cancelled text</li>
                <li><span class="key-gray">Gray Background</span> = assumed to be retained</li>
                <!-- <li><span class="key-red">Red</span> = supplied text (interpolated, not in manuscripts)</li> -->
-               <li><span class="key-green">Green</span> = interlined in ink</li>
-               <li><span class="key-olive">Olive</span> = interlined
-                  in pencil.</li>
-               <li><span class="key-strikethrough">Strikethrough</span> = cancelled text</li>
+
             </ul>
             <h4>List of Versions</h4>
             <ul>
