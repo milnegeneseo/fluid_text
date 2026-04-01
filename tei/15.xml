@@ -435,9 +435,9 @@
                    <lem>(<hi rend="style(italics)">Sciurus Hudsonius</hi>)</lem>
                   <rdg wit="#wc_0a"><!--[not in ms.]-->
                   </rdg>
-                  <rdg wit="#wc_0f">
-                     <add>
-                        <add>Sciurus Hudsonius</add>
+                  <rdg wit="#wc_0f" resp="#schacht">
+                     <add resp="#schacht">
+                        <hi rend="style(underline)">(Sciurus Hudsonius)</hi>
                      </add>
                   </rdg>
                </app> waked me in the dawn, coursing over the roof and up and down the sides of <app xml:id="walc15-app-0039">
@@ -1321,10 +1321,11 @@
                      <seg type="paragraph">14a</seg>
                      <seg type="written">F</seg>
                   </ab>
-               </note>The hares (<hi rend="style(italics)">Lepus Americanus</hi>)
-                  were very <app xml:id="walc15-app-0136">
-                     <lem>familiar.</lem>
-                     <rdg wit="#wc_0f">familiar <del>and when I came home late at night one would commonly go off with a
+               </note>The hares <app xml:id="walc15-app-0136">
+                  <lem>(<hi rend="style(italics)">Lepus Americanus</hi>)
+                     were very familiar.</lem>
+                  <rdg wit="#wc_0f" resp="#schacht"><add resp="#schacht">(Lepus Americanus)</add>
+                     were very familiar <del>and when I came home late at night one would commonly go off with a
                            squeak and a bounce from my door</del>
                      </rdg>
                   </app> One had her form<anchor type="hn" xml:id="hn-15-038"/>
