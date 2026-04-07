@@ -1360,10 +1360,10 @@
                      <add>One afternoon—<del>in my walks</del>
                      </add>
                   </rdg>
-               </app> I amused myself by watching a barred owl (<hi rend="style(italic)"/>)<app xml:id="walc14-app-0143">
-                  <lem>(Strix nebulosa)</lem>
+               </app> I amused myself by watching a barred owl <app xml:id="walc14-app-0143">
+                  <lem>(<hi rend="style(italics)">Strix nebulosa</hi>)</lem>
                   <rdg wit="#wc_0e">
-                     <add>Strix nebulosa</add>
+                     <add>(<hi rend="style(underline)">Strix nebulosa</hi>)</add>
                   </rdg>
                </app>
                <app xml:id="walc14-app-0144">
