@@ -195,7 +195,12 @@
                      of Duncan Ingraham, Esq, gentleman of Concord village, who built his slave a house, and gave him permission to live in Walden Woods; <add rendition="pencil">Cato not Uticensis but Concordiensis</add>.</rdg>
                   <rdg wit="#wc_0f" resp="#schacht"> of Duncan Ingraham, Esq., gentleman of Concord
                      village, who built his slave a house, and gave him permission to live in Walden Woods; Cato, not Uticensis, but Concordiensis.</rdg></app>
-                Some say that he was a Guinea Negro. There are<app xml:id="walc14-app-0016">
+               <app xml:id="walc14-app-0015a">
+                  <lem>Some say that </lem>
+                  <rdg wit="#wc_0e">Some say </rdg>
+                  <rdg wit="#wc_0f">Some say </rdg>
+               </app>
+                he was a Guinea Negro. There are<app xml:id="walc14-app-0016">
                   <lem>a few</lem>
                   <rdg wit="#wc_0e #wc_0f">those</rdg>
                </app> who remember his little patch among the<app xml:id="walc14-app-0017">
