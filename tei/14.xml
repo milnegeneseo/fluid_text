@@ -187,15 +187,15 @@
                    <rdg wit="#wc_0f">
                       East of my bean-field <add> across the road</add> lived Cato Ingraham, slave 
                    </rdg>   
-               </app>  
-               of Duncan Ingraham,<anchor type="hn" xml:id="hn-14-004"/> Esquire, gentleman of Concord
-               village, who built his slave a house, and gave him permission to live in Walden Woods;<app xml:id="walc14-app-0015">
-                  <lem>—Cato,<anchor type="hn" xml:id="hn-14-005"/> not Uticensis,
-                     but Concordiensis.</lem>
+               </app>
+               <app xml:id="walc14-app-0015">
+                  <lem>of Duncan Ingraham,<anchor type="hn" xml:id="hn-14-004"/> Esquire, gentleman of Concord
+                     village, who built his slave a house, and gave him permission to live in Walden Woods;—Cato,<anchor type="hn" xml:id="hn-14-005"/> not Uticensis, but Concordiensis.</lem>
                   <rdg wit="#wc_0e">
-                     <add rendition="pencil"> Cato not Uticensis but Concordiensis</add>.</rdg>
-                  <rdg wit="#wc_0f" resp="#schacht"> Cato, not Uticensis, but Concordiensis.</rdg>
-               </app> Some say that he was a Guinea Negro. There are<app xml:id="walc14-app-0016">
+                     of Duncan Ingraham, Esq, gentleman of Concord village, who built his slave a house, and gave him permission to live in Walden Woods; <add rendition="pencil">Cato not Uticensis but Concordiensis</add>.</rdg>
+                  <rdg wit="#wc_0f" resp="#schacht"> of Duncan Ingraham, Esq., gentleman of Concord
+                     village, who built his slave a house, and gave him permission to live in Walden Woods; Cato, not Uticensis, but Concordiensis.</rdg></app>
+                Some say that he was a Guinea Negro. There are<app xml:id="walc14-app-0016">
                   <lem>a few</lem>
                   <rdg wit="#wc_0e #wc_0f">those</rdg>
                </app> who remember his little patch among the<app xml:id="walc14-app-0017">
