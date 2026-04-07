@@ -179,19 +179,20 @@
                   </ab>
                   <ab change="#wc_0e">The leaf containing Former Inhabitants; and Winter
                   Visitors 2 begins with <quote>of Duncan Ingraham, Esquire, gentleman, of Concord
-                     Village</quote>; the beginning of Former Inhabitants; and Winter Visitors 2 (<quote>East of my bean-field, across the road, lived Cato Ingraham, slave</quote>) was apparently contained
-                  on a missing leaf. <quote>Cato’s half-obliterated cellar hole . . . grows there luxuriantly</quote> is interlined in pencil.</ab>
+                     Village</quote>; the beginning of Former Inhabitants; and Winter Visitors 2 (<quote>East of my bean-field, across the road, lived Cato Ingraham, slave</quote>) is not represented in HM 924 but was apparently contained
+                  on a missing leaf.</ab>
                </note>
                 East of my bean-field,<app xml:id="walc14-app-0014">
                   <lem>across the road,</lem>
                   <rdg wit="#wc_0f">
                      <add> across the road</add>,</rdg>
                </app> lived Cato Ingraham,<anchor type="hn" xml:id="hn-14-003"/> slave of Duncan Ingraham,<anchor type="hn" xml:id="hn-14-004"/> Esquire, gentleman of Concord
-               village, who built his slave a house, and gave him permission to live in Walden Woods;—<app xml:id="walc14-app-0015">
-                  <lem>Cato,<anchor type="hn" xml:id="hn-14-005"/> not Uticensis,
+               village, who built his slave a house, and gave him permission to live in Walden Woods;<app xml:id="walc14-app-0015">
+                  <lem>—Cato,<anchor type="hn" xml:id="hn-14-005"/> not Uticensis,
                      but Concordiensis.</lem>
                   <rdg wit="#wc_0e">
-                     <add rendition="pencil">Cato, not Uticensis, but Concordiensis</add>.</rdg>
+                     <add rendition="pencil"> Cato not Uticensis but Concordiensis</add>.</rdg>
+                  <rdg wit="#wc_0f" resp="#schacht"> Cato, not Uticensis, but Concordiensis.</rdg>
                </app> Some say that he was a Guinea Negro. There are<app xml:id="walc14-app-0016">
                   <lem>a few</lem>
                   <rdg wit="#wc_0e #wc_0f">those</rdg>
@@ -205,23 +206,22 @@
                   <lem>He, too, however, occupies an equally narrow house<anchor type="hn" xml:id="hn-14-006"/> at present.</lem>
                   <rdg wit="#wc_0e">
                      <add>He too, however, occupies an equally narrow house at present</add>.</rdg>
+                  <rdg wit="#wc_0f" resp="#schacht">He too, however, occupies an equally narrow house at present.</rdg>
                </app>
                <app xml:id="walc14-app-0019">
-                  <lem>Cato’s</lem>
-                  <rdg wit="#wc_0e">
-                     <del>His</del>
-                     <add>Cato’s</add>
+                  <lem>Cato’s half-obliterated cellar hole still remains, though known to few, being concealed from the
+                     traveller by a fringe of pines. It is now filled with the smooth sumach, (<hi rend="style(italics)">Rhus
+                        glabra,</hi>) and one of the earliest species of golden-rod (<hi rend="style(italics)">Solidago stricta</hi>) grows there luxuriantly.</lem>
+                  <rdg wit="#wc_0e" resp="#schacht">
+                     <del><add rendition="pencil">His</add></del>
+                     <add>Cato’s</add> 
+                     <add rendition="pencil" resp="#schacht">half obliterated cellar hole still remains though known to few, being  concealed from the traveller by a fringe of pines. It is now filled with the smooth sumach (rhus
+                        glabra) and one of the earliest species of golden rod grows there luxuriantly.</add>
                   </rdg>
-               </app> half-obliterated cellar hole still remains, though known to few, being concealed from the
-               traveller by a fringe of pines. It is now filled with the smooth sumach (<hi rend="style(italics)">Rhus
-                  glabra</hi>), and one of the earliest species of golden-rod <app xml:id="walc14-app-0020">
-                     <lem>(<hi rend="style(italics)">Solidago stricta</hi>)</lem>
-                  <rdg wit="#wc_0e"><!--[not in ms.]-->
-                  </rdg>
-                  <rdg wit="#wc_0f">
-                     <add>(<hi rend="style(italics)">Solidago stricta</hi>)</add>
-                  </rdg>
-               </app> grows there luxuriantly. </p>
+                  <rdg wit="#wc_0f" resp="#schacht">
+                     Cato’s half-obliterated cellar hole still remains<add rendition="pencil">,</add> though known to few, being concealed from the traveller by a fringe of pines. It is now filled with the smooth sumach (<hi rend="style(underline)">rhus glabra</hi>), and one of the earliest species of goldenrod <add>(<hi rend="style(italics)">Solidago stricta</hi>)</add> grows there luxuriantly.</rdg>
+               </app></p>
+            <app xml:id="walc14-app-0020"><!-- Changes previously included this app have been incorporated into #walc14-app-0020 --></app>
             
             <p n="3" change="#wc_0e">
                <note type="header" resp="#clapper">
