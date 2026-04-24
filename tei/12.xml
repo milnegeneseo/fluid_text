@@ -359,11 +359,14 @@
                   <ab change="#wc_0a #wc_0e">Winter Animals 13 follows Brute Neighbors
                   9.</ab>
                </note>
-               
-               
-                The mice which haunted my house were not the common ones, which are said to have been
-               introduced into the country, but a wild native kind<anchor type="hn" xml:id="hn-12-016"/> (<hi rend="style(italics)">Mus leucopus</hi>) not found in the village. I sent one
-               to a distinguished naturalist,<anchor type="hn" xml:id="hn-12-017"/> and it interested him much.<app xml:id="walc12-app-0020">
+               <app xml:id="walc12-app-0019a" resp="#schacht">
+                  <lem>The mice which haunted my house were not the common ones, which are said to have been
+                     introduced into the country, but a wild native kind<anchor type="hn" xml:id="hn-12-016"/> (<hi rend="style(italics)">Mus leucopus</hi>) not found in the village. I sent one
+                     to a distinguished naturalist,<anchor type="hn" xml:id="hn-12-017"/> and it interested him much.</lem>
+                  <rdg wit="#wc_0a"><!-- not in ms --></rdg>
+                  <rdg wit="#wc_0e" resp="#schacht"><add rendition="pencil" resp="#schacht">The mice which haunted my house were not the common ones which are said to have been
+                        introduced into the country – but a peculiar wild native kind not found in the village – one which I sent to a distinguished naturalist interested him much – </add></rdg></app>
+                <app xml:id="walc12-app-0020">
                   <lem>When I was building, one of these had its nest underneath the house,</lem>
                   <rdg wit="#wc_0a">
                      <add>When ploughing my field in the spring I found a ground bird’s nest directly in
