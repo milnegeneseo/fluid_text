@@ -320,26 +320,27 @@
                   </ab>
                   <ab change="#wc_0e">Brute Neighbors 8 is interlined in pencil.</ab>
                </note>
-                Why
-               do precisely these objects which we behold make a world? Why has man just these species of animals <app xml:id="walc12-app-0016">
-                  <lem>for his neighbors;</lem>
-                  <rdg wit="#wc_0e">for instance for his neighbors &amp; no others?</rdg>
+               <app xml:id="walc12-app-0016">
+                  <lem>Why do precisely these objects which we behold make a world? Why has man just these species of animals for his neighbors;</lem>
+                  <rdg wit="#wc_0e"><add rendition="pencil">Why do precisely these objects which we behold make a world? Why has man just these species of animals for instance for his neighbors &amp; no others?</add></rdg>
                </app>
                <app xml:id="walc12-app-0017">
                   <lem> as if nothing but a mouse could have filled this crevice?</lem>
                   <rdg wit="#wc_0e">
-                     <add> as if nothing but a mouse could have filled this crevice</add>?</rdg>
+                     <add> as if nothing but a mouse could have filled this crevice</add></rdg>
                </app>
                <app xml:id="walc12-app-0018">
                   <lem>I suspect that Pilpay &amp; Co. have put animals</lem>
-                  <rdg wit="#wc_0e">They must be very significant though we fail to perceive their significance.
-                        <del>Have not</del>
-                     <add>I suspect that</add> Pilpay &amp; Co. <add>have</add> put them</rdg>
-               </app> to their best use, for they are<app xml:id="walc12-app-0019">
-                  <lem>for they are</lem>
+                  <rdg wit="#wc_0e"><add rendition="pencil">They must be very significant though we fail to perceive their significance.</add>
+                        <del><add rendition="pencil">Have not</add></del>
+                     <add>I suspect that</add> <add rendition="pencil">Pilpay &amp; Co.</add> <add>have</add> <add rendition="pencil">put them</add></rdg>
+               </app> 
+               <app xml:id="walc12-app-0019">
+                  <lem>to their best use, for they are all beasts of burden, in a sense, made to carry some portion of our thoughts.</lem>
                   <rdg wit="#wc_0e">
-                     <del>after all</del> are they not</rdg>
-               </app> all beasts of burden, in a sense, made to carry some portion of our thoughts. </p>
+                     <add rendition="pencil">to their best use</add> <del><add rendition="pencil">after all</add></del>. <add rendition="pencil">Are are they not all beasts of burden, in a sense, made to carry some portion of our thoughts?</add></rdg>
+               </app>
+            </p>
             
             <p n="9" change="#wc_0a">
                <note type="header" resp="#clapper">
