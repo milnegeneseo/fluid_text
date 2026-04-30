@@ -310,7 +310,7 @@
             </p>
             
             <p n="8" change="#wc_0e">
-               <note type="header" resp="#clapper">
+               <note type="header" resp="#schacht">
                   <ab type="string">Brute Neighbors 8 written: E.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">12</seg>
@@ -318,7 +318,7 @@
                      <seg type="paragraph">8</seg>
                      <seg type="written">E</seg>
                   </ab>
-                  <ab change="#wc_0e">Brute Neighbors 8 is interlined in pencil.</ab>
+                  <ab change="#wc_0e" resp="#schacht">Brute Neighbors 8 is written in pencil between the lines of material in ink presumably connected to Brute Neighbors 9: <quote>Though the hunter instinct . . . directly in the path of</quote>. See HM 924 image 784 in Digital Thoreau's manuscript search table for Volumes 1–7.</ab>
                </note>
                <app xml:id="walc12-app-0016">
                   <lem>Why do precisely these objects which we behold make a world? Why has man just these species of animals for his neighbors;</lem>
@@ -338,12 +338,12 @@
                <app xml:id="walc12-app-0019">
                   <lem>to their best use, for they are all beasts of burden, in a sense, made to carry some portion of our thoughts.</lem>
                   <rdg wit="#wc_0e">
-                     <add rendition="pencil">to their best use</add> <del><add rendition="pencil">after all</add></del>. <add rendition="pencil">Are are they not all beasts of burden, in a sense, made to carry some portion of our thoughts?</add></rdg>
+                     <add rendition="pencil">to their best use</add> <del><add rendition="pencil">after all</add></del>. <add rendition="pencil">Are they not all beasts of burden, in a sense, made to carry some portion of our thoughts?</add></rdg>
                </app>
             </p>
             
             <p n="9" change="#wc_0a">
-               <note type="header" resp="#clapper">
+               <note type="header" resp="#schacht">
                   <ab type="string">Brute Neighbors 9 written: A; rewritten: E.</ab>
                   <ab type="parsed">
                      <seg type="chapterNum">12</seg>
@@ -353,10 +353,10 @@
                      <seg type="rewritten">E</seg>
                   </ab>
                   <ab change="#wc_0a">Brute Neighbors 9 follows Spring 25b.</ab>
-                  <ab change="#wc_0a, #wc_0e">
+                  <ab change="#wc_0a #wc_0e">
                      <quote>The mice which haunted my house . . . and
                      it interested him much</quote> does not appear in the manuscript in A or in the original copying of
-                  E but is interlined in pencil in E.</ab>
+                     E. In E it is written in pencil between canceled lines in ink on the verso of the page containing Brute Neighbors 8: <quote>my plow, and would have been turned . . . in the grass a few rods beyond</quote>. See HM 924 image 785 in Digital Thoreau's manuscript search table for Volumes 1–7</ab>
                   <ab change="#wc_0a #wc_0e">Winter Animals 13 follows Brute Neighbors
                   9.</ab>
                </note>
