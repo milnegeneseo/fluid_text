@@ -352,11 +352,11 @@
                      <seg type="written">A</seg>
                      <seg type="rewritten">E</seg>
                   </ab>
-                  <ab change="#wc_0a">Brute Neighbors 9 follows Spring 25b.</ab>
+                  <ab change="#wc_0a">Brute Neighbors 9 follows Spring 25b. <quote>When ploughing my field . . . were dead.</quote> is written in pencil between lines in ink containing a version of material that appears in Spring 25b. Thoreau has drawn a vertical use line through this material. See HM 924 image 206 in Digital Thoreau's manuscript search table for Volumes 1–7.</ab>
                   <ab change="#wc_0a #wc_0e">
                      <quote>The mice which haunted my house . . . and
                      it interested him much</quote> does not appear in the manuscript in A or in the original copying of
-                     E. In E it is written in pencil between canceled lines in ink on the verso of the page containing Brute Neighbors 8: <quote>my plow, and would have been turned . . . in the grass a few rods beyond</quote>. See HM 924 image 785 in Digital Thoreau's manuscript search table for Volumes 1–7</ab>
+                     E. In E it is written in pencil between canceled lines in ink on the verso of the page containing Brute Neighbors 8: <quote>my plow, and would have been turned . . . in the grass a few rods beyond</quote>. See HM 924 image 785 in Digital Thoreau's manuscript search table for Volumes 1–7.</ab>
                   <ab change="#wc_0a #wc_0e">Winter Animals 13 follows Brute Neighbors
                   9.</ab>
                </note>
@@ -370,11 +370,11 @@
                 <app xml:id="walc12-app-0020">
                   <lem>When I was building, one of these had its nest underneath the house,</lem>
                   <rdg wit="#wc_0a">
-                     <add>When ploughing my field in the spring I found a ground bird’s nest directly in
-                        the path of my plow which would have been turned in by the next furrow slice but though I took
-                        it up carefully with the sod in which it rested and set it in the grass a few rods beyond the
-                        plowed land, where I had taken out another sod of the same size, yet the parents were more cruel
-                        than I and when I looked again the young had been deserted and were dead</add> A long-eared
+                     <add rendition="pencil">When ploughing my field in the spring I found a ground bird’s nest directly in
+                        the path of the plough which would have been turned in by the next furrow slice – but though I took
+                        it up <del><add rendition="pencil">the sod which</add></del> carefully with the sod on which it rested &amp; set it in the grass a few rods off beyond the
+                        plowed land – where I had taken out another sod of the same size – yet the parents were more cruel
+                        than I and when I looked again the young had been deserted and were dead.</add> A long-eared
                      red-bellied field mouse had her nest underneath my house </rdg>
                   <rdg wit="#wc_0e">
                      <del>Though the hunter instinct was thus strong in me, I was generally the friend and
