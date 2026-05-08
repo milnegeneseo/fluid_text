@@ -2217,44 +2217,40 @@
                   </rdg>
                   <rdg wit="#wc_0b">as if it had intelligence with <del>distant</del>
                      <add rendition="pencil">some remote</add> horizons</rdg>
-               </app> I heard a robin in the distance, the first I had heard for many a thousand
-               years, methought, <app xml:id="walc17-app-0228">
-                  <lem wit="#wc_base">whose</lem>
-                  <rdg wit="#wc_0a">whose <del>sound has the same meaning it was wont to have—But
-                        where does the minstrel really perch? Who could ever find the trig he sits
-                        on?</del>
+               </app>  <app xml:id="walc17-app-0228">
+                  <lem wit="#wc_base">I heard a robin in the distance, the first I had heard for many a thousand
+               years, methought, whose</lem>
+                  <rdg wit="#wc_0a">I hear<del>d</del> a robin in the distance the first I ha<del>d</del><add rendition="pencil">ve</add> heard for many a thousand years, methinks, 
                   </rdg>
-               </app> note I shall not forget for many a thousand more,—the same <app xml:id="walc17-app-0229">
+               </app> <app xml:id="walc17-app-0229">
                   <lem wit="#wc_base">sweet and powerful song</lem>
-                  <rdg wit="#wc_0a">old sound </rdg>
+                  <rdg wit="#wc_0a"><del>whose sound has the same meaning it was wont to have — But where does the minstrel really perch? Who could ever find the twig he sits on?</del> <add rendition="pencil">whose note</add> <add rendition="pencil"><del>The <unclear>xxxxxx</unclear> of</del> [I] shall not forget for many a thousand more </add> the same </rdg>
                   <rdg wit="#wc_0b">old song </rdg>
                   <rdg wit="#wc_0e">
                      <del>old</del>
                      <add>sweet and powerful</add> song</rdg>
-               </app> as of yore. O the evening robin, at the<app xml:id="walc17-app-0230">
-                  <lem wit="#wc_base">end</lem>
-                  <rdg wit="#wc_0a">close</rdg>
-               </app> of a New England summer day! If I could ever find the twig he sits upon! I
-               mean <hi rend="style(italics)">
-                  he</hi>; I mean 
-                  <hi rend="style(italics)">the twig</hi>. This at least is not the 
-                  <hi rend="style(italics)">Turdus</hi>
-                  <hi rend="style(italics)">migratorius</hi>
-               .<anchor type="hn" xml:id="hn-17-029"/>
+               </app> <app xml:id="walc17-app-0230">
+                  <lem wit="#wc_base">as of yore. O the evening robin, at the end of a New England summer day!  If I could ever find the twig he sits upon! I mean <hi rend="style(underline)"> he</hi>; I mean 
+                     <hi rend="style(italics)">the twig</hi>. This at least is not the 
+                     <hi rend="style(italics)">Turdus</hi>
+                     <hi rend="style(italics)">migratorius</hi>
+                     .<anchor type="hn" xml:id="hn-17-029"/></lem>
+                  <rdg wit="#wc_0a"><add rendition="pencil"> old summer sound as of yore. O the evening robin, at the close of a N.E. day! If I could ever find the twig he sits upon. I mean <hi rend="style(underline)">he</hi>; I mean <hi rend="style(underline)">the twig</hi>. This at least is not the </add><hi rend="style(underline)">turdus migratorius.</hi></rdg>
+               </app> 
                <app xml:id="walc17-app-0231">
                   <lem wit="#wc_base">The pitch-pines and shrub-oaks</lem>
-                  <rdg wit="#wc_0a">The <add>green</add> pitch pines &amp; the shrub oaks </rdg>
+                  <rdg wit="#wc_0a">The <add rendition="pencil">green</add> pitch pines <add rendition="pencil">&amp; the shrub oaks</add> </rdg>
                   <rdg wit="#wc_0b">The green pitch pines and the shrub-oaks </rdg>
                   <rdg wit="#wc_0e">The <del>green</del> pitch-pines and <del>the</del>
                      shrub-oaks</rdg>
-               </app> about my house, which had so long drooped, <app xml:id="walc17-app-0232">
-                  <lem wit="#wc_base">suddenly resumed their several characters, looked brighter,
+               </app> about my house, which  <app xml:id="walc17-app-0232">
+                  <lem wit="#wc_base">had so long drooped, suddenly resumed their several characters, looked brighter,
                      greener, and more erect and alive, as if effectually cleansed and restored by
                      the rain.</lem>
-                  <rdg wit="#wc_0a">
-                     <add rendition="pencil">&amp; cowered all winter</add> —suddenly <add rendition="pencil">resumed their several characters</add> looked brighter,
+                  <rdg wit="#wc_0a" resp="#schacht">
+                     ha<del>d</del><add rendition="pencil">ve</add> <del>so long</del> drooped <add rendition="pencil">&amp; cowered all winter</add> —suddenly <add rendition="pencil">resumed their several characters</add> look<del>ed</del> brighter,
                      more green &amp; more alive and erect, as if <del>entirely</del>
-                     <add rendition="pencil">effectually</add> cleansed <add rendition="pencil">&amp; restored</add> by the rain—and fitted once more to express <add rendition="pencil">their share of</add> immortal beauty, and make a part of
+                     <add rendition="pencil">effectually</add> cleansed <add rendition="pencil">&amp; restored</add> by the rain—and fitted once more to express <del><add rendition="pencil">some portion </add></del><add rendition="pencil">their share of</add> immortal beauty, and make a part of
                      this world which <del>is called</del>
                      <add rendition="pencil">they call</add>
                      <w xml:lang="gr">κόбмοѕ</w>
