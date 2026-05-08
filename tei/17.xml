@@ -2219,23 +2219,23 @@
                      <add rendition="pencil">some remote</add> horizons</rdg>
                </app>  <app xml:id="walc17-app-0228">
                   <lem wit="#wc_base">I heard a robin in the distance, the first I had heard for many a thousand
-               years, methought, whose</lem>
+               years, methought, </lem>
                   <rdg wit="#wc_0a">I hear<del>d</del> a robin in the distance the first I ha<del>d</del><add rendition="pencil">ve</add> heard for many a thousand years, methinks, 
                   </rdg>
                </app> <app xml:id="walc17-app-0229">
-                  <lem wit="#wc_base">sweet and powerful song</lem>
-                  <rdg wit="#wc_0a"><del>whose sound has the same meaning it was wont to have — But where does the minstrel really perch? Who could ever find the twig he sits on?</del> <add rendition="pencil">whose note</add> <add rendition="pencil"><del>The <unclear>xxxxxx</unclear> of</del> [I] shall not forget for many a thousand more </add> the same </rdg>
-                  <rdg wit="#wc_0b">old song </rdg>
-                  <rdg wit="#wc_0e">
-                     <del>old</del>
-                     <add>sweet and powerful</add> song</rdg>
-               </app> <app xml:id="walc17-app-0230">
-                  <lem wit="#wc_base">as of yore. O the evening robin, at the end of a New England summer day!  If I could ever find the twig he sits upon! I mean <hi rend="style(underline)"> he</hi>; I mean 
+                  <lem wit="#wc_base">whose note I shall not forget for many a thousad more,–the same sweet and powerful song</lem>
+                  <rdg wit="#wc_0a"><del>whose sound has the same meaning it was wont to have — But where does the minstrel really perch? Who could ever find the twig he sits on?</del> <add rendition="pencil">whose note</add> <add rendition="pencil"><del>The <unclear>xxxxxx</unclear> of</del> [I] shall not forget for many a thousand more </add></rdg></app> 
+               <app xml:id="walc17-app-0230"> 
+               <lem wit="#wc_base"> as of yore. O the evening robin, at the end of a New England summer day!  If I could ever find the twig he sits upon! I mean <hi rend="style(italics)"> he</hi>; I mean 
                      <hi rend="style(italics)">the twig</hi>. This at least is not the 
                      <hi rend="style(italics)">Turdus</hi>
                      <hi rend="style(italics)">migratorius</hi>
                      .<anchor type="hn" xml:id="hn-17-029"/></lem>
                   <rdg wit="#wc_0a"><add rendition="pencil"> old summer sound as of yore. O the evening robin, at the close of a N.E. day! If I could ever find the twig he sits upon. I mean <hi rend="style(underline)">he</hi>; I mean <hi rend="style(underline)">the twig</hi>. This at least is not the </add><hi rend="style(underline)">turdus migratorius.</hi></rdg>
+                  <rdg wit="#wc_0b">the same old song </rdg>
+                  <rdg wit="#wc_0e">
+                     <del>old</del>
+                     the same <add>sweet and powerful</add> song</rdg>
                </app> 
                <app xml:id="walc17-app-0231">
                   <lem wit="#wc_base">The pitch-pines and shrub-oaks</lem>
