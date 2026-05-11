@@ -2156,67 +2156,62 @@
                      the past tense in A, changed to the present tense in the interlining of A,
                      copied in the present tense in B and E, and changed to the past tense in the
                      interlining of E.</ab>
-               </note> The change from storm and winter to <app xml:id="walc17-app-0220">
-                  <lem wit="#wc_base">serene and mild</lem>
-                  <rdg wit="#wc_0a #wc_0e">fair and serene</rdg>
-               </app> weather, from dark and sluggish hours to bright and elastic ones, is a
-               memorable crisis which all things proclaim. It is <app xml:id="walc17-app-0221">
-                  <lem wit="#wc_base">seemingly </lem>
-                  <rdg wit="#wc_0a"><!--[not in ms.]-->
+               </note>  <app xml:id="walc17-app-0220">
+                  <lem wit="#wc_base"> The change from storm and winter to serene and mild weather, from </lem>
+                  <rdg wit="#wc_0a">The change from <del>storm &amp; winter to </del> <del>foul weather to fair</del> <add rendition="pencil">storm &amp; winter</add><add rendition="pencil">to fair and serene weather</add>, from </rdg>
+                  <rdg wit="#wc_0e"> The change from storm &amp; winter to fair &amp; serene weather, from </rdg>
+               </app>    <app xml:id="walc17-app-0221">
+                  <lem wit="#wc_base">dark and sluggish hours to bright and elastic ones, is a
+                     memorable crisis which all things proclaim. It is seemingly instantaneous </lem>
+                  <rdg wit="#wc_0a">dark and sluggish hours to <del><add>serene</add></del><del><add> bright</add></del> <add rendition="pencil">bright</add> and elastic ones, is a memorable crisis which all things proclaim. It is instantaneous – 
                   </rdg>
-                  <rdg wit="#wc_0e">
-                     <add>seemingly</add>
+                  <rdg wit="#wc_0e"> dark and sluggish hours to bright &amp; elastic ones, is a memorable crisis, which all things proclaim. It is <add>seemingly</add> instantaneous 
                   </rdg>
-               </app> instantaneous at last. Suddenly an influx of light filled <app xml:id="walc17-app-0222">
-                  <lem wit="#wc_base">my house,</lem>
-                  <rdg wit="#wc_0a">the house </rdg>
-                  <rdg wit="#wc_0e">
-                     <del>the</del>
-                     <add rendition="pencil">my</add> house</rdg>
-               </app> though <app xml:id="walc17-app-0223">
-                  <lem wit="#wc_base">the evening was at hand,</lem>
+               </app> <app xml:id="walc17-app-0222">
+                  <lem wit="#wc_base">at last. Suddenly an influx of light filled my house, though</lem>
+                  <rdg wit="#wc_0a">at last. Suddenly an influx of light fills the house – though</rdg>
+                  <rdg wit="#wc_0e">at last. Suddenly an influx of light  
+                     fill<del>s</del><add>ed</add> <del>the</del>
+                     <add rendition="pencil">my</add> house, though</rdg>
+               </app>  <app xml:id="walc17-app-0223">
+                  <lem wit="#wc_base">the evening was at hand, and </lem>
                   <rdg wit="#wc_0a">
                      <del>
-                        <add>it is late in the day</add>
+                        <add>it is late in the day and </add>
                      </del>
-                     <add rendition="pencil">the evening was at hand</add>
+                     <add rendition="pencil">the evening is at hand &amp; </add>
                   </rdg>
-               </app> and the clouds of winter still overhung it, <app xml:id="walc17-app-0224">
-                  <lem wit="#wc_base">and the eaves were dripping with sleety rain.</lem>
-                  <rdg wit="#wc_0a">
-                     <add>and the eaves were dripping with sleety rain</add>.</rdg>
-               </app> I <app xml:id="walc17-app-0225">
-                  <lem wit="#wc_base">looked out the window, and lo! where yesterday was cold gray
+                  <rdg wit="#wc_0e">the evening <del>is</del> <add>was </add>at hand and </rdg>
+               </app>  <app xml:id="walc17-app-0224">
+                  <lem wit="#wc_base"> the clouds of winter still overhung it, and the eaves were dripping with sleety rain.</lem>
+                  <rdg wit="#wc_0a"> the clouds of winter still over hang it, 
+                     <add>and the eaves are dripping with sleety rain</add>.</rdg>
+                  <rdg wit="#wc_0e">the clouds of winter still <del>overhang</del> <add>overhung</add> it, and the eaves <del>are</del> were dripping with sleety rain.</rdg>
+               </app> <app xml:id="walc17-app-0225">
+                  <lem wit="#wc_base">I looked out the window, and lo! where yesterday was cold gray
                      ice there lay the transparent pond already calm and full of hope as in a summer
                      evening,</lem>
-                  <rdg wit="#wc_0a">
-                     <del>look out on the pond which was cold grey ice but yesterday—and already the
-                        signs of fair weather were there and it was become a calm &amp; smooth lake,
-                        full of promise as a summer evening sky—seeming to have some intelligence
-                        with distant horizons</del>
-                     <add>
-                        <del>see that the pond is already calm &amp; full of hope as on a summer
-                           evening, where was cold grey ice</del>
-                        <add>where yesterday was cold grey ice, lo, there lies the transparent pond
-                           already calm &amp; full of hope</add>
-                     </add>
+                  <rdg wit="#wc_0a"> I look out <del>on</del> <add><del>and see that</del></add> and <add rendition="pencil">lo where yesterday was cold gray ice </add> there lies the <add rendition="pencil">transparent </add> pond <del>which was</del> <del>is</del> already calm &amp; full of hope as on a summer evening, <del>where </del> <del><add rendition="pencil"> though the ice was dissolved</add></del> <del> was cold grey ice but yesterday and already the signs of fair weather </del> <del>were <add rendition="pencil">are </add></del> <del> seen and it was become a calm &amp; smooth lake, full of promise as a summer evening – </del> <del>seeming to have</del> <del><add rendition="pencil">as if it had</add></del> <del> some intelligence with distant horizons, </del> 
                   </rdg>
+                  <rdg wit="#wc_0b"><del>was cold grey ice but yesterday. </del></rdg>
+                  <rdg wit="#wc_0e">I look<add>ed</add> out the window &amp; lo! where yesterday, was cold gray ice there <del>lies</del> <add>lay</add> the transparent pond already calm &amp; full of hope as on a summer evening </rdg>
                </app>
                <app xml:id="walc17-app-0226">
                   <lem wit="#wc_base">reflecting a summer evening sky </lem>
                   <rdg wit="#wc_0a">
-                     <del>as it</del>
-                     <add>And</add> a summer evening sky was <del>already</del> reflected </rdg>
-                  <rdg wit="#wc_0b">
-                     <add>Reflecting</add> A summer evening sky <del>is reflected</del>
+                     <del>as if it </del>
+                     <del><add>And</add></del> <add rendition="pencil">reflecting a </add> summer evening sky <del><add>is to be </add></del>  <del>was already reflected </del></rdg>
+                  <rdg wit="#wc_0b"><add rendition="pencil">Reflecting a </add> A summer evening sky <del>is reflected </del></rdg>
+                  <rdg wit="#wc_0e">
+                     reflecting a summer evening sky
                   </rdg>
-               </app> in its bosom, though none was visible overhead, <app xml:id="walc17-app-0227">
-                  <lem wit="#wc_base">as if it had intelligence with some remote horizon.</lem>
-                  <rdg wit="#wc_0a">
-                     <add>as if it had intelligence with distant horizons</add>
+               </app> in its bosom,  <app xml:id="walc17-app-0227">
+                  <lem wit="#wc_base">though none was visible overhead, as if it had intelligence with some remote horizon.</lem>
+                  <rdg wit="#wc_0a"> though none <del>was </del> <add rendition="pencil">is </add> visible overhead –
+                     <add>as if it had intelligence with <del>distant</del> <add rendition="pencil">some remote </add> horizon<del>s</del>. </add>
                   </rdg>
-                  <rdg wit="#wc_0b">as if it had intelligence with <del>distant</del>
-                     <add rendition="pencil">some remote</add> horizons</rdg>
+                  <rdg wit="#wc_0b">though none is visible over head, as if it had intelligence with <del>distant</del> <add rendition="pencil">some remote</add> horizons.</rdg>
+                  <rdg wit="#wc_0e">though none <del>is</del> <add>was</add> visible overhead, as if it had intelligence with some remote horizon. </rdg>
                </app>  <app xml:id="walc17-app-0228">
                   <lem wit="#wc_base">I heard a robin in the distance, the first I had heard for many a thousand
                years, methought, </lem>
