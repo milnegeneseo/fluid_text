@@ -2261,7 +2261,7 @@
                      this world which <del>is called</del>
                      <add rendition="pencil">they call</add>
                      <w xml:lang="gr">κόбмοѕ</w>
-                     <add rendition="pencil">or beauty</add>
+                     <add rendition="pencil">or beauty</add>.   
                   </rdg>
                   <rdg wit="#wc_0b">and cowered, suddenly resume their several characters,
                         <del>looked</del>
@@ -2274,23 +2274,27 @@
                      brighter <del>more green</del>
                      <add>greener</add>, &amp; more <del>alive and</del> erect <add>and alive</add>,
                      as if effectually cleansed and restored by the rain</rdg>
-               </app> I knew that it would not rain any more. You may tell by looking at any twig of
-               the forest, <app xml:id="walc17-app-0233">
-                  <lem wit="#wc_base">ay, at your very</lem>
-                  <rdg wit="#wc_0a">aye, by looking at your </rdg>
-                  <rdg wit="#wc_0b">aye, by looking at your <add rendition="pencil">very</add>
+               </app> 
+               <app xml:id="walc17-app-0233">
+                  <lem wit="#wc_base">I knew that it would not rain any more. </lem>
+                  <rdg wit="#wc_0a">I knew that it would not rain any more. </rdg>
+                  <rdg wit="#wc_0b">I <del>knew</del> <add rendition="pencil">know</add> that it <del>would</del> <add rendition="pencil">will </add> not rain any more.</rdg>
+                  <rdg wit="#wc_0e">I knew that it would not rain any more. </rdg> 
+               </app>
+               
+               <app xml:id="walc17-app-0234">
+                  <lem wit="#wc_base">You may tell by looking at any twig of the forest, ay, at your very wood-pile, whether its winter is past or not.</lem>
+                  <rdg wit="#wc_0a"><add rendition="pencil">You may tell by looking at any twig of the forest aye, by looking at your wood pile whether its winter is past or not.</add>   </rdg>
+                  <rdg wit="#wc_0b">You may tell by looking at any twig of the forest, aye by looking at your <add rendition="pencil">very</add> wood-pile, whether its winter is past or not. <add rendition="pencil">So opened the spring of 1846</add>
                   </rdg>
-                  <rdg wit="#wc_0e">aye, <del>by looking</del> at your very</rdg>
-               </app> wood-pile, whether its winter is past or <app xml:id="walc17-app-0234">
-                  <lem wit="#wc_base">not.</lem>
-                  <rdg wit="#wc_0b">not. <add rendition="pencil">So opened the spring of 1846</add>
-                  </rdg>
+                  <rdg wit="#wc_0e">You may tell by looking at any twig of the forest, aye, <del>by looking</del> at your very wood pile, whether its winter is past or not. </rdg>
                </app> As it grew darker, I was startled by the 
                <app xml:id="walc17-app-0235">
-                  <lem wit="#wc_base"><hi rend="style(italics)">honking</hi></lem>
-                  <rdg wit="#wc_0a #wc_0b">clank</rdg>
-               </app>
-               <hi rend="style(italic)"/> of geese flying low over the woods, like weary travellers
+                  <lem wit="#wc_base"><hi rend="style(italics)">honking</hi> of geese flying low over the woods, like weary travellers</lem>
+                  <rdg wit="#wc_0a">clank of geese fly<add rendition="pencil">ing</add> low over the woods – like weary travellers</rdg>
+                  <rdg wit="#wc_0b">clank of geese flying low over the woods like weary travellers</rdg>
+                  <rdg wit="#wc_0e"><hi rend="style(underline)">honking</hi> of geese flying low over the woods like weary travellers, </rdg>
+               </app> 
                   <app xml:id="walc17-app-0236">
                   <lem wit="#wc_base">getting in late</lem>
                   <rdg wit="#wc_0a #wc_0b">late getting in </rdg>
@@ -2299,20 +2303,21 @@
                   </rdg>
                </app> from southern lakes, and indulging at last in unrestrained complaint and
                mutual <app xml:id="walc17-app-0237">
-                  <lem wit="#wc_base">consolation. Standing at my</lem>
-                  <rdg wit="#wc_0a">consolations. As I stood at the </rdg>
+                  <lem wit="#wc_base">consolation. Standing at my door, </lem>
+                  <rdg wit="#wc_0a">consolations. As I stood at the door </rdg>
                   <rdg wit="#wc_0b">consolations. As I stood at <del>the</del>
-                     <add rendition="pencil">my</add>
+                     <add rendition="pencil">my</add> door 
                   </rdg>
                   <rdg wit="#wc_0e">consolation. <del>As I stood</del>
-                     <add>Standing</add> at my</rdg>
-               </app> door, I could hear the rush of their wings; <app xml:id="walc17-app-0238">
-                  <lem wit="#wc_base">when,</lem>
-                  <rdg wit="#wc_0a">as </rdg>
-                  <rdg wit="#wc_0b">
+                     <add>Standing</add> at my door </rdg>
+               </app> I could hear the rush of their <app xml:id="walc17-app-0238">
+                  <lem wit="#wc_base">wings; when,</lem>
+                  <rdg wit="#wc_0a">wings as </rdg>
+                  <rdg wit="#wc_0b"> wings
                      <del>as</del>
                      <add rendition="pencil">when</add>
                   </rdg>
+                  <rdg wit="#wc_0e">wings, when, </rdg>
                </app> driving toward my house, they suddenly spied my light, and with hushed clamor
                wheeled and settled in the pond. <app xml:id="walc17-app-0239">
                   <lem wit="#wc_base">So I came in, and shut the door, and passed my first spring
@@ -2320,7 +2325,7 @@
                   <rdg wit="#wc_0a #wc_0b"><!--[not in ms.]-->
                   </rdg>
                   <rdg wit="#wc_0e">
-                     <add>So I came in, and shut the door, and passed my first spring night in the
+                     <add>So I came in &amp; and shut the door &amp; passed my first spring night in the
                         woods</add>.</rdg>
                </app>
             </p>
