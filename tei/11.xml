@@ -178,7 +178,7 @@
                       <rdg wit="#wc_0e">The novelty and adventure that are in fishing <del>recommend</del><add rendition="pencil">recommended</add> it to me. I love sometimes to take rank hold on life and spend my day more as the animals do. Perhaps I have owed to this employment and to hunting, my closest acquaintance with Nature. </rdg>
                       <rdg wit="#wc_0f">The <del>novelty</del><add rendition="pencil">wildness</add> and adventure that are in fishing <add rendition="pencil">still</add> recommended it to me. I love sometimes to take rank hold on life and spend my day more as the animals do. Perhaps I have owed to this employment and to hunting, <add rendition="pencil">when quite young</add>, my closest acquaintance with Nature.</rdg>
                    </app>
-                  <!-- app xml:id="walc_0010" through app xml:id="walc_0012" removed  -->
+                  <!-- app xml:id="walc_0010" through app xml:id="walc_0012" relocated to seg 1d -->
                </seg> 
                
                <seg n="1c" change="#wc_0a">
@@ -245,26 +245,52 @@
                      </ab>
                      <ab change="#wc_0a">Higher Laws 1d follows Higher Laws 3b and precedes
                      Higher Laws 3d.</ab>
-                     <ab change="#wc_0a">Higher Laws 1d appears as follows. But the ramble by
-                     the river and meadow <del>seems to be</del>
-                        <add rendition="pencil">is otherwise</add> incomplete, and <del>to want</del>
-                        <add rendition="pencil">wants</add> a sufficient <del>aim for itself without this</del> purpose.
-                     The traveller of the prairie is a hunter—of the head-waters of the Missouri &amp; Columbia—a
-                     trapper. Those who go to the Falls of St. Mary are fishermen. The traveller who is only a traveller
-                     learns things by the halves, and at 2<hi rend="style(superscript)">nd</hi> hand—and is poor
-                     authority.</ab>
                   </note>
-                  
-                   The traveller on the prairie is naturally a hunter, on the head waters of the
-                  Missouri and Columbia a trapper, and at the Falls of St. Mary<anchor type="hn" xml:id="hn-11-005"/> a fisherman.<app xml:id="walc11-app-0013">
+                  The traveller 
+                  <app xml:id="walc11-app-0010">
+                     <lem>on</lem>
+                     <rdg wit="#wc_0a">of</rdg>
+                     <rdg wit="#wc_0e">on</rdg>
+                     <rdg wit="#wc_0f">on</rdg>
+                  </app>
+                  the prairie is 
+                  <app xml:id="walc11-app-0011">
+                     <lem>naturally a hunter, </lem>
+                     <rdg wit="#wc_0a">a hunter – </rdg>
+                     <rdg wit="#wc_0e #wc_0f">naturally a hunter, </rdg>
+                  </app>
+                  <app xml:id="walc11-app-0012">
+                     <lem>on the head waters of the Missouri and Columbia a trapper, </lem>
+                     <rdg wit="#wc_0a">of the head-waters of the Missouri &amp; Columbia – a trapper. </rdg>
+                     <rdg wit="#wc_0e">on the head waters of the Missouri and Columbia perhaps a trapper,</rdg>
+                     <rdg wit="#wc_0f">on the head waters of the Missouri and Columbia <del>perhaps</del> a trapper, </rdg>
+                  </app>
+                  <app xml:id="walc11-app-12a">
+                     <lem>and at the Falls of St. Mary<anchor type="hn" xml:id="hn-11-005"/> a fisherman. </lem>
+                     <rdg wit="#wc_0a">Those who go to the Falls of St. Mary are fishermen. </rdg>
+                     <rdg wit="#wc_0e #wc_0f"> and at the Falls of St. Mary a fisherman.</rdg>
+                  </app>
+                  <app xml:id="walc11-app-0013">
                      <lem>He</lem>
+                     <rdg wit="#wc_0a">But the ramble by
+                        the river and meadow <del>seems to be</del>
+                        <add rendition="pencil">is otherwise</add> incomplete, and <del>to</del> want<add rendition="pencil">s</add> a sufficient <add rendition="pencil">purpose</add> <del>aim for itself without this purpose</del>.
+                        The traveller </rdg>
                      <rdg wit="#wc_0e">The ramble by the river and meadow seemed sometimes incomplete, and without a
                         sufficient purpose, if I did not carry a fish-pole,—<del>I sold my gun long before I went to the
                            woods.</del> The traveller </rdg>
                      <rdg wit="#wc_0f">The ramble by the river and meadow <add>might have</add> seemed sometimes
                         incomplete, and without a sufficient purpose, if I <del>did not carry</del>
                         <add>had not carried</add> a fish-pole. The traveller</rdg>
-                  </app> who is only a traveller learns things at second-hand and by the halves, and is poor authority.<app xml:id="walc11-app-0014">
+                  </app> 
+                  <app xml:id="walc11-app-0013a">
+                     <lem>who is only a traveller learns things at second-hand and by the halves, and is poor authority.</lem>
+                     <rdg wit="#wc_0a"> who is only a traveller
+                        learns things by the halves, and at 2nd hand—and is poor
+                        authority.</rdg>
+                     <rdg wit="#wc_0e #wc_0f">who is only a traveller learns things by the halves, and at second hand, and is poor authority.</rdg>
+                  </app>
+                  <app xml:id="walc11-app-0014">
                      <lem> We are most interested when science reports what those men already know practically or
                         instinctively, for that alone is a true <hi rend="style(italics)">humanity</hi>, or account of human experience. </lem>
                      <rdg wit="#wc_0e"><!--[not in ms.]-->
@@ -678,20 +704,26 @@
                      <seg type="written">A</seg>
                      <seg type="rewritten">E, G</seg>
                   </ab>
-               </note> I have found repeatedly, of late years, that I cannot fish without falling a little
-                  in self-respect. I have tried it again and again. I have skill at it, and, <app xml:id="walc11-app-0047">
-                     <lem>like many of my fellows,</lem>
-                     <rdg wit="#wc_0e">as I have said </rdg>
+                     <ab change="#wc_0a">5a follows a missing leaf.</ab>
+               </note> <app xml:id="walc11-app-0047"> 
+                     <lem>I have found repeatedly, of late years, that I cannot fish without falling a little
+                  in self-respect. I have tried it again and again. I have skill at it, and, like many of my fellows,</lem>
+                  <rdg wit="#wc_0a"> </rdg>
+                  <rdg wit="#wc_0e">I have found repeatedly, of late years, that I cannot fish without falling a little
+                     in self-respect. I have tried it again and again. I have skill at it, and, as I have said like many of my fellows,</rdg>
                      <rdg wit="#wc_0g">
-                        <del>as I have said</del>
-                        <add>like many of my fellows</add>
+                        I have found repeatedly, of late years, that I cannot fish without falling a little
+                        in self-respect. I have tried it again and again. I have skill at it, and, <del>as I have said</del> <add>like many of my fellows</add>
                      </rdg>
-                  </app> a certain instinct for it, which revives from time to time, but always when I have done I feel
-                  that it would have been better if I had not fished. I think <app xml:id="walc11-app-0048">
-                     <lem>that I do not mistake.</lem>
-                     <rdg wit="#wc_0e">I am not mistaken </rdg>
-                     <rdg wit="#wc_0g">that I <del>am not mistaken</del>
-                        <add>do not mistake</add>
+                  </app> <app xml:id="walc11-app-0048"> 
+                     <lem>a certain instinct for it, which revives from time to time, but always when I have done I feel
+                        that it would have been better if I had not fished. I think that I do not mistake.</lem>
+                     <rdg wit="#wc_0a">revives from time to time, but always when I have done I feel that it would have been better if I had not fished. I think I am not mistaken.</rdg>
+                     <rdg wit="#wc_0e">a certain instinct for it, which revives from time to time, but always when I have done I feel
+                        that it would have been better if I had not fished. I think I am not mistaken </rdg>
+                     <rdg wit="#wc_0g">a certain instinct for it, which revives from time to time, but always when I have done I feel
+                        that it would have been better if I had not fished. I think that I <del>am not mistaken</del>
+                        <add>do not mistake</add>.
                      </rdg>
                   </app> It is a faint intimation, yet so are the first streaks of morning.</seg>
                
@@ -716,10 +748,7 @@
                      year I am less a fisherman, though without more humanity <add rendition="pencil"> or even
                         wisdom</add>. When I have caught my fish &amp; cooked them, I have gained nothing by it, but
                      perhaps lost</ab>
-                  </note>
-                  
-                  
-                  
+                  </note>                  
                    There is unquestionably this instinct in me which belongs to the lower orders
                   of creation; yet with every year I am less a fisherman, though without more humanity or even wisdom; <app xml:id="walc11-app-0049">
                      <lem>at present</lem>
