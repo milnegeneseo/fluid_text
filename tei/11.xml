@@ -414,7 +414,8 @@
                   <lem>
                      Moreover, when at the pond, I wished sometimes to add fish to my fare for variety. I have actually fished from the same kind of necessity that the first fishers did. 
                   </lem>
-                     <rdg wit="#wc_0a">—and occasionally, though not so often, because I wish to add fish to my fare for variety–I actually fish sometimes <del>as naturally–and</del> from the same kind of necessity–as the first fishermen did. Moreover, when at the pond, I wished sometimes to add fish to my fare for variety. I have actually fished from the same kind of necessity that the first fishers did.</rdg>
+                     <rdg wit="#wc_0a">—and occasionally, though not so often, because I wish to add fish to my fare for variety–I actually fish sometimes <del>as naturally–and</del> from the same kind of necessity–as the first fishermen did. </rdg>
+                     <rdg wit="#wc_0e">Moreover, I wished sometimes to add fish to my fare for variety. I have actually fished from the same kind of necessity that the first fishers did. </rdg>
                </app>   
                    </seg>
                <seg n="3b" change="#wc_0a">
@@ -1041,13 +1042,15 @@
                </app> can say that the consequences were to be regretted, for these were a life in conformity to higher
                principles. If the day and the night are such that you greet them with joy, and life emits a fragrance
                like flowers and sweet-scented herbs, <app xml:id="walc11-app-0082">
-                  <lem>is more</lem>
+                  <lem>is more elastic, </lem>
                   <rdg wit="#wc_0a"><!--[not in ms.]--></rdg>
-               </app> elastic, more starry, more immortal,— that is your success. All nature is your congratulation, and
+                  <rdg wit="#wc_0e">is more elastic, </rdg>
+               </app> more starry, more immortal,— that is your success. All nature is your congratulation, and
                you have cause momentarily to bless yourself. The greatest gains and values are farthest from being
                appreciated. We<app xml:id="walc11-app-0083">
                   <lem>easily</lem>
                   <rdg wit="#wc_0a">can easily</rdg>
+                  <rdg wit="#wc_0e">easily</rdg>
                </app> come to doubt if they exist. We soon forget them. They are the highest reality. <app xml:id="walc11-app-0084">
                   <lem>Perhaps</lem>
                   <rdg wit="#wc_0a"><!--[not in ms.]-->
@@ -1060,11 +1063,13 @@
                little star-dust caught, <app xml:id="walc11-app-0085">
                   <lem>a segment</lem>
                   <rdg wit="#wc_0a">It is a segment</rdg>
+                  <rdg wit="#wc_0e">a segment</rdg>
                </app> of the rainbow which I have<app xml:id="walc11-app-0086">
                   <lem>clutched.</lem>
                   <rdg wit="#wc_0a">
-                     <add>clutched</add> But practically I am <del>but</del>
-                     <add rendition="pencil">only</add> half-converted by my own arguments for I still fish</rdg>
+                     <add>clutched</add>. But practically I am <del>but</del>
+                     <add rendition="pencil">only</add> half-converted by my own arguments for I still fish.</rdg>
+                  <rdg wit="#wc_0e">clutched.</rdg>
                </app>
             </p>
             
@@ -1597,18 +1602,20 @@
                   <rdg wit="#wc_0d">
                      <add>In earlier ages, every function was reverently spoken of and regulated by
                         law</add>.</rdg>
+                  <rdg wit="#wc_0e">In earlier ages, in some countries, every function was reverently spoken of and regulated by law. </rdg>
                </app> Nothing<app xml:id="walc11-app-0146">
                   <lem>was</lem>
                   <rdg wit="#wc_0d">
                      <del>is</del>
                      <add rendition="pencil">was</add>
                   </rdg>
+                  <rdg wit="#wc_0e">was </rdg>
                </app> too trivial <app xml:id="walc11-app-0147">
                   <lem>for the Hindoo lawgiver, however offensive it may be to modern taste.</lem>
                   <rdg wit="#wc_0d">or offensive to modern taste for the Hindoo lawgiver </rdg>
                   <rdg wit="#wc_0e">
                      <del>or</del>
-                     <add rendition="pencil">however</add> offensive to modern taste for the Hindoo lawgiver </rdg>
+                     <add rendition="pencil">however</add> offensive to modern taste for the Hindoo lawgiver. </rdg>
                   <rdg wit="#wc_0g">
                      <del>however offensive to modern taste</del> for the Hindoo lawgiver <add>however
                         offensive it may be to modern taste</add>
@@ -1639,20 +1646,28 @@
                      sensuality to imbrute them</quote> does not appear in the manuscript in E or in the original
                   copying of G but is interlined in pencil in G.</ab>
                </note>
-               
-                Every man is the builder of a temple, called his
-               body, to the god he worships,<anchor type="hn" xml:id="hn-11-037"/> after a<app xml:id="walc11-app-0149">
+               <app xml:id="walc11-app-0148a">
+                  <lem>Every man is the builder of a temple, called his body, to the god he worships, <anchor type="hn" xml:id="hn-11-037"/> after a style purely his own, nor can he get off by hammering marble instead. </lem>
+                  <rdg wit="#wc_0e"><add>Every man is the builder of a temple, called his body to the god he worships, after a style, neither Egyptian nor Grecian, nor Gothic – but purely his own – nor can he get off by hammering marble instead. </add></rdg>
+                  <rdg wit="#wc_0g">Every man is the builder of a temple, called his body, to the god he worships, after a style <del>, neither Egyptian, nor Grecian, nor Gothic, but</del> purely his own, nor can he get off by hammering marble instead. </rdg>
+               </app>
+                <!-- Every man is the builder of a temple, called his
+               body, to the god he worships, after a<app xml:id="walc11-app-0149">
                   <lem>style</lem>
                   <rdg wit="#wc_0e">style, neither Egyptian nor Grecian, nor Gothic—but </rdg>
                   <rdg wit="#wc_0g">style <del>, neither Egyptian, nor Grecian, nor Gothic, but</del>
                   </rdg>
-               </app> purely his own, nor can he get off by hammering marble instead.<app xml:id="walc11-app-0150">
-                  <lem>We</lem>
+               </app> purely his own, nor can he get off by hammering marble instead.-->
+               <app xml:id="walc11-app-0150">
+                  <lem>We are all sculptors and painters, and our material is our own flesh and blood and bones. Any
+                     nobleness begins at once to refine a man’s features, any meanness or sensuality to imbrute them.</lem>
+                  <rdg wit="#wc_0e"> <!-- [not is ms.] --></rdg>
                   <rdg wit="#wc_0g">
                      <del>Who can doubt the influence of the character on the bodily features?</del>
-                     We</rdg>
-               </app> are all sculptors and painters, and our material is our own flesh and blood and bones. Any
-               nobleness begins at once to refine a man’s features, any meanness or sensuality to imbrute them. </p>
+                     We are all sculptors and painters, and our material is our own flesh and blood and bones. Any
+                     nobleness begins at once to refine a man’s features, any meanness or sensuality to imbrute them.</rdg>
+               </app>
+            </p>
             
             <p n="15" change="#wc_0d">
                <note type="header" resp="#clapper">
@@ -1725,10 +1740,12 @@
                   <rdg wit="#wc_0d">
                      <add rendition="pencil">Still</add>
                   </rdg>
+                  <rdg wit="#wc_0e">Still</rdg>
                </app> he thought of his <app xml:id="walc11-app-0158">
                   <lem>work;</lem>
                   <rdg wit="#wc_0d">work <del>at first</del>
                   </rdg>
+                  <rdg wit="#wc_0e">work, </rdg>
                </app>
                <app xml:id="walc11-app-0159">
                   <lem>but the burden of his thought was,</lem>
@@ -1752,9 +1769,10 @@
                      <del>how little</del> it concerned him <add rendition="pencil">very
                      little</add>
                   </rdg>
-               </app> It was no more than the scurf of his skin, which was constantly shuffled <app xml:id="walc11-app-0162">
-                  <lem>off.</lem>
-                  <rdg wit="#wc_0g">off <del>—or rather by this effort he cast his slough from time to time</del>
+               </app>  <app xml:id="walc11-app-0162">
+                  <lem>It was no more than the scurf of his skin, which was constantly shuffled off.</lem>
+                  <rdg wit="#wc_0e">It was no more than the scurf of his skin which was constantly shuffled off. </rdg>
+                  <rdg wit="#wc_0g">It was no more than the scurf of his skin, which was constantly shuffled off <del>—or rather by this effort he cast his slough from time to time</del>
                   </rdg>
                </app> But the notes of the flute came home to his ears out of a different sphere from that he worked in, <app xml:id="walc11-app-0163">
                   <lem>and</lem>
