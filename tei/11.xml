@@ -108,6 +108,7 @@
                      <rdg wit="#wc_0e">
                         <add rendition="pencil">not that I was hungry but for that wildness which he
                            represented</add>.</rdg>
+                     <rdg wit="#wc_0f">not that I was hungry except for that wildness which he represented.</rdg>
                   </app>
                   <anchor type="hn" xml:id="hn-11-003"/>
                   <app xml:id="walc11-app-0004">
@@ -155,6 +156,7 @@
                      <rdg wit="#wc_0e">both. <del>Some would say that the one impulse was directly from God, the other
                            through nature</del>
                      </rdg>
+                     <rdg wit="#wc_0f">both.</rdg>
                   </app> I love the wild not less than the good. </seg>
                
                <seg n="1b" change="#wc_0a">
@@ -590,25 +592,26 @@
                   </app>
                </seg>
                
-               <seg n="3f" change="#wc_0a">
+               <seg n="3f" change="#wc_0g">
                   <note type="header" resp="#clapper">
-                     <ab type="string">Higher Laws 3f written: A; rewritten: E.</ab>
+                     <ab type="string">Higher Laws 3f written: G.</ab>
                      <ab type="parsed">
                         <seg type="chapterNum">11</seg>
                         <seg type="chapterTitle">Higher Laws</seg>
                         <seg type="paragraph">3f</seg>
-                        <seg type="written">A</seg>
-                        <seg type="rewritten">E</seg>
+                        <seg type="written">G</seg>  
                      </ab>
-                     <ab change="#wc_0g">Higher Laws 3f is interlined.</ab>
+                     <ab change="#wc_0g" resp="#witherell"><quote>I warn you . . . distinctions.</quote> written vertically in right margin.</ab>
                   </note>
-                   No humane
-                  being, past the thoughtless age of boyhood, will wantonly murder any creature, which holds its life by
-                  the same tenure that he does. The hare in its extremity cries like a child. I warn you, mothers, that
-                  my sympathies do not always make the usual phil-<hi rend="style(italics)">anthropic</hi> distinctions.<anchor type="hn" xml:id="hn-11-012"/>
+                  <app xml:id="walc11-app-0036a">
+                     <lem>No humane
+                        being, past the thoughtless age of boyhood, will wantonly murder any creature, which holds its life by
+                        the same tenure that he does. The hare in its extremity cries like a child. I warn you, mothers, that
+                        my sympathies do not always make the usual phil-<hi rend="style(italics)">anthropic</hi> distinctions.<anchor type="hn" xml:id="hn-11-012"/></lem>
+                     <rdg wit="#wc_0g"><del><add>Of course, no humane being past the thoughtless age of boyhood, will wantonly murder any innocent creature, which holds its life by the same tenure as he does. The hare in its extremity cries like a child. I warn you Mothers, that my sympathies do not always make the usual phil-<hi rend="style(underline)">anthropic</hi> distinctions.</add></del></rdg>
+                  </app>
                </seg>
             </p>
-            
             <p n="4" change="#wc_0f">
                <note type="header" resp="#clapper">
                   <ab type="string">Higher Laws 4 written: F; rewritten: G.</ab>
@@ -679,7 +682,7 @@
                   <lem>used</lem>
                   <rdg wit="#wc_0f">used <del>in fishing</del>
                   </rdg>
-               </app> there;<anchor type="hn" xml:id="hn-11-015"/> but they know nothing about the book of hooks with which to angle for the
+               </app> there;<anchor type="hn" xml:id="hn-11-015"/> but they know nothing about the hook of hooks with which to angle for the
                pond itself, impaling the legislature for a bait. Thus, even in civilized <app xml:id="walc11-app-0046">
                   <lem>communities,</lem>
                   <rdg wit="#wc_0f">society </rdg>
@@ -746,11 +749,12 @@
                      perhaps lost</ab>
                   </note>                  
                    There is unquestionably this instinct in me which belongs to the lower orders
-                  of creation; yet with every year I am less a fisherman, though without more humanity or even wisdom<app xml:id="walc11-app-0049">
-                     <lem>; at present</lem>
-                     <rdg wit="#wc_0a">. </rdg>
-                     <rdg wit="#wc_e1">; in fact, at present </rdg>
-                     <rdg wit="#wc_0g">; <del>in fact,</del> at present </rdg>
+                  of creation; yet with every year I am less a fisherman, though without more humanity
+                  <app xml:id="walc11-app-0049">
+                     <lem> or even wisdom; at present</lem>
+                     <rdg wit="#wc_0a"><add rendition="pencil"> or even wisdom</add>. </rdg>
+                     <rdg wit="#wc_e1"> or even wisdom. In fact, at present </rdg>
+                     <rdg wit="#wc_0g"> or even wisdom; <del>in fact,</del> at present </rdg>
                   </app> <app xml:id="walc11-app-0050">
                      <lem>I am no fisherman at all. But I see that if I were to live in a wilderness I should again be tempted to become a fisher
                         and hunter in earnest.</lem>
@@ -758,6 +762,7 @@
                      <rdg wit="#wc_e1">I am no fisherman at all. <del>though</del>
                         <add>but</add> I see that if I were to live in a wilderness I should again be tempted to <del>be
                            a fisherman</del> <add>become a fisher</add> and hunter in earnest.</rdg>
+                     <rdg wit="#wc_0g">I am no fisherman at all<del>,</del><add rendition="pencil">. But &amp;c</add></rdg>
                   </app>
                   <app xml:id="walc11-app-0051">
                      <lem>Beside, there</lem>
@@ -1293,12 +1298,15 @@
                         appetite, in spite of the <del>spirit</del>
                         <add rendition="pencil">intellect</add>. It would seem as if I might withdraw from it, but
                         could</rdg>
+                     <rdg wit="#wc_0g">Possibly, we may withdraw from it, but</rdg>
                   </app> never change its nature. I fear that it<app xml:id="walc11-app-0112">
                      <lem>may</lem>
                      <rdg wit="#wc_0e">may even</rdg>
+                     <rdg wit="#wc_0g">may</rdg>
                   </app> enjoy a certain health of its own; that we may be well, yet not pure. <app xml:id="walc11-app-0113">
                      <lem>The other day I picked up</lem>
                      <rdg wit="#wc_0e">I picked up the other day</rdg>
+                     <rdg wit="#wc_0g">The other day I picked up</rdg>
                   </app> the lower jaw of a hog,<anchor type="hn" xml:id="hn-11-029"/> with white and sound teeth and tusks, which suggested
                   that there was an animal health and vigor distinct from the <app xml:id="walc11-app-0114">
                      <lem>spiritual.</lem>
@@ -1314,15 +1322,19 @@
                            <del>Methinks I can be chaste in my relation to persons, and yet I do not find myself
                            clean.</del> I have <add rendition="pencil">frequent</add> cause to be ashamed of myself. I
                         am well, but I am not pure. What other sort of life would result if I were I cannot say</rdg>
+                     <rdg wit="#wc_0g">Who knows what sort of life would result if we had attained to purity?</rdg>
                   </app> If I knew so wise a man as could teach me purity I would go to seek him forthwith. “A command
                   over our passions, and over the external senses of the body, and good acts, are declared by the
                      Ved<anchor type="hn" xml:id="hn-11-031"/> to be indispensable in the mind’s approximation
                   to God.” <app xml:id="walc11-app-0116">
                      <lem>Yet the spirit can for the time</lem>
                      <rdg wit="#wc_0e">Yet I have experienced that the spirit can</rdg>
-                  </app> pervade and control every member and function of the body, and transmute what in form<app xml:id="walc11-app-0117">
+                     <rdg wit="#wc_0g">Yet the spirit can<add rendition="pencil">,</add> for the time<add rendition="pencil">,</add></rdg>
+                  </app> pervade and control every member and function of the body, and transmute what in form
+                  <app xml:id="walc11-app-0117">
                      <lem>is the</lem>
                      <rdg wit="#wc_0e">may be the lowest and</rdg>
+                     <rdg wit="#wc_0g">is the</rdg>
                   </app> grossest sensuality into</seg>
                
                <seg n="11b" change="#wc_0d">
@@ -1346,6 +1358,7 @@
                   <app xml:id="walc11-app-0118">
                      <lem>purity</lem>
                      <rdg wit="#wc_0d #wc_0e">inspiration</rdg>
+                     <rdg wit="#wc_0g">purity</rdg>
                   </app> and devotion.<anchor type="hn" xml:id="hn-11-032"/> The <app xml:id="walc11-app-0119">
                      <lem>generative energy,</lem>
                      <rdg wit="#wc_0d">divine liquors </rdg>
@@ -1372,6 +1385,7 @@
                         <del>and chaste, inspire and invigorate us</del>
                         <add rendition="pencil">invigorates and inspires us</add>
                      </rdg>
+                     <rdg wit="#wc_0g">when we are continent </rdg>
                   </app>
                   <app xml:id="walc11-app-0122">
                      <lem>Chastity is the flowering of man; and what are called Genius, Heroism, Holiness, and the like,
@@ -1395,6 +1409,7 @@
                         <del>as soon as the channel of purity, physical and moral</del>
                         <add>when the channel of purity</add>
                      </rdg>
+                     <rdg wit="#wc_0g">when the channel of purity</rdg>
                   </app> is open. By turns <app xml:id="walc11-app-0124">
                      <lem>our purity inspires and our impurity casts us</lem>
                      <rdg wit="#wc_0d">my purity has inspired <add>me</add> and my impurity has cast me </rdg>
@@ -1402,6 +1417,7 @@
                         <del>my purity has inspired <add>me</add> and my impurity cast me</del>
                         <add rendition="pencil">our purity inspires and our impurity casts us</add>
                      </rdg>
+                     <rdg wit="#wc_0g">our purity inspires and our impurity casts us</rdg>
                   </app> down. He is<app xml:id="walc11-app-0125">
                      <lem>blessed</lem>
                      <rdg wit="#wc_0d">a happy man </rdg>
@@ -1409,6 +1425,7 @@
                         <del>a happy man</del>
                         <add>blessed</add>
                      </rdg>
+                     <rdg wit="#wc_0g">blessed</rdg>
                   </app> who is assured that the animal is dying out in him day by day, and the <app xml:id="walc11-app-0126">
                      <lem>divine</lem>
                      <rdg wit="#wc_0d">spiritual </rdg>
@@ -1417,6 +1434,7 @@
                         </del>
                         <add rendition="pencil">divine</add>
                      </rdg>
+                     <rdg wit="#wc_0g">divine</rdg>
                   </app> being established. Perhaps there is<app xml:id="walc11-app-0127">
                      <lem>none</lem>
                      <rdg wit="#wc_0d">no man </rdg>
@@ -1427,9 +1445,11 @@
                         </del>
                         <add rendition="pencil">none</add>
                      </rdg>
+                     <rdg wit="#wc_0g">none</rdg>
                   </app> but has cause for shame on account of the inferior and brutish nature to which he is<app xml:id="walc11-app-0128">
                      <lem>allied.</lem>
                      <rdg wit="#wc_0d #wc_0e">allied, though his superior divine nature be not subjected to it</rdg>
+                     <rdg wit="#wc_0g">allied.</rdg>
                   </app>
                   <app xml:id="walc11-app-0129">
                      <lem>I fear that we</lem>
@@ -1439,6 +1459,7 @@
                            <add rendition="pencil">Perhaps</add>
                         </del>
                         <add rendition="pencil">I fear</add> We</rdg>
+                     <rdg wit="#wc_0g">I fear that we</rdg>
                   </app> are such gods or demigods only as fauns and satyrs,<anchor type="hn" xml:id="hn-11-033"/> the divine allied to beasts,
                   the creatures of <app xml:id="walc11-app-0130">
                      <lem>appetite, and that,</lem>
