@@ -1639,7 +1639,7 @@
                      <add rendition="pencil">however</add> offensive to modern taste for the Hindoo lawgiver. </rdg>
                   <rdg wit="#wc_0g">
                      <del>however offensive to modern taste</del> for the Hindoo lawgiver <add>however
-                        offensive it may be to modern taste</add>
+                        offensive</add><add rendition="pencil"> it may be </add><add>to modern taste</add>
                   </rdg>
                </app> He teaches how to eat, drink, cohabit, void excrement and urine, <app xml:id="walc11-app-0148">
                   <lem>and the like,</lem>
@@ -1647,6 +1647,7 @@
                   <rdg wit="#wc_0e">sleep, <del>&amp;c., &amp;c.</del>
                      <add rendition="pencil">and the like</add>
                   </rdg>
+                  <rdg wit="#wc_0g">and the like,</rdg>
                </app> elevating what is mean, and does not falsely excuse himself by calling these things trifles.</p>
             
             <p n="14" change="#wc_0e">
@@ -1672,21 +1673,14 @@
                   <rdg wit="#wc_0e"><add>Every man is the builder of a temple, called his body to the god he worships, after a style, neither Egyptian nor Grecian, nor Gothic – but purely his own – nor can he get off by hammering marble instead. </add></rdg>
                   <rdg wit="#wc_0g">Every man is the builder of a temple, called his body, to the god he worships, after a style <del>, neither Egyptian, nor Grecian, nor Gothic, but</del> purely his own, nor can he get off by hammering marble instead. </rdg>
                </app>
-                <!-- Every man is the builder of a temple, called his
-               body, to the god he worships, after a<app xml:id="walc11-app-0149">
-                  <lem>style</lem>
-                  <rdg wit="#wc_0e">style, neither Egyptian nor Grecian, nor Gothic—but </rdg>
-                  <rdg wit="#wc_0g">style <del>, neither Egyptian, nor Grecian, nor Gothic, but</del>
-                  </rdg>
-               </app> purely his own, nor can he get off by hammering marble instead.-->
                <app xml:id="walc11-app-0150">
                   <lem>We are all sculptors and painters, and our material is our own flesh and blood and bones. Any
                      nobleness begins at once to refine a man’s features, any meanness or sensuality to imbrute them.</lem>
                   <rdg wit="#wc_0e"> <!-- [not is ms.] --></rdg>
                   <rdg wit="#wc_0g">
-                     <del>Who can doubt the influence of the character on the bodily features?</del>
-                     We are all sculptors and painters, and our material is our own flesh and blood and bones. Any
-                     nobleness begins at once to refine a man’s features, any meanness or sensuality to imbrute them.</rdg>
+                     <del><add rendition="pencil">Who can doubt the influence of the character on the bodily features?</add></del>
+                     <add rendition="pencil">We are all sculptors and painters &amp; our material is our own flesh and blood &amp; bones. Any
+                     nobleness begins at once to refine a man’s features, any meanness or sensuality to imbrute them.</add></rdg>
                </app>
             </p>
             
