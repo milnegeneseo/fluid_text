@@ -707,7 +707,7 @@
                </note> <app xml:id="walc11-app-0047"> 
                      <lem>I have found repeatedly, of late years, that I cannot fish without falling a little
                   in self-respect. I have tried it again and again. I have skill at it, and, like many of my fellows,</lem>
-                  <rdg wit="#wc_0a"> </rdg>
+                  <rdg wit="#wc_0a"><!--[not in ms.]--> </rdg>
                   <rdg wit="#wc_0e">I have found repeatedly, of late years, that I cannot fish without falling a little
                      in self-respect. I have tried it again and again. I have skill at it, and, as I have said like many of my fellows,</rdg>
                      <rdg wit="#wc_0g">
@@ -758,7 +758,7 @@
                   </app> <app xml:id="walc11-app-0050">
                      <lem>I am no fisherman at all. But I see that if I were to live in a wilderness I should again be tempted to become a fisher
                         and hunter in earnest.</lem>
-                     <rdg wit="#wc_0a"> </rdg>
+                     <rdg wit="#wc_0a"><!--[not in ms.]--> </rdg>
                      <rdg wit="#wc_e1">I am no fisherman at all. <del>though</del>
                         <add>but</add> I see that if I were to live in a wilderness I should again be tempted to <del>be
                            a fisherman</del> <add>become a fisher</add> and hunter in earnest.</rdg>
@@ -775,20 +775,20 @@
                      <lem>is something essentially unclean about this diet and all flesh, and I began to see where
                         housework commences, and whence the endeavor, which costs so much, to wear a tidy and respectable
                         appearance each day, to keep the house sweet and free from all ill odors and sights. Having been</lem>
-                     <rdg wit="#wc_0a"> </rdg>
+                     <rdg wit="#wc_0a"><!--[not in ms.]--> </rdg>
                      <rdg wit="#wc_e1">is something essentially unclean about this diet and all flesh, and I began to see where
                         housework commences, and whence the endeavor, which costs so much, to wear a tidy and respectable
                         appearance each day, to keep the house sweet and free from all ill odors and sights. Being</rdg>
                   </app> 
                    <app xml:id="walc11-app-0053">
                       <lem>my own butcher and scullion and cook, as well as the gentleman for whom the dishes were</lem>
-                     <rdg wit="#wc_0a"> </rdg>
+                     <rdg wit="#wc_0a"><!--[not in ms.]--> </rdg>
                       <rdg wit="#wc_e1">my own butcher and scullion and cook, as well as the gentleman for whom the dishes are </rdg>
                   </app> 
                   <app xml:id="walc11-app-0054">
                      <lem>served up, I can speak from an unusually complete experience. The practical objection to animal
                         food in my case was its uncleanness;<anchor type="hn" xml:id="hn-11-016"/> and, besides,</lem>
-                     <rdg wit="#wc_0a"> </rdg>
+                     <rdg wit="#wc_0a"><!--[not in ms.]--> </rdg>
                      <rdg wit="#wc_e1">
                         served up, I can speak from an unusually complete experience. The practical objection to animal
                         food in my case was its uncleanness; <add> and, besides </add>,</rdg>
@@ -796,14 +796,14 @@
                   <app xml:id="walc11-app-0055">
                      <lem>when I had caught and cleaned and cooked and eaten my fish, they seemed not to have fed me
                         essentially. It was insignificant and unnecessary, and cost more than it came to.</lem>
-                     <rdg wit="#wc_0a"> </rdg>
+                     <rdg wit="#wc_0a"><!--[not in ms.]--> </rdg>
                      <rdg wit="#wc_e1">when I had caught and cleaned and cooked and eaten my fish, they seemed not to have fed me
                         essentially. It was insignificant and unnecessary, after all. It was always to pay too dear for your whistle.</rdg>
                   </app> <app xml:id="walc11-app-0056">
                      <lem>A little bread or a few potatoes would have done as well, with less trouble and filth. Like
                         many of my contemporaries, I had rarely for many years used animal food, or tea, or coffee, &amp;c.;
                         not so much because of any ill effects which I had traced to them,</lem>
-                     <rdg wit="#wc_0a"> </rdg>
+                     <rdg wit="#wc_0a"><!--[not in ms.]--> </rdg>
                      <rdg wit="#wc_e1">A little bread or a few potatoes would have done as well, with less trouble and filth. Like
                         many of my contemporaries, I had rarely for many years used animal food, or tea, or coffee, &amp;c.;
                         not so much because of any ill effects which I had traced to them in my own case, <del>though I had my theories on that subject</del>
@@ -812,7 +812,7 @@
                      <lem>as because they were not agreeable to my imagination. The repugnance to animal food is not the
                         effect of experience, but is an instinct. It appeared more beautiful to live low and fare hard in many
                         respects; and though I never did so, I went far enough to please my imagination. I believe that every man</lem>
-                     <rdg wit="#wc_0a"> </rdg>
+                     <rdg wit="#wc_0a"><!--[not in ms.]--> </rdg>
                      <rdg wit="#wc_e1">as because they were not agreeable to my imagination. The repugnance to animal food is not the
                         effect of experience, but is an instinct. It appeared more beautiful to live low and fare hard in many
                         respects; and though I never did so, I went far enough to please my imagination. I believe that every man since Adam, <del>and</del> including him,</rdg>
@@ -821,7 +821,7 @@
                      <lem>who has ever been earnest to preserve his higher or poetic faculties in the best condition has
                         been particularly inclined to abstain from animal food, and from much food of any kind. It is a
                         significant fact, stated</lem>
-                     <rdg wit="#wc_0a"> </rdg>
+                     <rdg wit="#wc_0a"><!--[not in ms.]--> </rdg>
                      <rdg wit="#wc_e1">who has ever been earnest to preserve his higher or poetic faculties in the best condition has
                         been particularly inclined to abstain from animal food, and from much food of any kind. It is a
                         significant fact, affirmed </rdg>
@@ -833,7 +833,7 @@
                      </rdg>
                   </app> <app xml:id="walc11-app-0059">
                      <lem>by entomologists, I find it in Kirby and Spence,</lem>
-                     <rdg wit="#wc_0a"> </rdg>
+                     <rdg wit="#wc_0a"><!--[not in ms.]--> </rdg>
                      <rdg wit="#wc_e1">by entomologists, 
                      </rdg>
                      <rdg wit="#wc_e2">
@@ -843,13 +843,13 @@
                   <app xml:id="walc11-app-0060">
                      <lem><anchor type="hn" xml:id="hn-11-017"/> that “some insects in their perfect state,
                         though furnished with organs of feeding, make no use of them; </lem>
-                     <rdg wit="#wc_0a"> </rdg>
+                     <rdg wit="#wc_0a"><!--[not in ms.]--> </rdg>
                      <rdg wit="#wc_e1"> that “some insects in their perfect state,
                         though furnished with organs of feeding, make no use of them <del>, and consume no food whatever</del>
                      </rdg>
                   </app>  <app xml:id="walc11-app-0061">
                      <lem> and they lay it</lem>
-                     <rdg wit="#wc_0a"> </rdg>
+                     <rdg wit="#wc_0a"><!--[not in ms.]--> </rdg>
                      <rdg wit="#wc_e1">
                         <del>and they say, “it may be laid</del>
                         <add rendition="pencil">lay it</add>
@@ -858,14 +858,14 @@
                   <app xml:id="walc11-app-0062">
                      <lem>down as “a general rule, that almost all insects in this state eat much less than in that of
                         larvæ. The voracious caterpillar when transformed into a butterfly,”</lem>
-                     <rdg wit="#wc_0a"> </rdg>
+                     <rdg wit="#wc_0a"><!--[not in ms.]--> </rdg>
                      <rdg wit="#wc_e1">down as “a general rule, that almost all insects in this state eat much less than in that of
                         larvæ. The voracious caterpillar when transformed into a butterfly <del>needs only a small quantity of honey</del>
                      </rdg>
                   </app>
                   <app xml:id="walc11-app-0063">
                      <lem> . . “and the gluttonous maggot when become a fly,”  content themselves</lem>
-                     <rdg wit="#wc_0a"> </rdg>
+                     <rdg wit="#wc_0a"><!--[not in ms.]--> </rdg>
                      <rdg wit="#wc_e1">
                         . . “and the gluttonous maggot when become a fly,” <del>contents itself</del>
                         <add rendition="pencil">content themselves</add>
@@ -873,7 +873,7 @@
                   </app> 
                   <app xml:id="walc11-app-0064">
                      <lem> with a drop or two of honey or some other</lem>
-                     <rdg wit="#wc_0a"> </rdg>
+                     <rdg wit="#wc_0a"><!--[not in ms.]--> </rdg>
                      <rdg wit="#wc_e1">
                         with a drop or two of <del>any</del>
                         <add rendition="pencil">honey or some other</add>
@@ -883,7 +883,7 @@
                         which tempts his insectivorous fate. The gross feeder is a man in the larva state; and there are
                         whole nations in that condition, nations without fancy or imagination, whose vast abdomens
                         betray them.</lem>
-                     <rdg wit="#wc_0a"> </rdg>
+                     <rdg wit="#wc_0a"><!--[not in ms.]--> </rdg>
                      <rdg wit="#wc_e1">sweet liquid. The gross feeder is a man in the larva state, and there are whole nations in that
                         condition. The abdomen of the butterfly still represents it </rdg>
                      <rdg wit="#wc_e2"> sweet liquid.
