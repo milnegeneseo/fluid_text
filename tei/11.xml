@@ -844,15 +844,13 @@
                      <lem><anchor type="hn" xml:id="hn-11-017"/> that “some insects in their perfect state,
                         though furnished with organs of feeding, make no use of them; </lem>
                      <rdg wit="#wc_0a"><!--[not in ms.]--> </rdg>
-                     <rdg wit="#wc_e1"> that “some insects in their perfect state,
+                     <rdg wit="#wc_e1"> that “some insects in their <hi rend="style(underline)">perfect</hi> state,
                         though furnished with organs of feeding, make no use of them <del>, and consume no food whatever</del>
                      </rdg>
                   </app>  <app xml:id="walc11-app-0061">
                      <lem> and they lay it</lem>
                      <rdg wit="#wc_0a"><!--[not in ms.]--> </rdg>
-                     <rdg wit="#wc_e1">
-                        <del>and they say, “it may be laid</del>
-                        <add rendition="pencil">lay it</add>
+                     <rdg wit="#wc_e1"> and they <del>say, “it may be laid</del> <add rendition="pencil">lay it </add>
                      </rdg>
                   </app>  
                   <app xml:id="walc11-app-0062">
