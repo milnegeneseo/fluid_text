@@ -1553,8 +1553,9 @@
                   </rdg>
                </app> When the reptile is attacked at one mouth of his burrow, he shows himself at<app xml:id="walc11-app-0135">
                   <lem>another.</lem>
-                  <rdg wit="#wc_0d #wc_e1">another. It is therefore vain to watch, or to pour water to drown him out at
-                     one alone, when he may be far out in the clover field by another</rdg>
+                  <rdg wit="#wc_0d">another. It is therefore vain to watch <del>at one alone</del>, <del>when</del> <add>or to</add> pour in water to drown him out at
+                     one alone, when he may be far out in the clover-field by another.</rdg>
+                  <rdg wit="#wc_e1">another. It is therefore vain to watch, or to pour in water to drown him out at one alone, when he may be far out in the clover-field by another. </rdg>
                </app> If you would be chaste, you must be temperate. What is chastity? How shall a man know if he is
                chaste? He shall not know it. We have heard of this virtue, but we know not what it is. We speak
                conformably to the rumor which we have heard. From exertion come wisdom and purity; from sloth ignorance and<app xml:id="walc11-app-0136">
@@ -1562,7 +1563,7 @@
                   <rdg wit="#wc_0d">sensuality. If you seek the warmth even of affection from a similar motive to that
                      from which cats &amp; dogs &amp; slothful persons hug the fire, you are on the downward road.
                      Better the cold affection of the sun, reflected from fields of ice &amp; snow or his warmth in some
-                     still <note type="general" subtype="inline" resp="#clapper">a leaf is missing</note>
+                     still [ ... ] <note type="general" subtype="inline" resp="#clapper">a leaf is missing</note>
                      <del>attain to. We may love and not elevate one another. The love that takes us as it finds us,
                         degrades us. What watch we must keep over the fairest &amp; finest of our affections lest there
                         be some taint about them. May we so love as never to have occasion to repent of our love</del>
